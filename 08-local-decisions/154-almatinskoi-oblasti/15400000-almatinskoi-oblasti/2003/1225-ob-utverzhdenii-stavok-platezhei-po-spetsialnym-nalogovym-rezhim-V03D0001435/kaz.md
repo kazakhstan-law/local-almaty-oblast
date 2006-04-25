@@ -30,189 +30,202 @@
 
 *хатшысы*
 
-> *Алматы облыстық мәслихатының*  
-> *2002 жылғы 25 желтоқсандағы*  
-> *N 3-15 шешiмiне*  
-> *N 1 қосымша*
+> *"Алматы облыстық Мәслихатының*  
+> *2003 жылғы 25 желтоқсандағы*  
+> *N 3-15 "Арнайы салық режимі*  
+> *бойынша төлемдер ставкасын*  
+> *бекіту туралы" шешіміне*  
+> *1 қосымша*
 
-## Қызметтi бiр күн iшiнде жүзеге асыру үшiн дүркiн-дүркiндiк сипаттағы кәсiпкерлiк қызмет түрлерi бойынша бiр жолғы талондар ставкасының құны (автомобиль көлiгiн айдап келу бойынша қызмет көрсетуден басқа)
+> *Ескерту. 1-қосымша жаңа редакцияда - Алматы облыстық Мәслихатының 2006 жылғы 25 сәуірдегі N 27-195 шешімімен.*
+
+## Қызметті бір күн ішінде жүзеге асыру үшін дүркін-дүркіндік сипаттағы кәсіпкерлік қызмет түрлері бойынша біржолғы талондар ставкасының құны (автомобиль көлігін айдап келу бойынша қызмет көрсетуден басқа)
 
 (теңгемен)
 
 <table>
 <tr>
-<td rowspan="2">Р/с</td>
-<td rowspan="2">Кәсiпкерлiк қызметтiң түрлерi</td>
-<td colspan="3">Бiр жолғы талонның күндiк құны</td>
+<td rowspan="2">№</td>
+<td rowspan="2">
+Кәсіпкерлік қызмет
+түрлері
+</td>
+<td colspan="3">Біржолғы талонның күндік құны</td>
 </tr>
 <tr>
-<td>1топ</td>
-<td>2 топ</td>
-<td>3 топ</td>
+<th>1 топ</th>
+<th>2 топ</th>
+<th>3 топ</th>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="4">Өткiзу (тұрақты орынжайларда жүзеге асырылған қызметтi қоспағанда)</td>
+<th>1</th>
+<th colspan="4">
+Өткізу (тұрақты орынжайларда
+жүзеге асырылған қызметті қоспағанда)
+</th>
 </tr>
 <tr>
-<td></td>
-<td>1. Газеттер мен журналдарды өткiзу</td>
+<td rowspan="9"></td>
+<td>1) Газеттер мен журналдарды өткізу</td>
 <td>80</td>
 <td>50</td>
 <td>30</td>
 </tr>
 <tr>
-<td></td>
-<td>2. Тұқымдарды,сондай-ақ отырғызу материалдарын (ағаш көшеттерi, көкөнiс көшеттерi) өткiзу</td>
+<td>2) Тұқымдарды, сондай-ақ отырғызу материалдарын (ағаш көшеттері, көкөніс көшеттері) өткізу</td>
 <td>120</td>
 <td>80</td>
 <td>50</td>
 </tr>
 <tr>
-<td></td>
-<td>3. Бақша дақылдарын өткiзу</td>
+<td>3) Бақша дақылдарын өткізу</td>
 <td>200</td>
 <td>150</td>
 <td>100</td>
 </tr>
 <tr>
-<td></td>
-<td>4. Саяжай мен үй жанындағы учаскелерде өсiрiлген табиғи гүлдердi өткiзу</td>
+<td>4) Саяжай мен үй жанындағы учаскелерде өсірілген табиғи гүлдерді өткізу</td>
 <td>110</td>
 <td>100</td>
 <td>60</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">5. Қосалқы ауыл шаруашылық ,бағбандық, бақшалық және саяжайлық учаскелерден алынған өнiмдердi өткiзу</td>
+<td colspan="4">5) Қосалқы ауыл шаруашылық (омарташылық), бағбандық, бақшалық және саяжайлық учаскелерден алынған өнімдерді өткізу</td>
 </tr>
 <tr>
-<td></td>
-<td>а. Қосалқы ауыл шаруашылық ,бағбандық бақшалық, омарташылық</td>
+<td>қосалқы ауыл шаруашылық (омарташылық), бағбандық, бақшалық,</td>
 <td>120</td>
 <td>90</td>
 <td>60</td>
 </tr>
 <tr>
-<td></td>
-<td>ә. Саяжай учаскелерi мен үй жанындағы учаскелер (көкөнiс, жемiс, жидек т.б.)</td>
+<td>саяжай учаскелерінен</td>
 <td>90</td>
 <td>70</td>
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="4">Автомобиль көлiгiн айдап келу бойынша көрсетiлген қызмет (бiр бiрлiк үшiн)</td>
+<td>6) Жануарлар мен құстарға арналған дайын жемшөпті өткізу</td>
+<td>70</td>
+<td>60</td>
+<td>50</td>
 </tr>
 <tr>
-<td></td>
-<td>а. қиыр шет елдерден</td>
-<td>3000</td>
-<td>2500</td>
-<td>2000</td>
+<td>7) Сыпырғылар, сыпыртқылар, орман жидектерін, бал, саңырауқұлақтар және балықтарды өткізу</td>
+<td>70</td>
+<td>60</td>
+<td>50</td>
 </tr>
 <tr>
-<td></td>
-<td>ә. Таяу шет елдерден</td>
+<th rowspan="3">2</th>
+<th colspan="4">Механикалық көлік құралдары мен тіркемелерді алып өткізу (бір автокөлік үшін)</th>
+</tr>
+<tr>
+<td>Таяу шет елдерден</td>
 <td>1500</td>
 <td>1300</td>
 <td>1000</td>
 </tr>
 <tr>
+<td>Қиыр шет елдерден</td>
+<td>3000</td>
+<td>2500</td>
+<td>2000</td>
+</tr>
+<tr>
 <td>3</td>
-<td>Жер учаскелерiн өңдеу және егiн жинаушы жеке тракторлардың иелерi көрсететiн қызметтер (тракторлар, комбайндар, пiшен шабатын машина және т.б.)</td>
+<td>Жер учаскелерін өңдейтін жеке тракторлардың (комбайндар, пішен шабатын машина) иелері көрсететін қызметтер (комбайндар, пішен шабатын машина)</td>
 <td>220</td>
 <td>220</td>
 <td>220</td>
 </tr>
 <tr>
-<td>4</td>
-<td colspan="4">
-Жеке жеңiл (маршруттық таксилерден басқа) және жүк автомобильдерi иелерi көрсететiн жолаушылар мен жүк
-(лицензияларды қоспағанда) тасымалдау қызметi
-</td>
+<th rowspan="5">4</th>
+<th colspan="4">Жеке жеңіл және жүк автокөлік иелері көрсететін жолаушылар мен жүк (лицензияларды қоспағанда) тасымалдау қызметі</th>
 </tr>
 <tr>
-<td></td>
-<td>а. қалааралық</td>
+<td>қалааралық</td>
 <td>300</td>
 <td>250</td>
 <td>200</td>
 </tr>
 <tr>
-<td></td>
-<td>ә. аудандық</td>
+<td>аудандық</td>
 <td>150</td>
 <td>120</td>
 <td>80</td>
 </tr>
 <tr>
-<td></td>
-<td>б. қалаiшiлiк</td>
+<td>қала ішінде</td>
 <td>200</td>
 <td>150</td>
 <td>100</td>
 </tr>
 <tr>
-<td></td>
-<td>в. жүк тасымалдау (көмiр, ағаш және т.б.)</td>
+<td>жүк тасымалдау (көмір, ағаш )</td>
 <td>300</td>
 <td>250</td>
 <td>200</td>
 </tr>
+<tr>
+<th>5</th>
+<th colspan="4">Үй жануарларын бағу қызметі үшін</th>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td>ірі қара мал (бір табын үшін)</td>
+<td>100</td>
+<td>80</td>
+<td>60</td>
+</tr>
+<tr>
+<td>қойлар, ешкілер (бір отар үшін)</td>
+<td>40</td>
+<td>30</td>
+<td>25</td>
+</tr>
 </table>
 
-> *Ескерту: Бiржолғы талондардың құнын белгiлеуге дұрыс қарау мақсатында, дүркiн-дүркiндiк сипаттағы жекелеген аудандардың экономикалық даму мен жергiлiктi жағдайларын, iрi қалалар мен автомагистральдардан, жергiлiктi аудандар мен сауда орталығы орындарынан қашықтығын ескере отырып, облыс аудандары мен қалалары үшiн 3 топ белгiлендi:*
+1 топ: Іле, қарасай, Талғар, Енбекшіказақ аудандары және Талдықорған қаласы;
 
-1 топ Iле, Қарасай, Талғар, Еңбекшiқазақ аудандары мен Талдықорған қаласы;
+2 топ: Жамбыл, Панфилов аудандары және Қапшағай қаласы;
 
-2 топ Жамбыл, Панфилов аудандары мен Қапшағай қаласы;
-
-3 топ Ақсу, Алакөл, Балқаш, Қаратал, Кербұлақ, Көксу, Райымбек, Сарқан, Ескелдi , ұйғыр аудандары мен Текелi қаласы.
+3 топ: Ақсу, Алакөл, Балхаш, Қаратал, Көксу, Кербулақ, Райымбек, Сарқанд, Ескелді, Ұйғұр аудандары және Текелі қаласы.
 
 > *Алматы облыстық мәслихатының*  
 > *2003 жылғы 25 желтоқсандағы*  
-> *N 3-15 шешiмiне*  
-> *N 2 қосымша*
+> *N 3-15 шешiмiне N 2 қосымша*
 
 ## Өткiзетiн тауарлардың түрлерi бойынша қызметтi базарларда жүзеге асыратын жеке тұлғалар үшiн бiр жолғы талондар ставкасының құны
 
-(әрбiр сатушыға
+(әрбiр сатушыға әр сауда күнi
 
-әр сауда күнi үшiн
-
-теңге есебiмен)
+үшiн теңге есебiмен)
 
 <table>
 <tr>
 <td rowspan="2">2</td>
 <td rowspan="2">Өткiзетiн тауар түрлерi</td>
-<td colspan="6">Бiр жолғы талонның күндiк құны</td>
+<td colspan="5">Бiр жолғы талонның күндiк құны</td>
 </tr>
 <tr>
 <td>
-Жабық сауда рыногы (азық-түлiктiк бөлшек,азық-түлiктiк емес бөлшек, әмбебап,
-мамандан-ған).
-Аралас көтерме азық-түлiктiк, көтерме азық-түлiктiк емес,көтерме-әмбебап
+Жабық сауда рыногы (азық-түлiктiк бөлшек, азық-түлiктiк емес бөлшек, әмбебап,
+маманданған).
+Аралас көтерме азық-түлiктiк, көтерме азық-түлiктiк емес, көтерме-әмбебап
 </td>
 <td colspan="2">
-Аралас сауда рыногы
-(бөлшек- азық-түлiктiк,
+Аралас сауда рыногы (бөлшек- азық-түлiктiк,
 бөлшек-
-азық-
-түлiктiк емес, бөлшек-
+азық-түлiктiк емес, бөлшек-
 әмбебап,
-мамандан-ған)
-</td>
-<td colspan="3">
-Жабық емес сауда шағын рыногы (азық-түлiктiк, азық-түлiк-
-тiк емес, әмбебап,
 маманданған)
 </td>
+<td colspan="2">Жабық емес сауда шағын рыногы (азық-түлiктiк, азық-түлiктiк емес, әмбебап, маманданған)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="7">
+<td colspan="6">
 Ет өнiмдерiн өткiзу
 Оны»iшiнде
 1. Құстан басқа ет өнiмдерi
@@ -223,36 +236,36 @@
 <td>сөреден</td>
 <td>300</td>
 <td colspan="2">170</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>200</td>
 <td colspan="2">180</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">2. Құс</td>
+<td colspan="6">2. Құс</td>
 </tr>
 <tr>
 <td></td>
 <td>сөреден</td>
 <td>100</td>
 <td colspan="2">80</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>110</td>
 <td colspan="2">90</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="7">
+<td colspan="6">
 Азық-түлiк базары
 Оны»iшiнде
 1. Балық өнiмдерi
@@ -263,138 +276,138 @@
 <td>сөреден</td>
 <td>120</td>
 <td colspan="2">90</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>220</td>
 <td colspan="2">190</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>70</td>
 <td colspan="2">60</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">2. Сүт өнiмдерi</td>
+<td colspan="6">2. Сүт өнiмдерi</td>
 </tr>
 <tr>
 <td></td>
 <td>сөреден</td>
 <td>80</td>
 <td colspan="2">50</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>авто машинадан</td>
 <td>240</td>
 <td colspan="2">180</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>50</td>
 <td colspan="2">30</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">3. Көкөнiс.жемiс-жидек және т.б.</td>
+<td colspan="6">3. Көкөнiс.жемiс-жидек және т.б.</td>
 </tr>
 <tr>
 <td></td>
 <td>сөреден</td>
 <td>100</td>
 <td colspan="2">70</td>
-<td colspan="3">40</td>
+<td colspan="2">40</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден 6 шаршы метрге дей iн</td>
 <td>300</td>
 <td colspan="2">200</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>400</td>
 <td colspan="2">300</td>
-<td colspan="3">250</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">70</td>
-<td colspan="3">50</td>
+<td colspan="2">50</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">автомашинадан:</td>
+<td colspan="6">автомашинадан:</td>
 </tr>
 <tr>
 <td></td>
 <td>Жүк автомобилi</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>10 тоннаға дейiн жүк көтеретiн</td>
 <td>400</td>
 <td colspan="2">300</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
 <td>10 тоннадан жоғары жүк көтеретiн</td>
 <td>600</td>
 <td colspan="2">500</td>
-<td colspan="3">400</td>
+<td colspan="2">400</td>
 </tr>
 <tr>
 <td></td>
 <td>Жеңiл автомобиль</td>
 <td>250</td>
 <td colspan="2">150</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">40</td>
-<td colspan="3">30</td>
+<td colspan="2">30</td>
 </tr>
 <tr>
 <td></td>
 <td>4.Басқа да азық-түлiк тауарлары</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>сөреден</td>
 <td>150</td>
 <td colspan="2">100</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
 <td>контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -404,32 +417,32 @@
 </td>
 <td>350</td>
 <td colspan="2">250</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>450</td>
 <td colspan="2">350</td>
-<td colspan="3">250</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>350</td>
 <td colspan="2">250</td>
-<td colspan="3">170</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">70</td>
-<td colspan="3">50</td>
+<td colspan="2">50</td>
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="7">
+<td colspan="6">
 Өнеркәсiптiк базар
 1. Сырт киiмдер
 Оның iшiнде:
@@ -437,21 +450,21 @@
 </tr>
 <tr>
 <td></td>
-<td colspan="7">- былғары мен терiден</td>
+<td colspan="6">- былғары мен терiден</td>
 </tr>
 <tr>
 <td></td>
 <td>сөреден</td>
 <td>180</td>
 <td colspan="2">160</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -461,46 +474,46 @@
 </td>
 <td>250</td>
 <td colspan="2">200</td>
-<td colspan="3">130</td>
+<td colspan="2">130</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>360</td>
 <td colspan="2">250</td>
-<td colspan="3">180</td>
+<td colspan="2">180</td>
 </tr>
 <tr>
 <td></td>
 <td>а втомашинадан</td>
 <td>340</td>
 <td colspan="2">220</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>100</td>
 <td colspan="2">90</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">- былғары мен терiден басқалары</td>
+<td colspan="6">- былғары мен терiден басқалары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>160</td>
 <td colspan="2">120</td>
-<td colspan="3">90</td>
+<td colspan="2">90</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -510,46 +523,46 @@
 </td>
 <td>220</td>
 <td colspan="2">180</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>260</td>
 <td colspan="2">220</td>
-<td colspan="3">160</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
 <td>Автомашиналардан</td>
 <td>220</td>
 <td colspan="2">180</td>
-<td colspan="3">130</td>
+<td colspan="2">130</td>
 </tr>
 <tr>
 <td></td>
 <td>-қолдан</td>
 <td>90</td>
 <td colspan="2">80</td>
-<td colspan="3">60</td>
+<td colspan="2">60</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">- сырт киiмдерден басқалары</td>
+<td colspan="6">- сырт киiмдерден басқалары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>150</td>
 <td colspan="2">100</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -559,53 +572,53 @@
 </td>
 <td>280</td>
 <td colspan="2">200</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>320</td>
 <td colspan="2">240</td>
-<td colspan="3">160</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>260</td>
 <td colspan="2">170</td>
-<td colspan="3">110</td>
+<td colspan="2">110</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">80</td>
-<td colspan="3">50</td>
+<td colspan="2">50</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">3. Былғары бас киiмдер мен аяқ киiмдер</td>
+<td colspan="6">3. Былғары бас киiмдер мен аяқ киiмдер</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>150</td>
 <td colspan="2">120</td>
-<td colspan="3">90</td>
+<td colspan="2">90</td>
 </tr>
 <tr>
 <td></td>
 <td>Автомашинадан</td>
 <td>220</td>
 <td colspan="2">180</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -615,103 +628,103 @@
 </td>
 <td>220</td>
 <td colspan="2">180</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>260</td>
 <td colspan="2">220</td>
-<td colspan="3">160</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">80</td>
-<td colspan="3">60</td>
+<td colspan="2">60</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">4. Кеңсе тауарлары</td>
+<td colspan="6">4. Кеңсе тауарлары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>100</td>
 <td colspan="2">80</td>
-<td colspan="3">60</td>
+<td colspan="2">60</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>60</td>
 <td colspan="2">40</td>
-<td colspan="3">30</td>
+<td colspan="2">30</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">5. Шаруашылық (тұрмыстық) тауарлары</td>
+<td colspan="6">5. Шаруашылық (тұрмыстық) тауарлары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>140</td>
 <td colspan="2">110</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрге дей i н</td>
 <td>220</td>
 <td colspan="2">160</td>
-<td colspan="3">100</td>
+<td colspan="2">100</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жо№ары</td>
 <td>260</td>
 <td colspan="2">200</td>
-<td colspan="3">140</td>
+<td colspan="2">140</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>200</td>
 <td colspan="2">160</td>
-<td colspan="3">100</td>
+<td colspan="2">100</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>80</td>
 <td colspan="2">70</td>
-<td colspan="3">50</td>
+<td colspan="2">50</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">6. Аудио (бейне) аппаратуралар, теледидар, тоңазытқыштар, кiр жуу машиналары</td>
+<td colspan="6">6. Аудио (бейне) аппаратуралар, теледидар, тоңазытқыштар, кiр жуу машиналары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>200</td>
 <td colspan="2">160</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -721,25 +734,25 @@
 </td>
 <td>340</td>
 <td colspan="2">230</td>
-<td colspan="3">160</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>380</td>
 <td colspan="2">270</td>
-<td colspan="3">200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>340</td>
 <td colspan="2">220</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">
+<td colspan="6">
 7. Құрылыс материалдары
 Оның iшiнде:
 - ағаш материалдары, шифер, линолеум
@@ -750,77 +763,77 @@
 <td>Сөреден</td>
 <td>160</td>
 <td colspan="2">130</td>
-<td colspan="3">90</td>
+<td colspan="2">90</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрге дей i н</td>
 <td>230</td>
 <td colspan="2">180</td>
-<td colspan="3">130</td>
+<td colspan="2">130</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>270</td>
 <td colspan="2">220</td>
-<td colspan="3">170</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>300</td>
 <td colspan="2">250</td>
-<td colspan="3">200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td></td>
 <td>- басқа да</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>160</td>
 <td colspan="2">130</td>
-<td colspan="3">100</td>
+<td colspan="2">100</td>
 </tr>
 <tr>
 <td></td>
 <td>Контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрге дей i н</td>
 <td>200</td>
 <td colspan="2">160</td>
-<td colspan="3">110</td>
+<td colspan="2">110</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>240</td>
 <td colspan="2">200</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>200</td>
 <td colspan="2">160</td>
-<td colspan="3">100</td>
+<td colspan="2">100</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +843,7 @@
 </td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -840,53 +853,53 @@
 </td>
 <td>200</td>
 <td colspan="2">150</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>- қ олтумалы қ</td>
 <td>100</td>
 <td colspan="2">80</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">9. Пайдаланылған өнеркәсiп тауарлары</td>
+<td colspan="6">9. Пайдаланылған өнеркәсiп тауарлары</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>35</td>
 <td colspan="2">30</td>
-<td colspan="3">20</td>
+<td colspan="2">20</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>25</td>
 <td colspan="2">20</td>
-<td colspan="3">15</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td></td>
 <td>10. Басқа да өнеркәс iп тауарлары</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>130</td>
 <td colspan="2">100</td>
-<td colspan="3">70</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
 <td>контейнерлерден</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -896,32 +909,32 @@
 </td>
 <td>180</td>
 <td colspan="2">130</td>
-<td colspan="3">80</td>
+<td colspan="2">80</td>
 </tr>
 <tr>
 <td></td>
 <td>6 шаршы метрден жоғары</td>
 <td>220</td>
 <td colspan="2">170</td>
-<td colspan="3">120</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
 <td>автомашинадан</td>
 <td>160</td>
 <td colspan="2">120</td>
-<td colspan="3">80</td>
+<td colspan="2">80</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>70</td>
-<td colspan="3">50</td>
+<td colspan="2">50</td>
 <td colspan="2">40</td>
 </tr>
 <tr>
 <td>4 .</td>
-<td colspan="7">
+<td colspan="6">
 Автомобиль базары
 1. ТМД автомашиналарына қосалқы бөлшектер
 </td>
@@ -931,118 +944,118 @@
 <td>Сөреден</td>
 <td>150</td>
 <td colspan="2">100</td>
-<td colspan="3">90</td>
+<td colspan="2">90</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>70</td>
 <td colspan="2">50</td>
-<td colspan="3">40</td>
+<td colspan="2">40</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">2. Қиыр шетел автомашиналарына қосалқы бөлшектер</td>
+<td colspan="6">2. Қиыр шетел автомашиналарына қосалқы бөлшектер</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>180</td>
 <td colspan="2">150</td>
-<td colspan="3">130</td>
+<td colspan="2">130</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>90</td>
 <td colspan="2">70</td>
-<td colspan="3">60</td>
+<td colspan="2">60</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">3. Автомашиналарға пайдаланылған қосалқы бөлшектер</td>
+<td colspan="6">3. Автомашиналарға пайдаланылған қосалқы бөлшектер</td>
 </tr>
 <tr>
 <td></td>
 <td>Сөреден</td>
 <td>70</td>
 <td colspan="2">50</td>
-<td colspan="3">40</td>
+<td colspan="2">40</td>
 </tr>
 <tr>
 <td></td>
 <td>қолдан</td>
 <td>50</td>
 <td colspan="2">30</td>
-<td colspan="3">25</td>
+<td colspan="2">25</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">4. Жеңiл автомашиналарды өткiзу(автомашиналардың 1 бiрлiгi үшiн)</td>
+<td colspan="6">4. Жеңiл автомашиналарды өткiзу(автомашиналардың 1 бiрлiгi үшiн)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">- ТМД елдерiнде шығарылғандары</td>
+<td colspan="6">- ТМД елдерiнде шығарылғандары</td>
 </tr>
 <tr>
 <td></td>
 <td>6 жылға дей iн</td>
 <td>250</td>
 <td colspan="2">200</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>6-дан 20 жылға дей iн</td>
 <td>150</td>
 <td colspan="2">100</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>20-дан жоғары</td>
 <td>100</td>
 <td colspan="2">50</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">- қиыр шет елде шы№арыл№андары</td>
+<td colspan="6">- қиыр шет елде шы№арыл№андары</td>
 </tr>
 <tr>
 <td></td>
 <td>6 жылға дей iн</td>
 <td colspan="2">300</td>
 <td>250</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>6 жылдан 20 жылға дей iн</td>
 <td colspan="2">200</td>
 <td>150</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>20-дан жоғары</td>
 <td colspan="2">150</td>
 <td>100</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>4. жүк машиналары</td>
 <td colspan="2">200</td>
 <td>150</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
 <td>5. автобустар</td>
 <td colspan="2">250</td>
 <td>200</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td></td>
@@ -1052,52 +1065,52 @@
 </td>
 <td colspan="2">150</td>
 <td>100</td>
-<td colspan="3">-</td>
+<td colspan="2">-</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="7">Мал - жемшөп базары (малды тiрi салмақта өткiзу 1 бiрлiк үшiн, құс. құрама жем.шөп өткiзу 1 орын үшiн)</td>
+<td colspan="6">Мал - жемшөп базары (малды тiрi салмақта өткiзу 1 бiрлiк үшiн, құс. құрама жем.шөп өткiзу 1 орын үшiн)</td>
 </tr>
 <tr>
 <td></td>
 <td>1. Құрама жем сату</td>
 <td colspan="2">180</td>
-<td colspan="3">150</td>
+<td colspan="2">150</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
 <td>2. Шөп сату</td>
 <td colspan="2">120</td>
-<td colspan="3">80</td>
+<td colspan="2">80</td>
 <td>60</td>
 </tr>
 <tr>
 <td></td>
 <td>3. Жылқы.сиыр</td>
 <td colspan="2">250</td>
-<td colspan="3">200</td>
+<td colspan="2">200</td>
 <td>150</td>
 </tr>
 <tr>
 <td></td>
 <td>4. Торай, шошқа</td>
 <td colspan="2">150</td>
-<td colspan="3">80</td>
+<td colspan="2">80</td>
 <td>60</td>
 </tr>
 <tr>
 <td></td>
 <td>5. Қой мен ешкi</td>
 <td colspan="2">70</td>
-<td colspan="3">60</td>
+<td colspan="2">60</td>
 <td>40</td>
 </tr>
 <tr>
 <td></td>
 <td>6. Құс</td>
 <td colspan="2">40</td>
-<td colspan="3">30</td>
+<td colspan="2">30</td>
 <td>20</td>
 </tr>
 </table>
