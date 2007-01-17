@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30872/kaz/12.12.2006
+source: https://zan.gov.kz/client/#!/doc/30872/kaz/17.01.2007
 ---
 
 ## 2007 жылға арналған облыстық бюджеттің бюджеттік даму бағдарламаларының тізбесі
