@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
+source: https://zan.gov.kz/client/#!/doc/49559/kaz/28.01.2010
 ---
 
 ## Алматы облысының 2011 жылға арналған облыстық бюджеті
@@ -23,10 +23,10 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -215,11 +215,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -2361,10 +2361,10 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -2399,11 +2399,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -2439,11 +2439,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -2473,10 +2473,10 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -2539,11 +2539,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -4883,10 +4883,10 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -4921,11 +4921,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -4961,11 +4961,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -4995,10 +4995,10 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -5061,11 +5061,11 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th></th>
@@ -5119,7 +5119,8 @@ source: https://zan.gov.kz/client/#!/doc/49559/kaz/09.12.2009
 облыстық бюджет есебінен
 білім
 беруді
-ақпараттандыруға
+ақпарат-
+тандыруға
 </td>
 </tr>
 <tr>
