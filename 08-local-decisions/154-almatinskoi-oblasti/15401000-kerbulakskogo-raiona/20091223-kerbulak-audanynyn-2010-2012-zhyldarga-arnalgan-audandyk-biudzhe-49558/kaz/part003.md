@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49558/kaz/05.02.2010
+source: https://zan.gov.kz/client/#!/doc/49558/kaz/15.04.2010
 ---
 
 ## Кербұлақ ауданының 2012 жылға арналған аудандық бюджеті
@@ -29,10 +29,10 @@ source: https://zan.gov.kz/client/#!/doc/49558/kaz/05.02.2010
 <td colspan="2">Ерекшелiгi</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td></td>
@@ -738,11 +738,11 @@ source: https://zan.gov.kz/client/#!/doc/49558/kaz/05.02.2010
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td></td>
@@ -3063,11 +3063,11 @@ source: https://zan.gov.kz/client/#!/doc/49558/kaz/05.02.2010
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td>03</td>
@@ -3781,11 +3781,11 @@ source: https://zan.gov.kz/client/#!/doc/49558/kaz/05.02.2010
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td>04</td>
