@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
+source: https://zan.gov.kz/client/#!/doc/49677/kaz/16.04.2010
 ---
 
 ## Панфилов ауданының 2012 жылға арналған аудандық бюджеті
@@ -29,10 +29,10 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td colspan="2">ерекшелігі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -787,11 +787,11 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -812,16 +812,16 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <th>4731558</th>
 </tr>
 <tr>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Жалпы сипаттағы мемлекеттiк
 қызметтер
-</th>
-<th>265259</th>
+</td>
+<td>265259</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1055,13 +1055,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>300</td>
 </tr>
 <tr>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қорғаныс</th>
-<th>1674</th>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қорғаныс</td>
+<td>1674</td>
 </tr>
 <tr>
 <td>02</td>
@@ -1097,17 +1097,17 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>1674</td>
 </tr>
 <tr>
-<th>03</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Қоғамдық тәртіп, қауіпсіздік,
 құқықтық, сот, қылмыстық-атқару
 қызметі
-</th>
-<th>3097</th>
+</td>
+<td>3097</td>
 </tr>
 <tr>
 <td>03</td>
@@ -1145,13 +1145,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>3097</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
-<th>3605143</th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
+<td>3605143</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1320,16 +1320,16 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>20919</td>
 </tr>
 <tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Әлеуметтiк көмек және әлеуметтiк
 қамсыздандыру
-</th>
-<th>279362</th>
+</td>
+<td>279362</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1614,13 +1614,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>300</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th>205371</th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>205371</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1831,25 +1831,25 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>14463</td>
 </tr>
 <tr>
-<th>08</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Мәдениет, спорт, туризм және
 ақпараттық кеңістiк
-</th>
-<th>139057</th>
+</td>
+<td>139057</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мәдениет саласындағы қызмет</th>
-<th>85381</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мәдениет саласындағы қызмет</td>
+<td>85381</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2137,18 +2137,18 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>150</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық шаруашылығы,
 ерекше қорғалатын табиғи аумақтар,
 қоршаған ортаны және жануарлар
 дүниесін қорғау, жер қатынастары
-</th>
-<th>179809</th>
+</td>
+<td>179809</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2259,13 +2259,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>160</td>
 </tr>
 <tr>
-<th></th>
-<th>6</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жер қатынастары</th>
-<th>8115</th>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жер қатынастары</td>
+<td>8115</td>
 </tr>
 <tr>
 <th></th>
@@ -2294,18 +2294,18 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>8115</td>
 </tr>
 <tr>
-<th></th>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық шаруашылығы
 және қоршаған ортаны қорғау мен жер
 қатынастары саласындағы өзге де
 қызметтер
-</th>
-<th>115098</th>
+</td>
+<td>115098</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2329,16 +2329,16 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>115098</td>
 </tr>
 <tr>
-<th>11</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Өнеркәсіп, сәулет, қала құрылысы
 және құрылыс қызметі
-</th>
-<th>12279</th>
+</td>
+<td>12279</td>
 </tr>
 <tr>
 <td>11</td>
@@ -2417,13 +2417,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>6323</td>
 </tr>
 <tr>
-<th>12</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Көлiк және коммуникация</th>
-<th>25899</th>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>25899</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2472,13 +2472,13 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>25899</td>
 </tr>
 <tr>
-<th>13</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Басқалар</th>
-<th>14608</th>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>14608</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2753,27 +2753,27 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
 </tr>
 <tr>
-<th></th>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру саласындағы өзге де қызметтер</th>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру саласындағы өзге де қызметтер</td>
 </tr>
 <tr>
 <td></td>
@@ -2817,20 +2817,20 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<th>7</th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
+<td>7</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
 </tr>
 <tr>
 <td></td>
@@ -2907,12 +2907,12 @@ source: https://zan.gov.kz/client/#!/doc/49677/kaz/03.02.2010
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
