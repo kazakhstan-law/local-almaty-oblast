@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49778/kaz/19.04.2010
+source: https://zan.gov.kz/client/#!/doc/49778/kaz/23.06.2010
 ---
 
 ## 2012 жылға арналған аудандық бюджеттің ағымдағы бюджеттік бағдарламаларының тізбесі
@@ -678,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/49778/kaz/19.04.2010
 <table>
 <tr>
 <td colspan="6">функц. топ</td>
-<td>
+<td rowspan="5">
 Сомасы
 (мың теңге)
 </td>
