@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49558/kaz/15.04.2010
+source: https://zan.gov.kz/client/#!/doc/49558/kaz/23.06.2010
 ---
 
 ## Кербұлақ ауданының 2012 жылға арналған аудандық бюджеті
@@ -2745,20 +2745,20 @@ source: https://zan.gov.kz/client/#!/doc/49558/kaz/15.04.2010
 <td>126366</td>
 </tr>
 <tr>
-<th></th>
-<th>
+<td></td>
+<td>
 Аудан
 бойынша
 барлығы
-</th>
-<th>170525</th>
-<th>16388</th>
-<th>16623</th>
-<th>212</th>
-<th>5116</th>
-<th>0</th>
-<th>5820</th>
-<th>126366</th>
+</td>
+<td>170525</td>
+<td>16388</td>
+<td>16623</td>
+<td>212</td>
+<td>5116</td>
+<td>0</td>
+<td>5820</td>
+<td>126366</td>
 </tr>
 </table>
 
