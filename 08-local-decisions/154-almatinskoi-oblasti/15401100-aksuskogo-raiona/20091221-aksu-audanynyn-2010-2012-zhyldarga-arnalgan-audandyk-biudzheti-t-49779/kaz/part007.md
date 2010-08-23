@@ -1,39 +1,34 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
+source: https://zan.gov.kz/client/#!/doc/49779/kaz/23.08.2010
 ---
 
 ## Ақсу ауданының 2012 жылға арналған аудандық бюджеті
 
 <table>
 <tr>
-<td></td>
 <td colspan="4">Санаты</td>
-<td>
+<td rowspan="4">
 Сомасы
 мың теңге
 </td>
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td colspan="3">Сынып</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td colspan="2">Ішкі сынып</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -41,7 +36,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>3407163</td>
 </tr>
 <tr>
-<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -49,7 +43,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>51298</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -59,13 +52,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
 <td>14650</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -75,7 +66,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>11000</td>
@@ -83,13 +73,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>5</td>
 <td>Бірыңғай жер салығы</td>
 <td>5300</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -102,13 +90,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>2</td>
 <td>Акциздер</td>
 <td>340</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -121,7 +107,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>4</td>
 <td>
 Кәсіпкерлік және кәсіби қызметті
@@ -130,7 +115,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>3042</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>8</td>
 <td></td>
@@ -146,13 +130,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>1</td>
 <td>Мемлекеттік баж</td>
 <td>7266</td>
 </tr>
 <tr>
-<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -161,14 +143,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>1</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
 <td>320</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -181,7 +161,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>5</td>
 <td>
 Мемлекет меншігіндегі мүлікті жалға беруден
@@ -190,7 +169,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>160</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -205,7 +183,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>9450</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -223,7 +200,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>6</td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
@@ -232,13 +208,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>1200</td>
 </tr>
 <tr>
-<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -250,7 +224,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>3</td>
 <td></td>
 <td>Жердi және материалдық емес активтердi сату</td>
@@ -259,13 +232,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>1</td>
 <td>Жерді сату</td>
 <td>4900</td>
 </tr>
 <tr>
-<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -273,7 +244,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>3339995</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -284,7 +254,6 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>3339995</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -317,11 +286,11 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td></td>
@@ -332,24 +301,24 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>3472579</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жалпы сипаттағы мемлекеттiк қызметтер</th>
-<th>255287</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>255287</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>
 Мемлекеттiк басқарудың жалпы
 функцияларын орындайтын өкiлдi,
 атқарушы және басқа органдар
-</th>
-<th>230821</th>
+</td>
+<td>230821</td>
 </tr>
 <tr>
 <td></td>
@@ -438,12 +407,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>5214</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>Қаржылық қызмет</th>
-<th>14195</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Қаржылық қызмет</td>
+<td>14195</td>
 </tr>
 <tr>
 <td></td>
@@ -489,12 +458,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>1518</td>
 </tr>
 <tr>
-<th></th>
-<th>05</th>
-<th></th>
-<th></th>
-<th>Жоспарлау және статистикалық қызмет</th>
-<th>10271</th>
+<td></td>
+<td>05</td>
+<td></td>
+<td></td>
+<td>Жоспарлау және статистикалық қызмет</td>
+<td>10271</td>
 </tr>
 <tr>
 <td></td>
@@ -530,20 +499,20 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>116</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қорғаныс</th>
-<th>533</th>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қорғаныс</td>
+<td>533</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>Әскери мұқтаждар</th>
-<th>533</th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Әскери мұқтаждар</td>
+<td>533</td>
 </tr>
 <tr>
 <td></td>
@@ -568,15 +537,15 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>533</td>
 </tr>
 <tr>
-<th>3</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Қоғамдық тәртіп, қауіпсіздік, құқықтық,
 сот, қылмыстық-атқару қызметі
-</th>
-<th>5870</th>
+</td>
+<td>5870</td>
 </tr>
 <tr>
 <td></td>
@@ -610,20 +579,20 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>5870</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th>2555218</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td>2555218</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>Мектепке дейінгі тәрбие және оқыту</th>
-<th>40833</th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Мектепке дейінгі тәрбие және оқыту</td>
+<td>40833</td>
 </tr>
 <tr>
 <td></td>
@@ -648,15 +617,15 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>40833</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>
 Бастауыш, негізгі орта және жалпы орта
 білім беру
-</th>
-<th>1698607</th>
+</td>
+<td>1698607</td>
 </tr>
 <tr>
 <td></td>
@@ -686,15 +655,15 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>20649</td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td>
 Білім беру саласындағы өзге де
 қызметтер
-</th>
-<th>815778</th>
+</td>
+<td>815778</td>
 </tr>
 <tr>
 <td></td>
@@ -787,23 +756,23 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>762000</td>
 </tr>
 <tr>
-<th>6</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Әлеуметтік көмек және әлеуметтік
 қамсыздандыру
-</th>
-<th>123359</th>
+</td>
+<td>123359</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>Әлеуметтік көмек</th>
-<th>102850</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Әлеуметтік көмек</td>
+<td>102850</td>
 </tr>
 <tr>
 <td></td>
@@ -915,16 +884,16 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>1731</td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td>
 Әлеуметтiк көмек және әлеуметтiк
 қамтамасыз ету салаларындағы өзге де
 қызметтер
-</th>
-<th>20509</th>
+</td>
+<td>20509</td>
 </tr>
 <tr>
 <td></td>
@@ -973,20 +942,20 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>248</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th>190358</th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>190358</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
-<th>15000</th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
+<td>15000</td>
 </tr>
 <tr>
 <td></td>
@@ -1011,12 +980,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>15000</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
-<th>140934</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td>140934</td>
 </tr>
 <tr>
 <td></td>
@@ -1039,12 +1008,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>140934</td>
 </tr>
 <tr>
-<th></th>
-<th>03</th>
-<th></th>
-<th></th>
-<th>Елді-мекендерді көркейту</th>
-<th>34424</th>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Елді-мекендерді көркейту</td>
+<td>34424</td>
 </tr>
 <tr>
 <td></td>
@@ -1097,23 +1066,23 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>16050</td>
 </tr>
 <tr>
-<th>8</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Мәдениет, спорт, туризм және ақпараттық
 кеңістiк
-</th>
-<th>116526</th>
+</td>
+<td>116526</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>Мәдениет саласындағы қызмет</th>
-<th>62339</th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Мәдениет саласындағы қызмет</td>
+<td>62339</td>
 </tr>
 <tr>
 <td></td>
@@ -1135,12 +1104,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>62339</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>Спорт</th>
-<th>2972</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Спорт</td>
+<td>2972</td>
 </tr>
 <tr>
 <td></td>
@@ -1178,12 +1147,12 @@ source: https://zan.gov.kz/client/#!/doc/49779/kaz/22.06.2010
 <td>2236</td>
 </tr>
 <tr>
-<th></th>
-<th>03</th>
-<th></th>
-<th></th>
-<th>Ақпараттық кеңістік</th>
-<th>34989</th>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Ақпараттық кеңістік</td>
+<td>34989</td>
 </tr>
 <tr>
 <td></td>
@@ -1241,16 +1210,16 @@ iстеуi
 <td>6151</td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td>
 Мәдениет, спорт, туризм және ақпараттық
 кеңiстiктi ұйымдастыру жөнiндегi өзге
 де қызметтер
-</th>
-<th>16226</th>
+</td>
+<td>16226</td>
 </tr>
 <tr>
 <td></td>
@@ -1359,17 +1328,17 @@ iстеуi
 <td>172</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық шаруашылығы,
 ерекше қорғалатын табиғи аумақтар,
 қоршаған ортаны және жануарлар дүниесін
 қорғау, жер қатынастары
-</th>
-<th>168179</th>
+</td>
+<td>168179</td>
 </tr>
 <tr>
 <td></td>
@@ -1447,12 +1416,12 @@ iстеуi
 <td>560</td>
 </tr>
 <tr>
-<th></th>
-<th>06</th>
-<th></th>
-<th></th>
-<th>Жер қатынастары</th>
-<th>8442</th>
+<td></td>
+<td>06</td>
+<td></td>
+<td></td>
+<td>Жер қатынастары</td>
+<td>8442</td>
 </tr>
 <tr>
 <td></td>
@@ -1478,16 +1447,16 @@ iстеуi
 <td>8442</td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық шаруашылығы және
 қоршаған ортаны қорғау мен жер
 қатынастары саласындағы өзге де қызметтер
-</th>
-<th>69696</th>
+</td>
+<td>69696</td>
 </tr>
 <tr>
 <td></td>
@@ -1509,22 +1478,22 @@ iстеуi
 <td>69696</td>
 </tr>
 <tr>
-<th>11</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Өнеркәсіп,сәулет,қала құрылысы және
 құрылыс қызметі
-</th>
-<th>12570</th>
+</td>
+<td>12570</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td></td>
-<td>Сәулет ,қала құрылысы және құрылыс қызметі</td>
+<td>Сәулет,қала құрылысы және құрылыс қызметі</td>
 <td>12570</td>
 </tr>
 <tr>
@@ -1574,12 +1543,12 @@ iстеуi
 <td>5801</td>
 </tr>
 <tr>
-<th>12</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Көлiк және коммуникация</th>
-<th>31678</th>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>31678</td>
 </tr>
 <tr>
 <td></td>
@@ -1613,12 +1582,12 @@ iстеуi
 <td>31678</td>
 </tr>
 <tr>
-<th>13</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Басқалар</th>
-<th>13001</th>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>13001</td>
 </tr>
 <tr>
 <td></td>
@@ -1751,32 +1720,32 @@ iстеуi
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>III. Таза бюджеттік кредит беру</th>
-<th>65416</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>III. Таза бюджеттік кредит беру</td>
+<td>65416</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық шаруашылығы,
 ерекше қорғалатын табиғи аумақтар,
 қоршаған ортаны және жануарлар
 дүниесін қорғау, жер қатынастары
-</th>
-<th>65416</th>
+</td>
+<td>65416</td>
 </tr>
 <tr>
 <td></td>
@@ -1808,50 +1777,50 @@ iстеуi
 <td>65416</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 IV. Қаржы активтерімен жасалатын
 операциялар бойынша сальдо
-</th>
-<th>0</th>
+</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қаржы активтерін сатып алу</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>V. Бюджет тапшылығы (профициті)</th>
-<th>-65416</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Бюджет тапшылығы (профициті)</td>
+<td>-65416</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 VI. Бюджет тапшылығын қаржыландыру
 (профицитін пайдалану)
-</th>
-<th>65416</th>
+</td>
+<td>65416</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарыздар түсімі</th>
-<th>65416</th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td>65416</td>
 </tr>
 <tr>
 <td></td>
@@ -1915,18 +1884,18 @@ VI. Бюджет тапшылығын қаржыландыру
 <td>А Т А У Ы</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
 </tr>
 <tr>
-<th></th>
-<th>9</th>
-<th></th>
-<th></th>
-<th>Білім беру саласындағы өзге де қызметтер</th>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Білім беру саласындағы өзге де қызметтер</td>
 </tr>
 <tr>
 <td></td>
@@ -1946,11 +1915,11 @@ VI. Бюджет тапшылығын қаржыландыру
 <td>Білім беру объектілерін салу және реконструкциялау</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын-үй коммуналдық шаруашылық</th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын-үй коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
@@ -2042,11 +2011,11 @@ VI. Бюджет тапшылығын қаржыландыру
 <td>А Т А У Ы</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
 </tr>
 <tr>
 <td></td>
