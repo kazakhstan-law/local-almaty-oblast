@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49556/kaz/23.08.2010
+source: https://zan.gov.kz/client/#!/doc/49556/kaz/25.10.2010
 ---
 
 ## 2010 жылға арналған аудандық бюджеттің ағымдағы бюджеттік бағдарламаларының тізбесі
