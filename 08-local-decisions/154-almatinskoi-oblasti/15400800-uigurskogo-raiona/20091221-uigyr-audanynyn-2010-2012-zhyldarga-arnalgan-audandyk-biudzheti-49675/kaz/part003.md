@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
+source: https://zan.gov.kz/client/#!/doc/49675/kaz/25.10.2010
 ---
 
 ## Ұйғыр ауданының 2012 жылға арналған аудандық бюджеті
@@ -29,27 +29,27 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td colspan="2">Ерекшелiгi</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>І.КІРІСТЕР</th>
-<th>3277387</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>І.КІРІСТЕР</td>
+<td>3277387</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Салықтық түсімдер</th>
-<th>65648</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>65648</td>
 </tr>
 <tr>
 <td>1</td>
@@ -60,12 +60,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>53798</td>
 </tr>
 <tr>
-<th>1</th>
-<th>04</th>
-<th>1</th>
-<th></th>
-<th>Мүлiкке салынатын салықтар</th>
-<th>23600</th>
+<td>1</td>
+<td>04</td>
+<td>1</td>
+<td></td>
+<td>Мүлiкке салынатын салықтар</td>
+<td>23600</td>
 </tr>
 <tr>
 <td>1</td>
@@ -87,12 +87,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>2600</td>
 </tr>
 <tr>
-<th>1</th>
-<th>04</th>
-<th>3</th>
-<th></th>
-<th>Жер салығы</th>
-<th>5698</th>
+<td>1</td>
+<td>04</td>
+<td>3</td>
+<td></td>
+<td>Жер салығы</td>
+<td>5698</td>
 </tr>
 <tr>
 <td>1</td>
@@ -143,12 +143,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>1000</td>
 </tr>
 <tr>
-<th>1</th>
-<th>04</th>
-<th>4</th>
-<th></th>
-<th>Көлiк құралдарына салынатын салық</th>
-<th>22800</th>
+<td>1</td>
+<td>04</td>
+<td>4</td>
+<td></td>
+<td>Көлiк құралдарына салынатын салық</td>
+<td>22800</td>
 </tr>
 <tr>
 <td>1</td>
@@ -173,12 +173,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>20000</td>
 </tr>
 <tr>
-<th>1</th>
-<th>04</th>
-<th>5</th>
-<th></th>
-<th>Бірыңғай жер салығы</th>
-<th>1700</th>
+<td>1</td>
+<td>04</td>
+<td>5</td>
+<td></td>
+<td>Бірыңғай жер салығы</td>
+<td>1700</td>
 </tr>
 <tr>
 <td>1</td>
@@ -200,12 +200,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>8340</td>
 </tr>
 <tr>
-<th>1</th>
-<th>05</th>
-<th>2</th>
-<th></th>
-<th>Акциздер</th>
-<th>1120</th>
+<td>1</td>
+<td>05</td>
+<td>2</td>
+<td></td>
+<td>Акциздер</td>
+<td>1120</td>
 </tr>
 <tr>
 <td>1</td>
@@ -446,12 +446,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>250</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Салықтық емес түсiмдер</th>
-<th>14255</th>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>14255</td>
 </tr>
 <tr>
 <td>2</td>
@@ -589,12 +589,12 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 <td>4111</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Трансферттердің түсімдері</th>
-<th>3193373</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
+<td>3193373</td>
 </tr>
 <tr>
 <td>4</td>
@@ -650,43 +650,43 @@ source: https://zan.gov.kz/client/#!/doc/49675/kaz/20.08.2010
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші функция</th>
+<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>ІІ. ШЫҒЫНДАР</th>
-<th>3277687</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІІ. ШЫҒЫНДАР</td>
+<td>3277687</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2661,41 +2661,41 @@ iстеуi
 
 ## 2010 жылға арналған аудандық бюджеттің ағымдағы бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 4 қосымша жаңа редакцияда - Алматы облысы Ұйғыр аудандық мәслихатының 2010.08.20 N 38-1 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Алматы облысы Ұйғыр аудандық мәслихатының 2010.10.25 N 40-1 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
-<th colspan="6">Функционалдық топ</th>
+<td colspan="6">Функционалдық топ</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші функция</th>
+<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4191,12 +4191,12 @@ iстеуi
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>А Т А У Ы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
 <td>4</td>
