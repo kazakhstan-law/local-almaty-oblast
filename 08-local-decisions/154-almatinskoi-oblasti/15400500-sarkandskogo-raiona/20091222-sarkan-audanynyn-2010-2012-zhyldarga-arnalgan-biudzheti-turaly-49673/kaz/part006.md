@@ -1,80 +1,171 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
+source: https://zan.gov.kz/client/#!/doc/49673/kaz/25.10.2010
 ---
+
+## Жалпы орта білім берудің мемлекеттік жүйесіне Өзін өзі тану пәні бойынша оқу материалдарымен қамту республикалық бюджеттен берілген трансферттер
+
+<table>
+<tr>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">
+Сомасы
+(мың теңге)
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Бастауыш, негізгі орта және
+жалпы орта білім беру
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
+Ауданның (облыстық маңызы бар
+қаланың) білім беру бөлімі
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>003</td>
+<td>000</td>
+<td>Жалпыға білім беру</td>
+<td>4063,0</td>
+</tr>
+</table>
+
+> *"Сарқан ауданының 2010-2012*  
+> *жылдарға арналған бюджеті туралы"*  
+> *Сарқан аудандық мәслихатының*  
+> *2009 жылғы 23 желтоқсандағы*  
+> *N 29-183 шешімімен бекітілген*  
+> *7 қосымша*
 
 ## Мектепке дейінгі тәрбие беру ұйымдарына Өзін өзі тану пәні бойынша оқу материалдарымен қамту республикалық бюджеттен берілген трансферттер
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Мектепке дейiнгi тәрбие және
 оқыту
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім беру бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -102,49 +193,49 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -195,63 +286,59 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## Сумен қамтамасыз ету объектілерін дамытуға республикалық, облыстық бюджеттен берілген нысаналы даму трансферттері
 
-> *Ескерту. 9 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.08.23 N 37-222 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 9 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="6">
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="6">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">А Т А У Ы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th></th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -259,10 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>458</td>
 <td></td>
 <td></td>
-<td>
-Ауданның (облыстық маңызы бар
-қаланың) тұрғын үй коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі
-</td>
+<td>Ауданның (облыстық маңызы бар қаланың) тұрғын-үй коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td></td>
 </tr>
 <tr>
@@ -271,8 +355,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>029</td>
 <td></td>
-<td>сумен жабдықтау жүйесін дамыту</td>
-<td>94700,0</td>
+<td>Сумен жабдықтау жүйесін дамыту</td>
+<td>174225,0</td>
 </tr>
 <tr>
 <td></td>
@@ -280,11 +364,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>011</td>
-<td>
-Республикалық бюджеттен берілетін
-трансферттер есебiнен
-</td>
-<td>50000,0</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>101300,0</td>
 </tr>
 <tr>
 <td></td>
@@ -293,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>44700,0</td>
+<td>72925,0</td>
 </tr>
 </table>
 
@@ -306,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз етуге РБ және ОБ бөлінген трансферттер сомасы
 
-> *Ескерту. 10 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.08.23 N 37-222 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 10 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -317,44 +398,41 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="4">Кіші бағдарлама</th>
+<td></td>
+<td colspan="4">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="3">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А Т А У Ы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td></td>
-<td>
-Бiлiм беру саласындағы өзге де
-қызметтер
-</td>
+<td>Бiлiм беру саласындағы өзге де қызметтер</td>
 <td></td>
 </tr>
 <tr>
@@ -362,10 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>464</td>
 <td></td>
-<td>
-Ауданның (облыстық маңызы бар
-қаланың) білім беру бөлімі
-</td>
+<td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
 <td></td>
 </tr>
 <tr>
@@ -374,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>009</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>88953,0</td>
+<td>90160</td>
 </tr>
 </table>
 
@@ -390,40 +465,40 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>06</td>
@@ -438,13 +513,13 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтiк көмек</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -505,52 +580,52 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру саласындағы өзге де қызметтер</th>
-<th></th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру саласындағы өзге де қызметтер</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -596,74 +671,74 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Әлеуметтiк көмек және әлеуметтiк
 қамсыздандыру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтiк көмек</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>451</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>451</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) жұмыспен қамту және
 әлеуметтік бағдарламалар бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -685,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## Облыс әкімінің гранты облыстық бюджеттен берілген ағымдағы нысаналы трасферттер
 
-> *Ескерту. 14 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.08.23 N 37-222 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 14 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -696,52 +771,51 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">А Т А У Ы</td>
 </tr>
 <tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтік көмек және әлеуметтік қамсыздандыру</th>
-<th></th>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтік көмек</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -749,10 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>451</td>
 <td></td>
 <td></td>
-<td>
-Ауданның (облыстық маңызы бар
-қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі
-</td>
+<td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
 <td></td>
 </tr>
 <tr>
@@ -762,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>007</td>
 <td>000</td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>2356,0</td>
+<td>4396</td>
 </tr>
 </table>
 
@@ -780,70 +851,70 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th></th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>467</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) құрылыс бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -889,63 +960,59 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## Инженерлік коммуникациялық инфрақұрылымды дамытуға және жайластыруға берілген нысаналы даму трансферттердің сомасы
 
-> *Ескерту. 16 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.06.23 N 35-214 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 16 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="6">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">А Т А У Ы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th></th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -953,10 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>467</td>
 <td></td>
 <td></td>
-<td>
-Ауданның (облыстық маңызы бар
-қаланың) құрылыс бөлімі
-</td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
 <td></td>
 </tr>
 <tr>
@@ -965,12 +1029,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>004</td>
 <td></td>
-<td>
-Инженерлік коммуникациялық
-инфрақұрылымды дамыту, жайластыру
-және (немесе) сатып алу
-</td>
-<td>58687,0</td>
+<td>Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
+<td>59187</td>
 </tr>
 <tr>
 <td></td>
@@ -978,11 +1038,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>011</td>
-<td>
-Республикалық бюджеттен берілетін
-трансферттер есебiнен
-</td>
-<td>49279,0</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>49279</td>
 </tr>
 <tr>
 <td></td>
@@ -990,11 +1047,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>015</td>
-<td>
-Жергілікті бюджет қаражаты
-есебінен
-</td>
-<td>9408,0</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>9908</td>
 </tr>
 </table>
 
@@ -1012,58 +1066,58 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th></th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1122,49 +1176,49 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1242,83 +1296,83 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы, ерекше қорғалатын
 табиғи аумақтар, қоршаған
 ортаны және жануарлар дүниесін
 қорғау, жер қатынастары
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы және қоршаған ортаны
 қорғау мен жер қатынастары
 саласындағы өзге де қызметтер
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>123</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td></td>
+<td>
 Қаладағы аудан, аудандық маңызы
 бар қала, кент, ауыл (село),
 ауылдық (селолық) округ әкімінің
 аппараты
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1376,75 +1430,75 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>12</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Көлiк және коммуникация</th>
-<th></th>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Көлiк және коммуникациялар
 саласындағы өзге де қызметтер
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>458</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) тұрғын үй-коммуналдық
 шаруашылық, жолаушылар көлігі
 және автомобиль жолдары бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1502,81 +1556,81 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы, ерекше қорғалатын
 табиғи аумақтар, қоршаған ортаны
 және жануарлар дүниесін қорғау,
 жер қатынастары
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы және қоршаған ортаны
 қорғау мен жер қатынастары
 саласындағы өзге де қызметтер
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>473</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>473</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) ветеринария бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1603,74 +1657,74 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Әлеуметтiк көмек және әлеуметтiк
 қамсыздандыру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтiк көмек</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>451</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>451</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) жұмыспен қамту және
 әлеуметтік бағдарламалар бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1719,72 +1773,72 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй коммуналдық шаруашылық</th>
-<th></th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>458</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) тұрғын үй-коммуналдық
 шаруашылығы, жолаушылар көлігі
 және автомобиль жолдары бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1830,73 +1884,73 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Жалпы бастауыш,жалпы
 негізгі, жалпы орта білім беру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1921,73 +1975,73 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Бастауыш, негізгі орта және
 жалпы орта білім беру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2012,73 +2066,73 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Бастауыш, негізгі орта және
 жалпы орта білім беру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2103,73 +2157,73 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Бастауыш, негізгі орта және
 жалпы орта білім беру
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2191,76 +2245,71 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## Жергілікті бюджеттің 2010 жылға жалпы білім беретін мектептерге шетелдік ағылшын тілі оқытушыларын тартуға арналған қосымша шығындары
 
+> *Ескерту. 28 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">А Т А У Ы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
-Бастауыш, негізгі орта және
-жалпы орта білім беру
-</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
-Ауданның (облыстық маңызы бар
-қаланың) білім бөлімі
-</th>
-<th></th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2269,7 +2318,7 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>003</td>
 <td>000</td>
 <td>Жалпыға білім беру</td>
-<td>5000,0</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -2322,77 +2371,77 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы, ерекше қорғалатын
 табиғи аумақтар, қоршаған
 ортаны және жануарлар дүниесін
 қорғау, жер қатынастары
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ауыл шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>453</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>453</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) экономика және
 бюджеттік жоспарлау бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2419,82 +2468,68 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 ## 2010 жылға арналған ауылдық елді мекендердегі әлеуметтік сала мамандарына әлеуметтік қолдау шараларын іске асыру үшін берілетін бір жолғы көтермеақы республикалық бюджеттен нысаналы ағымдағы трансферттер
 
-> *Ескерту. 31 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.02.04 N 30-189 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 31 қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 2010.10.25 N 38-230 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="6">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">А Т А У Ы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
-Ауыл, су, орман, балық
-шаруашылығы, ерекше қорғалатын
-табиғи аумақтар, қоршаған
-ортаны және жануарлар дүниесін
-қорғау, жер қатынастары
-</th>
-<th></th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ауыл шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>453</th>
-<th></th>
-<th></th>
-<th>
-Ауданның (облыстық маңызы бар
-қаланың) экономика және
-бюджеттік жоспарлау бөлімі
-</th>
-<th></th>
+<td></td>
+<td></td>
+<td>453</td>
+<td></td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) экономикалық және бюджеттік жоспарлау бөлімі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2502,8 +2537,8 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td></td>
 <td>099</td>
 <td>000</td>
-<td>Республикалық бюджеттен берілетін нысаналы трансферттер есебінен ауылдық мекендер саласының мамандарын әлеуметтік қолдау шараларын іске асыру</td>
-<td>1760,0</td>
+<td>Республикалық бюджеттен берілетін нысаналы трансферттер есебінен ауылдық елді мекендер саласының мамандарын әлеуметтік қолдау шараларын іске асыру</td>
+<td>2259</td>
 </tr>
 </table>
 
@@ -2521,70 +2556,70 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>15</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Трансферттер</th>
-<th></th>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Трансферттер</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>452</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>452</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) қаржы бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2615,64 +2650,64 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 
 <table>
 <tr>
-<th colspan="6">Функционалдық топ</th>
+<td colspan="6">Функционалдық топ</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>467</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар қаланың)
 құрылыс бөлімі
-</th>
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2735,25 +2770,25 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>458</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар қаланың)
 тұрғын-үй коммуналдық шаруашылығы,
 жолаушылар көлігі және автомобиль жолдары
 бөлімі
-</th>
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2839,70 +2874,70 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мектепке дейінгі тәрбие</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мектепке дейінгі тәрбие</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) білім
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2933,76 +2968,76 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы, ерекше қорғалатын
 табиғи аумақтар, қоршаған
 ортаны және жануарлар дүниесін
 қорғау, жер қатынастары
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ауыл шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>467</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) құрылыс бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3030,76 +3065,76 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Ауыл, су, орман, балық
 шаруашылығы, ерекше қорғалатын
 табиғи аумақтар, қоршаған
 ортаны және жануарлар дүниесін
 қорғау, жер қатынастары
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ауыл шаруашылығы</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл шаруашылығы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>473</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>473</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) ветеринария бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3138,50 +3173,50 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="4">Кіші бағдарлама</th>
+<td></td>
+<td colspan="4">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="3">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Білім беру</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>Білім беру саласындағы өзге де қызметтер</th>
-<th></th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Білім беру саласындағы өзге де қызметтер</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</th>
-<th></th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3208,72 +3243,72 @@ source: https://zan.gov.kz/client/#!/doc/49673/kaz/23.08.2010
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>
+<td rowspan="6">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші бағдарлама</th>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
-<th></th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
-<th></th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>458</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td></td>
+<td>
 Ауданның (облыстық маңызы бар
 қаланың) тұрғын-үй коммуналдық
 шаруашылығы, жолаушылар көлігі және
 автомобиль жолдары бөлімі
-</th>
-<th></th>
+</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
