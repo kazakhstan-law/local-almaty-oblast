@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/14660/kaz/26.12.2002
+source: https://zan.gov.kz/client/#!/doc/14660/kaz/14.01.2011
 ---
 
 ## Алматы облысы бойынша 2003 жылға арналған табиғат қорғау шараларының және ғылыми-зерттеу жұмыстарының жоспары
@@ -176,12 +176,12 @@ source: https://zan.gov.kz/client/#!/doc/14660/kaz/26.12.2002
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>Жиынтығы</th>
-<th>40000,0</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td>Жиынтығы</td>
+<td>40000,0</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
