@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56281/rus/21.04.2011
+source: https://zan.gov.kz/client/#!/doc/56281/rus/05.07.2011
 ---
 
 ## Областной бюджет Алматинской области на 2012 год
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/56281/rus/21.04.2011
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 Сумма
-тыс.тенге
+тыс. тенге
 </td>
 </tr>
 <tr>
