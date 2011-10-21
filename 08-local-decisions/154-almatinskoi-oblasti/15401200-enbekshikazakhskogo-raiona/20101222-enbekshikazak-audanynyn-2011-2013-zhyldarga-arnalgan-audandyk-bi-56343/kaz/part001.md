@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56343/kaz/15.07.2011
+source: https://zan.gov.kz/client/#!/doc/56343/kaz/21.10.2011
 ---
 
 ## 2011 жылға арналған аудандық бюджетті дамыту туралы жергілікті бюджеттік бағдарлама тізбесі
