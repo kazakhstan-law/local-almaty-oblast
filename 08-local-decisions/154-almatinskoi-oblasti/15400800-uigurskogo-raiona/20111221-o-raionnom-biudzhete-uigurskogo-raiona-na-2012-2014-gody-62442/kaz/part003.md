@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
+source: https://zan.gov.kz/client/#!/doc/62442/kaz/17.02.2012
 ---
 
 ## Ұйғыр ауданының 2014 жылға арналған аудандық бюджеті
@@ -88,8 +88,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3817</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
+<td></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
@@ -144,8 +144,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1443</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
+<td></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
@@ -174,24 +174,24 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>45530</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
+<td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Бірыңғай жер салығы</td>
 <td>2050</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 <td>01</td>
 <td>Бірыңғай жер салығы</td>
 <td>2050</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>
@@ -201,17 +201,17 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>11567</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Акциздер</td>
 <td>1591</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>2</td>
+<td></td>
+<td></td>
+<td></td>
 <td>96</td>
 <td>
 Заңды және жеке тұлғалар бөлшек саудада
@@ -222,9 +222,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1550</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>2</td>
+<td></td>
+<td></td>
+<td></td>
 <td>97</td>
 <td>
 Заңды және жеке тұлғаларға бөлшек саудада
@@ -234,8 +234,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>41</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td>
@@ -245,16 +245,16 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>970</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>3</td>
+<td></td>
+<td></td>
+<td></td>
 <td>15</td>
 <td>Жер учаскелерін пайдаланғаны үшін төлем</td>
 <td>970</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td>
@@ -264,9 +264,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>7818</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>01</td>
 <td>
 Жеке кәсіпкерлерді мемлекеттік тіркегені
@@ -275,9 +275,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>570</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>02</td>
 <td>
 Жекелеген қызмет түрлерiмен айналысу құқығы
@@ -286,9 +286,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2200</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>03</td>
 <td>
 Заңды тұлғаларды мемлекеттік тіркегені және
@@ -299,9 +299,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>156</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>14</td>
 <td>
 Көлік құралдарын мемлекеттік тіркегені,
@@ -310,9 +310,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>970</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>18</td>
 <td>
 Жылжымайтын мүлікке және олармен мәміле
@@ -322,9 +322,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3800</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>4</td>
+<td></td>
+<td></td>
+<td></td>
 <td>20</td>
 <td>
 Жергілікті маңызы бар және елді мекендердегі
@@ -335,23 +335,23 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>122</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Құмар ойын бизнеске салық</td>
 <td>1188</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 <td>02</td>
 <td>Тіркелген салық</td>
 <td>1188</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>08</td>
 <td></td>
 <td></td>
@@ -364,17 +364,17 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4037</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
+<td></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Мемлекеттік баж</td>
 <td>4037</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>02</td>
 <td>
 Мемлекеттік мекемелерге сотқа берілетін
@@ -396,9 +396,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1112</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>04</td>
 <td>
 Азаматтық хал актiлерiн тiркегенi үшiн,
@@ -412,9 +412,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2389</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>05</td>
 <td>
 Шетелге баруға және Қазақстан Республикасына
@@ -426,9 +426,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>15</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>06</td>
 <td>
 Шетелдiктердiң паспорттарына немесе оларды
@@ -440,9 +440,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>51</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>07</td>
 <td>
 Қазақстан Республикасының азаматтығын алу,
@@ -454,9 +454,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>68</td>
 </tr>
 <tr>
-<td>1</td>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>08</td>
 <td>
 Тұрғылықты жерiн тiркегенi үшiн мемлекеттік
@@ -473,16 +473,16 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>12251</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
 <td>430</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>
@@ -492,9 +492,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>430</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 <td>04</td>
 <td>
 Коммуналдық меншіктегі мүлікті жалдаудан
@@ -503,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>430</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -518,9 +518,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>8025</td>
 </tr>
 <tr>
-<td>2</td>
-<td>04</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>05</td>
 <td>
 Жергілікті мемлекеттік органдар салатын
@@ -529,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>8025</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -537,17 +537,17 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3796</td>
 </tr>
 <tr>
-<td>2</td>
-<td>06</td>
+<td></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>3796</td>
 </tr>
 <tr>
-<td>2</td>
-<td>06</td>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 <td>09</td>
 <td>
 Жергілікті бюджетке түсетін салықтық емес
@@ -564,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>22107</td>
 </tr>
 <tr>
-<td>3</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -596,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4028458</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -607,8 +607,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4028458</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
@@ -763,7 +763,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>112</td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -776,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>112</td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -797,7 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>122</td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -810,7 +810,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>122</td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -832,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>123</td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -846,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>1</td>
-<td>123</td>
+<td></td>
 <td>022</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -891,7 +891,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>2</td>
-<td>452</td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>
@@ -903,7 +903,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>2</td>
-<td>452</td>
+<td></td>
 <td>018</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -933,7 +933,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>5</td>
-<td>453</td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -948,7 +948,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>01</td>
 <td>5</td>
-<td>453</td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -1023,7 +1023,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>02</td>
 <td>2</td>
-<td>122</td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>
@@ -1048,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1717</td>
 </tr>
 <tr>
-<td>03</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1057,8 +1057,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1717</td>
 </tr>
 <tr>
-<td>03</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1071,9 +1071,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1717</td>
 </tr>
 <tr>
-<td>03</td>
-<td>1</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>021</td>
 <td></td>
 <td>
@@ -1092,7 +1092,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3497757</td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1101,8 +1101,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>122414</td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -1113,9 +1113,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>122414</td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>
@@ -1125,9 +1125,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>122414</td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>025</td>
 <td></td>
 <td>
@@ -1140,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td></td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1152,8 +1152,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2919379</td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1165,9 +1165,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4250</td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>
@@ -1178,8 +1178,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4250</td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -1190,9 +1190,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2915129</td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Жалпы білім беру</td>
@@ -1229,7 +1229,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td></td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1238,8 +1238,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>455964</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1250,9 +1250,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>400000</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>037</td>
 <td></td>
 <td>
@@ -1262,10 +1262,10 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>400000</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>467</td>
-<td>037</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>
 Республикалық бюджеттен берілетін
@@ -1274,17 +1274,17 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td></td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>467</td>
-<td>037</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>400000</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -1295,9 +1295,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>55964</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>
@@ -1308,9 +1308,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>9343</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>
@@ -1322,9 +1322,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>33689</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>020</td>
 <td></td>
 <td>
@@ -1338,9 +1338,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td></td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td></td>
 <td>
@@ -1398,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>002</td>
+<td></td>
 <td>100</td>
 <td>Қоғамдық жұмыстар</td>
 <td>25871</td>
@@ -1407,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>002</td>
+<td></td>
 <td>101</td>
 <td>
 Жұмыссыздарды кәсіптік даярлау және қайта
@@ -1419,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>002</td>
+<td></td>
 <td>102</td>
 <td>
 Халықты жұмыспен қамту саласында
@@ -1432,7 +1432,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>002</td>
+<td></td>
 <td>103</td>
 <td>
 Республикалық бюджеттен ағымдағы нысаналы
@@ -1446,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>002</td>
+<td></td>
 <td>104</td>
 <td>
 Жұмыспен қамту-2020 бағдарламасына
@@ -1483,8 +1483,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <tr>
 <td>06</td>
 <td>2</td>
-<td>451</td>
-<td>005</td>
+<td></td>
+<td></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>13342</td>
@@ -1508,9 +1508,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>62102</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>
@@ -1521,9 +1521,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>5184</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td>028</td>
 <td>
@@ -1533,9 +1533,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1970</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td>029</td>
 <td>
@@ -1545,9 +1545,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3214</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>
@@ -1557,9 +1557,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>7335</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td></td>
 <td>
@@ -1581,18 +1581,18 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>5163</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>24446</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>016</td>
 <td></td>
 <td>
@@ -1602,18 +1602,18 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>87970</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>016</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>87970</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td>
@@ -1626,9 +1626,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>7308</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td></td>
 <td>
@@ -1638,9 +1638,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>19276</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td>011</td>
 <td>
@@ -1650,7 +1650,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>19276</td>
 </tr>
 <tr>
-<td>06</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1663,8 +1663,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>19635</td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -1676,9 +1676,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>19635</td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -1692,8 +1692,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 </tr>
 <tr>
 <td>06</td>
-<td>9</td>
-<td>451</td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>
@@ -1713,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>96496</td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1722,8 +1722,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4357</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1736,9 +1736,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>0</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>031</td>
 <td></td>
 <td>
@@ -1748,8 +1748,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td></td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>479</td>
 <td></td>
 <td></td>
@@ -1757,9 +1757,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4357</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
-<td>479</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -1770,16 +1770,16 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>4357</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
-<td>479</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1788,8 +1788,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>21000</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1802,9 +1802,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>21000</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>
@@ -1814,25 +1814,25 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>21000</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>029</td>
 <td></td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
 <td>0</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>029</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td></td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1841,8 +1841,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>71139</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1854,18 +1854,18 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>71139</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>Елді мекендердің көшелерін жарықтандыру</td>
 <td>21191</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>
@@ -1875,9 +1875,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>9800</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>
@@ -1887,9 +1887,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>3397</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>
@@ -1911,7 +1911,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>110072</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1920,7 +1920,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>58414</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>1</td>
 <td>455</td>
 <td></td>
@@ -1932,7 +1932,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>58414</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>1</td>
 <td>455</td>
 <td>003</td>
@@ -1941,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>58414</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1950,8 +1950,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2466</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -1962,9 +1962,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>2466</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>
@@ -1974,9 +1974,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>164</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td></td>
 <td>
@@ -1986,9 +1986,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>339</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>015</td>
 <td></td>
 <td>
@@ -2001,7 +2001,7 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>1963</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -2010,8 +2010,8 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>38678</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -2022,9 +2022,9 @@ source: https://zan.gov.kz/client/#!/doc/62442/kaz/21.12.2011
 <td>31689</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>
@@ -2034,9 +2034,9 @@ iстеуi
 <td>27556</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>
@@ -2046,8 +2046,8 @@ iстеуi
 <td>4133</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -2058,9 +2058,9 @@ iстеуi
 <td>6989</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>
@@ -2071,7 +2071,7 @@ iстеуi
 <td>6989</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2084,8 +2084,8 @@ iстеуi
 <td>10514</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -2096,9 +2096,9 @@ iстеуi
 <td>4169</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2109,17 +2109,17 @@ iстеуi
 <td>4169</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -2130,9 +2130,9 @@ iстеуi
 <td>6345</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2145,9 +2145,9 @@ iстеуi
 <td>5933</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>
@@ -2157,9 +2157,9 @@ iстеуi
 <td>412</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
@@ -2180,7 +2180,7 @@ iстеуi
 <td>277135</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2189,8 +2189,8 @@ iстеуi
 <td>103369</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td></td>
 <td></td>
@@ -2201,9 +2201,9 @@ iстеуi
 <td>78818</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>
@@ -2213,9 +2213,9 @@ iстеуi
 <td>65529</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>099</td>
 <td></td>
 <td>
@@ -2225,10 +2225,10 @@ iстеуi
 <td>13289</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
-<td>099</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>
 Республикалық бюджеттен трансферттер
@@ -2237,8 +2237,8 @@ iстеуi
 <td>13289</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td></td>
 <td></td>
@@ -2249,9 +2249,9 @@ iстеуi
 <td>10807</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2262,17 +2262,17 @@ iстеуi
 <td>10807</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>473</td>
 <td></td>
 <td></td>
@@ -2283,9 +2283,9 @@ iстеуi
 <td>13744</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2296,18 +2296,18 @@ iстеуi
 <td>7311</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>
@@ -2317,9 +2317,9 @@ iстеуi
 <td>916</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>
@@ -2331,9 +2331,9 @@ iстеуi
 <td>2519</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>
@@ -2343,8 +2343,8 @@ iстеуi
 <td>2998</td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
+<td></td>
+<td></td>
 <td>463</td>
 <td></td>
 <td></td>
@@ -2355,9 +2355,9 @@ iстеуi
 <td>89240</td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2369,9 +2369,9 @@ iстеуi
 <td>7740</td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>
@@ -2384,16 +2384,16 @@ iстеуi
 <td>81500</td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2406,8 +2406,8 @@ iстеуi
 <td>84526</td>
 </tr>
 <tr>
-<td>10</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>473</td>
 <td></td>
 <td></td>
@@ -2418,9 +2418,9 @@ iстеуi
 <td>84526</td>
 </tr>
 <tr>
-<td>10</td>
-<td>9</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Эпизоотияға қарсы іс-шаралар жүргізу</td>
@@ -2439,7 +2439,7 @@ iстеуi
 <td>12144</td>
 </tr>
 <tr>
-<td>11</td>
+<td></td>
 <td>2</td>
 <td>467</td>
 <td></td>
@@ -2451,8 +2451,8 @@ iстеуi
 <td>5106</td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td>001</td>
 <td></td>
@@ -2464,17 +2464,17 @@ iстеуi
 <td>5106</td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>468</td>
 <td></td>
 <td></td>
@@ -2485,9 +2485,9 @@ iстеуi
 <td>7038</td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2498,9 +2498,9 @@ iстеуi
 <td>7038</td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -2525,8 +2525,8 @@ iстеуi
 <td>86543</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -2538,9 +2538,9 @@ iстеуi
 <td>86543</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>
@@ -2552,9 +2552,9 @@ iстеуi
 <td>86543</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
@@ -2570,8 +2570,8 @@ iстеуi
 <td>151918</td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td></td>
 <td></td>
@@ -2582,9 +2582,9 @@ iстеуi
 <td>4090</td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2596,9 +2596,9 @@ iстеуi
 <td>4090</td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
@@ -2635,8 +2635,8 @@ iстеуi
 <td>122900</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -2647,19 +2647,19 @@ iстеуi
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>452</td>
-<td>012</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>100</td>
 <td>
 Ауданның (облыстық маңызы бар қаланың)
@@ -2672,8 +2672,8 @@ iстеуi
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -2686,9 +2686,9 @@ iстеуi
 <td>6469</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2701,17 +2701,17 @@ iстеуi
 <td>6469</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -2722,9 +2722,9 @@ iстеуi
 <td>18459</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -2743,7 +2743,7 @@ iстеуi
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2752,8 +2752,8 @@ iстеуi
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -2764,9 +2764,9 @@ iстеуi
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
-<td>1</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>
@@ -2779,8 +2779,7 @@ iстеуi
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td></td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="6">
 Сомасы
 (мың
@@ -3046,9 +3045,9 @@ iстеуi
 > *2011 жылғы 21 желтоқсандағы "Ұйғыр*  
 > *ауданның 2012-2014 жылдарға*  
 > *арналған бюджеті туралы" N 55-1*  
-> *шешіміне 4 қосымша*
+> *шешіміне 4-қосымша*
 
-## 2012 жылға арналған аудандық бюджеттінің ағымдағы бюджеттік бағдарламаларының тізбесі
+## 2012 жылға арналған аудандық бюджетінің ағымдағы бюджеттік бағдарламаларының тізбесі
 
 <table>
 <tr>
@@ -3101,7 +3100,7 @@ iстеуi
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
 </tr>
 <tr>
-<td>01</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3112,8 +3111,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -3123,8 +3122,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td>001</td>
 <td></td>
@@ -3134,16 +3133,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -3153,8 +3152,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td>001</td>
 <td></td>
@@ -3164,16 +3163,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -3184,8 +3183,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>001</td>
 <td></td>
@@ -3197,15 +3196,15 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>022</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>01</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3213,8 +3212,8 @@ iстеуi
 <td>Қаржылық қызмет</td>
 </tr>
 <tr>
-<td>01</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -3224,8 +3223,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td>001</td>
 <td></td>
@@ -3238,23 +3237,23 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td>003</td>
 <td></td>
 <td>Салық салу мақсатында мүлікті бағалауды жүргізу</td>
 </tr>
 <tr>
-<td>01</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td>018</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>01</td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -3262,8 +3261,8 @@ iстеуi
 <td>Жоспарлау және статистикалық қызмет</td>
 </tr>
 <tr>
-<td>01</td>
-<td>5</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td></td>
 <td></td>
@@ -3273,8 +3272,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>5</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td>001</td>
 <td></td>
@@ -3286,8 +3285,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>01</td>
-<td>5</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td>004</td>
 <td></td>
@@ -3302,7 +3301,7 @@ iстеуi
 <td>Қорғаныс</td>
 </tr>
 <tr>
-<td>02</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3310,8 +3309,8 @@ iстеуi
 <td>Әскери мұқтаждықтар</td>
 </tr>
 <tr>
-<td>02</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -3321,8 +3320,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>02</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td>005</td>
 <td></td>
@@ -3332,7 +3331,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>02</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3343,8 +3342,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>02</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -3354,8 +3353,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>02</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td>007</td>
 <td></td>
@@ -3378,7 +3377,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>03</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3386,8 +3385,8 @@ iстеуi
 <td>Құқық қорғау қызметi</td>
 </tr>
 <tr>
-<td>03</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -3398,8 +3397,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>03</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td>021</td>
 <td></td>
@@ -3417,7 +3416,7 @@ iстеуi
 <td>Бiлiм беру</td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3425,8 +3424,8 @@ iстеуi
 <td>Мектепке дейiнгi тәрбиелеу және оқыту</td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -3436,9 +3435,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>
@@ -3447,9 +3446,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>1</td>
-<td>471</td>
+<td></td>
+<td></td>
+<td></td>
 <td>025</td>
 <td></td>
 <td>
@@ -3460,7 +3459,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3468,8 +3467,8 @@ iстеуi
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -3480,8 +3479,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>005</td>
 <td></td>
@@ -3492,8 +3491,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -3503,8 +3502,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>004</td>
 <td></td>
@@ -3536,7 +3535,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -3544,8 +3543,8 @@ iстеуi
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -3555,8 +3554,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td>037</td>
 <td></td>
@@ -3566,8 +3565,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td>037</td>
 <td>011</td>
@@ -3577,16 +3576,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td>037</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -3596,8 +3595,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>008</td>
 <td></td>
@@ -3608,8 +3607,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>009</td>
 <td></td>
@@ -3621,8 +3620,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>020</td>
 <td></td>
@@ -3635,8 +3634,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>04</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>023</td>
 <td></td>
@@ -3655,7 +3654,7 @@ iстеуi
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
 </tr>
 <tr>
-<td>06</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3663,8 +3662,8 @@ iстеуi
 <td>Әлеуметтiк көмек</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -3674,32 +3673,32 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td></td>
 <td>Еңбекпен қамту бағдарламасы</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td>100</td>
 <td>Қоғамдық жұмыстар</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td>101</td>
 <td>Жұмыссыздарды кәсіптік даярлау және қайта даярлау</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td>102</td>
@@ -3709,8 +3708,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td>103</td>
@@ -3721,8 +3720,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>002</td>
 <td>104</td>
@@ -3732,8 +3731,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>004</td>
 <td></td>
@@ -3746,24 +3745,24 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>005</td>
 <td></td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>005</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>006</td>
 <td></td>
@@ -3778,8 +3777,8 @@ iстеуi
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>007</td>
 <td></td>
@@ -3790,8 +3789,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>007</td>
 <td>028</td>
@@ -3801,8 +3800,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>007</td>
 <td>029</td>
@@ -3812,8 +3811,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>010</td>
 <td></td>
@@ -3823,8 +3822,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>014</td>
 <td></td>
@@ -3839,16 +3838,16 @@ iстеуi
 <td>Республикалық бюджеттен трансферттер есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>014</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>016</td>
 <td></td>
@@ -3858,16 +3857,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>016</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>017</td>
 <td></td>
@@ -3879,8 +3878,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>023</td>
 <td></td>
@@ -3890,16 +3889,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>023</td>
 <td>011</td>
 <td>Республикалық бюджеттен трансферттер есебінен</td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3909,8 +3908,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -3920,8 +3919,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>001</td>
 <td></td>
@@ -3933,8 +3932,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>06</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td>011</td>
 <td></td>
@@ -3953,7 +3952,7 @@ iстеуi
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3961,8 +3960,8 @@ iстеуi
 <td>Тұрғын үй шаруашылығы</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -3973,9 +3972,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>031</td>
 <td></td>
 <td>
@@ -3984,8 +3983,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -3995,8 +3994,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td>003</td>
 <td></td>
@@ -4006,8 +4005,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td>011</td>
@@ -4017,24 +4016,24 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>479</td>
 <td></td>
 <td></td>
 <td>Тұрғын үй инспекциясы бөлімі</td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>479</td>
 <td>001</td>
 <td></td>
@@ -4045,15 +4044,15 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>479</td>
 <td>005</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -4061,8 +4060,8 @@ iстеуi
 <td>Коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -4073,9 +4072,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>
@@ -4084,7 +4083,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>2</td>
 <td>458</td>
 <td>029</td>
@@ -4092,15 +4091,15 @@ iстеуi
 <td>Сумен жабдықтау жүйесін дамыту</td>
 </tr>
 <tr>
-<td>07</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td>029</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -4108,8 +4107,8 @@ iстеуi
 <td>Елді-мекендерді абаттандыру</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -4120,24 +4119,24 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>008</td>
 <td></td>
 <td>Елді мекендердің көшелерін жарықтандыру</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>009</td>
 <td></td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>010</td>
 <td></td>
@@ -4147,8 +4146,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td>011</td>
 <td></td>
@@ -4163,7 +4162,7 @@ iстеуi
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4171,8 +4170,8 @@ iстеуi
 <td>Мәдениет саласындағы қызмет</td>
 </tr>
 <tr>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -4182,15 +4181,15 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td>003</td>
 <td></td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -4198,8 +4197,8 @@ iстеуi
 <td>Спорт</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -4209,16 +4208,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>013</td>
 <td></td>
 <td>Ұлттық және бұқаралық спорт түрлерін дамыту</td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>014</td>
 <td></td>
@@ -4228,8 +4227,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>015</td>
 <td></td>
@@ -4241,7 +4240,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -4249,8 +4248,8 @@ iстеуi
 <td>Ақпараттық кеңiстiк</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -4260,16 +4259,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td>006</td>
 <td></td>
 <td>Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td>007</td>
 <td></td>
@@ -4279,8 +4278,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -4290,8 +4289,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td>002</td>
 <td></td>
@@ -4301,7 +4300,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -4313,8 +4312,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -4324,8 +4323,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td>001</td>
 <td></td>
@@ -4336,16 +4335,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td>010</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -4355,8 +4354,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td>001</td>
 <td></td>
@@ -4368,16 +4367,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td>003</td>
 <td></td>
 <td>Жастар саясаты саласында іс-шараларды іске асыру</td>
 </tr>
 <tr>
-<td>08</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td>006</td>
 <td></td>
@@ -4396,7 +4395,7 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4404,8 +4403,8 @@ iстеуi
 <td>Ауыл шаруашылығы</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td></td>
 <td></td>
@@ -4415,9 +4414,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>
@@ -4426,9 +4425,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>099</td>
 <td></td>
 <td>
@@ -4437,16 +4436,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>099</td>
 <td>011</td>
 <td>Республикалық бюджеттен трансферттер есебінен</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td></td>
 <td></td>
@@ -4456,8 +4455,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td>001</td>
 <td></td>
@@ -4468,16 +4467,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td>006</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>473</td>
 <td></td>
 <td></td>
@@ -4487,9 +4486,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -4499,17 +4498,17 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>
@@ -4518,9 +4517,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>
@@ -4530,9 +4529,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>1</td>
-<td>473</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>
@@ -4541,8 +4540,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
+<td></td>
+<td></td>
 <td>463</td>
 <td></td>
 <td></td>
@@ -4552,9 +4551,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -4564,15 +4563,15 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>6</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -4584,8 +4583,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>473</td>
 <td></td>
 <td></td>
@@ -4595,8 +4594,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>10</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>473</td>
 <td>011</td>
 <td></td>
@@ -4614,8 +4613,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -4625,9 +4624,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -4637,16 +4636,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
+<td></td>
+<td></td>
 <td>468</td>
 <td></td>
 <td></td>
@@ -4656,9 +4655,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>
@@ -4668,9 +4667,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>11</td>
-<td>2</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -4684,7 +4683,7 @@ iстеуi
 <td>Көлiк және коммуникация</td>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4692,8 +4691,8 @@ iстеуi
 <td>Автомобиль көлiгi</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -4704,9 +4703,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>
@@ -4717,9 +4716,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
@@ -4733,8 +4732,8 @@ iстеуi
 <td>Өзгелер</td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td></td>
 <td></td>
@@ -4744,8 +4743,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td>001</td>
 <td></td>
@@ -4756,8 +4755,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>3</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td>004</td>
 <td></td>
@@ -4791,8 +4790,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -4802,9 +4801,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>
@@ -4813,9 +4812,9 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td>100</td>
 <td>
@@ -4827,8 +4826,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -4839,8 +4838,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td>001</td>
 <td></td>
@@ -4852,16 +4851,16 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td>013</td>
 <td></td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td></td>
 <td></td>
@@ -4871,8 +4870,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>13</td>
-<td>9</td>
+<td></td>
+<td></td>
 <td>471</td>
 <td>001</td>
 <td></td>
@@ -4890,7 +4889,7 @@ iстеуi
 <td>Қарыздарды өтеу</td>
 </tr>
 <tr>
-<td>16</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4898,8 +4897,8 @@ iстеуi
 <td>Қарыздарды өтеу</td>
 </tr>
 <tr>
-<td>16</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -4909,8 +4908,8 @@ iстеуi
 </td>
 </tr>
 <tr>
-<td>16</td>
-<td>1</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td>008</td>
 <td></td>
@@ -4925,7 +4924,7 @@ iстеуi
 > *2011 жылғы 21 желтоқсандағы "Ұйғыр*  
 > *ауданның 2012-2014 жылдарға*  
 > *арналған бюджеті туралы" N 55-1*  
-> *шешіміне 5 қосымша*
+> *шешіміне 5-қосымша*
 
 ## 2012 жылға арналған аудандық бюджеттің даму бюджеттік бағдарламаларының тізбесі
 
@@ -5087,7 +5086,7 @@ iстеуi
 > *2011 жылғы 21 желтоқсандағы "Ұйғыр*  
 > *ауданның 2012-2014 жылдарға*  
 > *арналған бюджеті туралы" N 55-1*  
-> *шешіміне 6 қосымша*
+> *шешіміне 6-қосымша*
 
 ## 2012 жылға арналған аудандық бюджеттің атқарылу барысында секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалардың тізбесі
 
