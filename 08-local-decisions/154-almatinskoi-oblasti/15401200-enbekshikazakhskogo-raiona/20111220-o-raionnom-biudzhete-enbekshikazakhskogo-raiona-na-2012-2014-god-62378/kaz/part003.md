@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62378/kaz/17.02.2012
+source: https://zan.gov.kz/client/#!/doc/62378/kaz/12.04.2012
 ---
 
 ## Еңбекшіқазақ ауданының 2014 жылға арналған аудандық бюджеті
