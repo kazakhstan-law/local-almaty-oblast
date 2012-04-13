@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62444/kaz/20.02.2012
+source: https://zan.gov.kz/client/#!/doc/62444/kaz/13.04.2012
 ---
 
 ## 2012 жылға арналған бюджеттік даму тізбесі
