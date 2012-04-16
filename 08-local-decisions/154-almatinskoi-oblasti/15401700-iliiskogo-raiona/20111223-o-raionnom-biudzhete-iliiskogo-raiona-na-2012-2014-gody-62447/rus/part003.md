@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62447/rus/17.02.2012
+source: https://zan.gov.kz/client/#!/doc/62447/rus/16.04.2012
 ---
 
 ## Районный бюджет Илийского района на 2014 год
