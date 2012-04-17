@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62373/rus/17.02.2012
+source: https://zan.gov.kz/client/#!/doc/62373/rus/17.04.2012
 ---
 
 ## Перечень бюджетных программ развития на 2012 год
