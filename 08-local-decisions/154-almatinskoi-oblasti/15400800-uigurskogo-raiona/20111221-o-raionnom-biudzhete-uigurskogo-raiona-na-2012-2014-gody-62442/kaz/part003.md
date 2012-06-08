@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62442/kaz/13.04.2012
+source: https://zan.gov.kz/client/#!/doc/62442/kaz/08.06.2012
 ---
 
 ## Ұйғыр ауданының 2014 жылға арналған аудандық бюджеті
