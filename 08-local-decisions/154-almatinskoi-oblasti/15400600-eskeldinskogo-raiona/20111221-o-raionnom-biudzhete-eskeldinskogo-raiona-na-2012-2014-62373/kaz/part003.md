@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62373/kaz/17.04.2012
+source: https://zan.gov.kz/client/#!/doc/62373/kaz/08.06.2012
 ---
 
 ## Ескелді ауданының 2014 жылға арналған аудандық бюджеті
