@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62373/rus/08.06.2012
+source: https://zan.gov.kz/client/#!/doc/62373/rus/06.09.2012
 ---
 
 ## Районный бюджет Ескельдинского района на 2014 год
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/62373/rus/08.06.2012
 <td colspan="4">Категория</td>
 <td rowspan="4">
 Сумма
-(тысяч
+(тыс.
 тенге)
 </td>
 </tr>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/62373/rus/08.06.2012
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 Сумма
-(тысяч
+(тыс.
 тенге)
 </td>
 </tr>
