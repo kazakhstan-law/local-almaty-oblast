@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62443/kaz/08.06.2012
+source: https://zan.gov.kz/client/#!/doc/62443/kaz/06.09.2012
 ---
 
 ## Қапшағай қаласының 2014 жылға арналған қалалық бюджеті
