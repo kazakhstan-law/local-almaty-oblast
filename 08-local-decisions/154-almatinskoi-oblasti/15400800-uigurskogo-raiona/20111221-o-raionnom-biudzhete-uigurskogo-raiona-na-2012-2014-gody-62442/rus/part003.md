@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62442/rus/08.06.2012
+source: https://zan.gov.kz/client/#!/doc/62442/rus/06.09.2012
 ---
 
 ## Районный бюджет на 2014 год
@@ -8,7 +8,11 @@ source: https://zan.gov.kz/client/#!/doc/62442/rus/08.06.2012
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="5"></td>
+<td rowspan="5">
+Сумма
+(тыс.
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
