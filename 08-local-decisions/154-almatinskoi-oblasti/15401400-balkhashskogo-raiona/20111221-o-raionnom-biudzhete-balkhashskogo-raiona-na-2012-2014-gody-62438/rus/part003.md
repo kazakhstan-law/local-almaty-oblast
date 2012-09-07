@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62438/rus/08.06.2012
+source: https://zan.gov.kz/client/#!/doc/62438/rus/07.09.2012
 ---
 
 ## Бюджет Балхашского района на 2014 год
