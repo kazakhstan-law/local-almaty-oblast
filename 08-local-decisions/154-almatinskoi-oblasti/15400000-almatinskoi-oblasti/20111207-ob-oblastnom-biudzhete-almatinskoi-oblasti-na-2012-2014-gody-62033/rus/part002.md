@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62033/rus/23.08.2012
+source: https://zan.gov.kz/client/#!/doc/62033/rus/24.10.2012
 ---
 
 ## Областной бюджет Алматинской области на 2013 год

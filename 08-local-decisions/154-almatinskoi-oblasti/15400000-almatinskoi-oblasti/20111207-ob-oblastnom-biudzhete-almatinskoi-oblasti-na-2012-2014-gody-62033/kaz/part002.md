@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62033/kaz/23.08.2012
+source: https://zan.gov.kz/client/#!/doc/62033/kaz/24.10.2012
 ---
 
 ## Алматы облысының 2013 жылға арналған облыстық бюджеті
