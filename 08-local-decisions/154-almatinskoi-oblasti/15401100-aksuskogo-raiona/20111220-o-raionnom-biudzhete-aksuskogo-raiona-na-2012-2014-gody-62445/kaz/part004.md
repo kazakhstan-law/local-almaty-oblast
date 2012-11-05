@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62445/kaz/06.09.2012
+source: https://zan.gov.kz/client/#!/doc/62445/kaz/05.11.2012
 ---
 
 ## 2012 жылға арналған аудандық бюджеттің даму бағдарламаларының тізбесі
