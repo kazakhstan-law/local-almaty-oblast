@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62444/rus/06.09.2012
+source: https://zan.gov.kz/client/#!/doc/62444/rus/06.11.2012
 ---
 
 ## Перечень бюджета развития на 2012 год
