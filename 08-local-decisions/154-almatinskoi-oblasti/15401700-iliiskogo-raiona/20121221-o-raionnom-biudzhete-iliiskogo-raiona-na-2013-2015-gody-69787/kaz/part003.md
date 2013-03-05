@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69787/kaz/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69787/kaz/05.03.2013
 ---
 
 ## Іле ауданының 2014 жылға арналған аудандық бюджеті
