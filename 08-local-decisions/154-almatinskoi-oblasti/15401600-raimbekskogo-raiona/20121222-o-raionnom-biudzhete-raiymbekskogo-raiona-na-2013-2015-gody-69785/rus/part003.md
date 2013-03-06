@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69785/rus/22.12.2012
+source: https://zan.gov.kz/client/#!/doc/69785/rus/06.03.2013
 ---
 
 ## Бюджет Райымбекского района на 2015 год
@@ -1281,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/69785/rus/22.12.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>123</td>
 <td>015</td>
 <td>Освещение улиц в населенных пунктах</td>
 <td>11916</td>
@@ -1289,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/69785/rus/22.12.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>123</td>
 <td>016</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>3056</td>
@@ -1297,7 +1297,7 @@ source: https://zan.gov.kz/client/#!/doc/69785/rus/22.12.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>123</td>
 <td>017</td>
 <td>
 Содержание мест захоронений и
@@ -1308,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/69785/rus/22.12.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>123</td>
 <td>018</td>
 <td>
 Благоустройство и озеленение населенных
