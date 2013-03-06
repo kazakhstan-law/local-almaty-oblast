@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69777/rus/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69777/rus/06.03.2013
 ---
 
 ## Районный бюджет Алакольского района на 2015 год
