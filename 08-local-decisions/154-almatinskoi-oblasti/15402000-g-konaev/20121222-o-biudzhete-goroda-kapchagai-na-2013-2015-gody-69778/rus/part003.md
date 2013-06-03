@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69778/rus/06.03.2013
+source: https://zan.gov.kz/client/#!/doc/69778/rus/03.06.2013
 ---
 
 ## Бюджет города Капшагай на 2015 год
