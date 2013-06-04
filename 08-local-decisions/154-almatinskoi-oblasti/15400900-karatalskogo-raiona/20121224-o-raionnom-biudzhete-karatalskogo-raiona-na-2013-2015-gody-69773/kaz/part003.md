@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69773/kaz/06.03.2013
+source: https://zan.gov.kz/client/#!/doc/69773/kaz/04.06.2013
 ---
 
 ## Қаратал ауданының 2013 жылға арналған аудандық бюджеті
