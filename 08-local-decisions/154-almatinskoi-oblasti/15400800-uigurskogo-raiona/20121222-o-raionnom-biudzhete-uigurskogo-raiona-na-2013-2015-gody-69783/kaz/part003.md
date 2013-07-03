@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69783/kaz/03.06.2013
+source: https://zan.gov.kz/client/#!/doc/69783/kaz/03.07.2013
 ---
 
 ## Ұйғыр ауданының 2015 жылға арналған аудандық бюджеті
