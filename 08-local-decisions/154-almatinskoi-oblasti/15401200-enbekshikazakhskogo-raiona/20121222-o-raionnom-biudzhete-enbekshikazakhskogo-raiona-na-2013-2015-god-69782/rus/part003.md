@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69782/rus/05.06.2013
+source: https://zan.gov.kz/client/#!/doc/69782/rus/04.07.2013
 ---
 
 ## Районный бюджет Енбекшиказахского района на 2015 год
