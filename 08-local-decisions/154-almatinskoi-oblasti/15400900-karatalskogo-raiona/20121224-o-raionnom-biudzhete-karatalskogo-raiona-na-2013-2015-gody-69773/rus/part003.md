@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69773/rus/20.08.2013
+source: https://zan.gov.kz/client/#!/doc/69773/rus/08.11.2013
 ---
 
 ## Районный бюджет Каратальского района на 2015 год
