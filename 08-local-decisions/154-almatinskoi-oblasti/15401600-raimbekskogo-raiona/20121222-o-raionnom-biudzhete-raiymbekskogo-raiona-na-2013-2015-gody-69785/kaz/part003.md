@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69785/kaz/21.08.2013
+source: https://zan.gov.kz/client/#!/doc/69785/kaz/11.11.2013
 ---
 
 ## Райымбек ауданының 2015 жылға арналған аудан бюджеті
