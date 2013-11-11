@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69789/kaz/30.09.2013
+source: https://zan.gov.kz/client/#!/doc/69789/kaz/11.11.2013
 ---
 
 ## Қарасай ауданының 2015 жылға арналған аудандық бюджеті
