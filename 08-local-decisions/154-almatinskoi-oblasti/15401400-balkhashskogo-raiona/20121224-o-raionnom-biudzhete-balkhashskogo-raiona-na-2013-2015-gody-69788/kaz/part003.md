@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69788/kaz/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/69788/kaz/05.12.2013
 ---
 
 ## Балқаш ауданының 2015 жылға арналған аудандық бюджеті
