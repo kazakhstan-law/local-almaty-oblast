@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76250/rus/18.12.2013
+source: https://zan.gov.kz/client/#!/doc/76250/rus/30.01.2014
 ---
 
 ## Областной бюджет Алматинской области на 2015 год
