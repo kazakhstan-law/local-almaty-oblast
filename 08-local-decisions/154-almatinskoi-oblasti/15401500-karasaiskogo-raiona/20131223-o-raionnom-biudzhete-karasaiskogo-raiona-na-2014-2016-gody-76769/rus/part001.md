@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76769/rus/23.12.2013
+source: https://zan.gov.kz/client/#!/doc/76769/rus/10.02.2014
 ---
 
 ## Бюджет Карасайского района на 2014 год
