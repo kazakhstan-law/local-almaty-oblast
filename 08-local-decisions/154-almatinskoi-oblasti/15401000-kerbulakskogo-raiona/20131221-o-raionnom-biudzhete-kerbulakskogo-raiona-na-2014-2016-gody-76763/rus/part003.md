@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76763/rus/21.12.2013
+source: https://zan.gov.kz/client/#!/doc/76763/rus/10.02.2014
 ---
 
 ## Бюджет Кербулакского района на 2016 год
