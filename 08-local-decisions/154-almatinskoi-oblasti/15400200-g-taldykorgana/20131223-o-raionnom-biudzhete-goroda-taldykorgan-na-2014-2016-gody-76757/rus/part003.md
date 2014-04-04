@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76757/rus/07.02.2014
+source: https://zan.gov.kz/client/#!/doc/76757/rus/04.04.2014
 ---
 
 ## Бюджет города Талдыкорган на 2016 год
