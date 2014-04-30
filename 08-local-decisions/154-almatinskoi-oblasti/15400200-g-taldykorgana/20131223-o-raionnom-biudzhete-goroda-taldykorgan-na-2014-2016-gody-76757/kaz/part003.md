@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76757/kaz/04.04.2014
+source: https://zan.gov.kz/client/#!/doc/76757/kaz/30.04.2014
 ---
 
 ## Талдықорған қаласының 2016 жылға арналған бюджеті
