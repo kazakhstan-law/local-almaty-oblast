@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76250/kaz/24.04.2014
+source: https://zan.gov.kz/client/#!/doc/76250/kaz/24.07.2014
 ---
 
 ## Алматы облысының 2015 жылға арналған облыстық бюджеті
