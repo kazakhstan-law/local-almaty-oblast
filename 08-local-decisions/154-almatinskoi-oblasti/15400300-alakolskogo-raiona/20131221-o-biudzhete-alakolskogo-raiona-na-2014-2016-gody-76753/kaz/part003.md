@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76753/kaz/05.05.2014
+source: https://zan.gov.kz/client/#!/doc/76753/kaz/06.08.2014
 ---
 
 ## Алакөл ауданының 2016 жылға арналған аудандық бюджеті
