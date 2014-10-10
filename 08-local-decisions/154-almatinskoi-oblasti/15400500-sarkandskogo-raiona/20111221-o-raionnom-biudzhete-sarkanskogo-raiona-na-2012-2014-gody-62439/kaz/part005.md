@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62439/kaz/05.12.2012
+source: https://zan.gov.kz/client/#!/doc/62439/kaz/10.10.2014
 ---
 
 > *"Сарқан ауданының 2012-2014*  
