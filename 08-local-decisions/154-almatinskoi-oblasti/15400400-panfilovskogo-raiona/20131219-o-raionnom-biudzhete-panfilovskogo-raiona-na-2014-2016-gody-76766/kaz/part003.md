@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76766/kaz/04.08.2014
+source: https://zan.gov.kz/client/#!/doc/76766/kaz/14.10.2014
 ---
 
 ## Панфилов ауданының 2016 жылға арналған аудандық бюджеті

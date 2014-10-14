@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76766/rus/04.08.2014
+source: https://zan.gov.kz/client/#!/doc/76766/rus/14.10.2014
 ---
 
 ## Районный бюджет Панфиловского района на 2016 год
