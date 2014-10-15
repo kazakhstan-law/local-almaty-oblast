@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76755/kaz/04.08.2014
+source: https://zan.gov.kz/client/#!/doc/76755/kaz/15.10.2014
 ---
 
 # Көксу ауданының 2014-2016 жылдарға арналған аудандық бюджеті туралы
