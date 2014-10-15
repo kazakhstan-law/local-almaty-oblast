@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76763/kaz/06.08.2014
+source: https://zan.gov.kz/client/#!/doc/76763/kaz/15.10.2014
 ---
 
 ## Кербұлақ ауданының 2016 жылға арналған аудандық бюджеті
