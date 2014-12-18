@@ -1,0 +1,25 @@
+key: V14DA002988
+akn: /akn/kz/act/2014-12-18/V14DA002988
+act_code: '85617'
+requisite: Решение №279 от 18.12.2014, Маслихат г. Талдыкоргана
+title:
+  rus: О бюджете города Талдыкорган на 2015-2017 годы
+  kaz: 'Талдықорған қаласының 2015-2017 жылдарға арналған бюджеті туралы '
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2014-12-18
+in_force_from: 2015-01-01
+approved_by:
+- '154002000002'
+versions:
+- date: 2014-12-18
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2014-12-18
+  rus: 2014-12-18
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/85617/kaz/18.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/85617/rus/18.12.2014
