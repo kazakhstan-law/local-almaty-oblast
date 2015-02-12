@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85568/kaz/19.12.2014
+source: https://zan.gov.kz/client/#!/doc/85568/kaz/12.02.2015
 ---
 
 > *Қарасай аудандық мәслихатының*  
