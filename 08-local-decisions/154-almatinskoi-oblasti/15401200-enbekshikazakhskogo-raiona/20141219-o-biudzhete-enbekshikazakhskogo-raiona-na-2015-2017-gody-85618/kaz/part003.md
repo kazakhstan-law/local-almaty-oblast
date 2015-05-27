@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85618/kaz/09.02.2015
+source: https://zan.gov.kz/client/#!/doc/85618/kaz/27.05.2015
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
