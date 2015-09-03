@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85581/kaz/27.05.2015
+source: https://zan.gov.kz/client/#!/doc/85581/kaz/03.09.2015
 ---
 
 > *Іле ауданы мәслихатының*  
