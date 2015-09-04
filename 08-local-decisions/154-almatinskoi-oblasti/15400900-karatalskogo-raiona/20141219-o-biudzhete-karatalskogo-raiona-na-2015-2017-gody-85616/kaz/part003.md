@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85616/kaz/26.05.2015
+source: https://zan.gov.kz/client/#!/doc/85616/kaz/04.09.2015
 ---
 
 > *Қаратал аудандық мәслихатының*  
