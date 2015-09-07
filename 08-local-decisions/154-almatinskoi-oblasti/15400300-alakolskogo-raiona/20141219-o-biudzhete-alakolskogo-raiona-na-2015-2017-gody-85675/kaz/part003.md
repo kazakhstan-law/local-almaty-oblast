@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85675/kaz/27.05.2015
+source: https://zan.gov.kz/client/#!/doc/85675/kaz/07.09.2015
 ---
 
 > *Алакөл аудандық*  
