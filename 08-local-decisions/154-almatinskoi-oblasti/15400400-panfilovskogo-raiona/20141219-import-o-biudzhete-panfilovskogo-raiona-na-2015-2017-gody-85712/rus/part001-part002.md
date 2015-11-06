@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85712/rus/04.09.2015
+source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 ---
 
 <table>
@@ -94,7 +94,47 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/04.09.2015
 <td></td>
 <td></td>
 <td>4. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Приобретение финансовых активов</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>456</td>
+<td></td>
+<td>Отдел внутренней политики района (города областного значения)</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>065</td>
+<td>Формирование или увеличение уставного капитала юридических лиц</td>
+<td>4000</td>
 </tr>
 </table>
 
@@ -166,35 +206,35 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/04.09.2015
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>-206411</td>
+<td>-202591</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>206411</td>
+<td>202591</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>41622</td>
+<td>37802</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>41622</td>
+<td>37802</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Договоры займа</td>
-<td>41622</td>
+<td>37802</td>
 </tr>
 <tr>
 <td>8</td>
