@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
+source: https://zan.gov.kz/client/#!/doc/85712/rus/09.12.2015
 ---
 
 <table>
@@ -38,18 +38,103 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 <td>8977</td>
 </tr>
 <tr>
-<td></td>
+<td>5</td>
 <td>01</td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>8977</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>5</td>
+<td>01</td>
 <td>1</td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>8977</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бюджетная программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4. Сальдо по операциям с финансовыми активами</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Приобретение финансовых активов</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>456</td>
+<td></td>
+<td>Отдел внутренней политики района (города областного значения)</td>
+<td>4000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>065</td>
+<td>Формирование или увеличение уставного капитала юридических лиц</td>
+<td>4000</td>
 </tr>
 </table>
 
@@ -223,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 <td>37802</td>
 </tr>
 <tr>
-<td></td>
+<td>7</td>
 <td>01</td>
 <td></td>
 <td>Внутренние государственные займы</td>
@@ -244,15 +329,15 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 <td>173766</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td>01</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
 <td>173766</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>8</td>
+<td>01</td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>173766</td>
@@ -303,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 <td>8977</td>
 </tr>
 <tr>
-<td></td>
+<td>16</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -311,17 +396,17 @@ source: https://zan.gov.kz/client/#!/doc/85712/rus/06.11.2015
 <td>8977</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>16</td>
+<td>1</td>
 <td>452</td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
 <td>8977</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>16</td>
+<td>1</td>
+<td>452</td>
 <td>008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td>8977</td>

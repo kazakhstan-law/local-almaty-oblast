@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85712/kaz/06.11.2015
+source: https://zan.gov.kz/client/#!/doc/85712/kaz/09.12.2015
 ---
 
 <table>
@@ -80,14 +80,6 @@ source: https://zan.gov.kz/client/#!/doc/85712/kaz/06.11.2015
 <td></td>
 <td>Атауы</td>
 <td></td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -177,151 +169,154 @@ source: https://zan.gov.kz/client/#!/doc/85712/kaz/06.11.2015
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
-<td colspan="3" rowspan="4">Сомасы (мың теңге)</td>
+<td colspan="4">Санаты</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="6">Сыныбы</td>
+<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+<td></td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td colspan="3">-202591</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5. Бюджет тапшылығы (профициті)</td>
+<td>-202591</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="3">202591</td>
+<td></td>
+<td></td>
+<td></td>
+<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>202591</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td colspan="3">37802</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td>37802</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td colspan="3">37802</td>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Мемлекеттік ішкі қарыздар</td>
+<td>37802</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісімшарттары</td>
-<td colspan="3">37802</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Қарыз алу келісімшарттары</td>
+<td>37802</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="3">173766</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>173766</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="3">173766</td>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>173766</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="3">173766</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>173766</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функционалдық кіші топ</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Бюджеттік бағдарлама</td>
+<td></td>
+<td></td>
+<td colspan="2">Бюджеттік бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 <th>6</th>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қарыздарды өтеу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
 <td>8977</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қарыздарды өтеу</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
 <td>8977</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">452</td>
-<td colspan="2"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td></td>
+<td>452</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
 <td>8977</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td colspan="2">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>8977</td>
 </tr>
 </table>
