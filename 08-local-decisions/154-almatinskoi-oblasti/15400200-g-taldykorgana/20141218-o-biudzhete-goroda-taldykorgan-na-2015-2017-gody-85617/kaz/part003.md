@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85617/kaz/30.10.2015
+source: https://zan.gov.kz/client/#!/doc/85617/kaz/09.12.2015
 ---
 
 > *Қалалық мәслихаттың 2014*  
