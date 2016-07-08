@@ -1,0 +1,24 @@
+key: G16DJ00528M
+akn: /akn/kz/act/2016-07-08/G16DJ00528M
+act_code: '115406'
+requisite: Решение Илийского районного маслихата Алматинской области от 8 июля 2016 года № 5-28
+title:
+  rus: О признании утратившим силу решений районного маслихата
+  kaz: Іле аудандық мәслихаты шешімдерінің күшін жою туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2016-07-08
+approved_by:
+- '154017000002'
+versions:
+- date: 2016-07-08
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-07-08
+  rus: 2016-07-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/115406/kaz/08.07.2016
+  rus: https://zan.gov.kz/client/#!/doc/115406/rus/08.07.2016
