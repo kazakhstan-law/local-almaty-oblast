@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97234/kaz/21.07.2016
+source: https://zan.gov.kz/client/#!/doc/97234/kaz/27.10.2016
 ---
 
 > *Жамбыл аудандық Мәслихатының 2015*  
