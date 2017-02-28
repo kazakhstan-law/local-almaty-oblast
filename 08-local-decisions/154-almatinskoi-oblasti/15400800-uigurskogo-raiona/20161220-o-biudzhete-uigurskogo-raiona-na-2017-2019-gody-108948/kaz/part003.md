@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108948/kaz/20.12.2016
+source: https://zan.gov.kz/client/#!/doc/108948/kaz/28.02.2017
 ---
 
 > *Ұйғыр аудандық мәслихатының*  
