@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108826/kaz/01.03.2017
+source: https://zan.gov.kz/client/#!/doc/108826/kaz/09.06.2017
 ---
 
 > *Алакөл аудандық мәслихатының*  
