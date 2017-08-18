@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108895/kaz/13.06.2017
+source: https://zan.gov.kz/client/#!/doc/108895/kaz/18.08.2017
 ---
 
 > *Қапшағай қалалық мәслихатының*  
