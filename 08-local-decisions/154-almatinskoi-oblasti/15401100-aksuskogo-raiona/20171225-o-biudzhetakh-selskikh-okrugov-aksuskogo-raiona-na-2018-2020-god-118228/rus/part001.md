@@ -1,17 +1,19 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
+source: https://zan.gov.kz/client/#!/doc/118228/rus/26.02.2018
 ---
 
-> *Приложение 1 к решению Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
+> *Приложение 1 утвержденное решением Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
 
 # Бюджет Аксуского сельского округа на 2018 год
+
+> *Сноска. Приложение 1 в редакции решения Аксуского районного маслихата Алматинской области от 26.02.2018 № 25-122 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -36,15 +38,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th></th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -124,15 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>106</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>125</td>
+<td>231</td>
 </tr>
 <tr>
 <td></td>
@@ -195,8 +188,9 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -221,7 +215,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -324,8 +317,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -350,7 +343,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -381,8 +373,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -400,7 +392,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -442,13 +433,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
 <tr>
-<td colspan="5">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -467,7 +459,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -498,8 +489,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -517,7 +508,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -545,8 +535,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -571,7 +561,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1331,15 +1320,17 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 </tr>
 </table>
 
-> *Приложение 4 к решению Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
+> *Приложение 4 утвержденное решением Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
 
 # Бюджет Есеболатовского сельского округа на 2018 год
+
+> *Сноска. Приложение 4 в редакции решения Аксуского районного маслихата Алматинской области от 26.02.2018 № 25-122 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1364,15 +1355,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th></th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1452,15 +1442,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>97</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>41</td>
+<td>138</td>
 </tr>
 <tr>
 <td></td>
@@ -1531,8 +1513,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1557,7 +1539,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1716,8 +1697,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1742,7 +1723,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1773,8 +1753,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1792,7 +1772,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1834,8 +1813,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1860,7 +1839,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1891,8 +1869,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1910,7 +1888,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1938,8 +1915,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -1964,7 +1941,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2772,15 +2748,17 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 </tr>
 </table>
 
-> *Приложение 7 к решению Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
+> *Приложение 7 утвержденное решением Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
 
 # Бюджет Жансугуровского сельского округа на 2018 год
+
+> *Сноска. Приложение 7 в редакции решения Аксуского районного маслихата Алматинской области от 26.02.2018 № 25-122 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -2805,15 +2783,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th></th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2821,7 +2798,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>155151</td>
+<td>205151</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2829,7 +2806,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>61069</td>
+<td>52838</td>
 </tr>
 <tr>
 <td></td>
@@ -2837,7 +2814,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>12820</td>
+<td>10720</td>
 </tr>
 <tr>
 <td></td>
@@ -2845,7 +2822,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>12820</td>
+<td>10720</td>
 </tr>
 <tr>
 <td></td>
@@ -2853,7 +2830,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Индивидуальный подоходный налог с доходов, не облагаемых у источника выплаты</td>
-<td>12820</td>
+<td>10720</td>
 </tr>
 <tr>
 <td></td>
@@ -2861,7 +2838,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>48249</td>
+<td>42118</td>
 </tr>
 <tr>
 <td></td>
@@ -2893,15 +2870,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>467</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>1218</td>
+<td>1685</td>
 </tr>
 <tr>
 <td></td>
@@ -2909,7 +2878,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>46251</td>
+<td>40120</td>
 </tr>
 <tr>
 <td></td>
@@ -2917,7 +2886,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>01</td>
 <td>Hалог на транспортные средства с юридических лиц</td>
-<td>1935</td>
+<td>1804</td>
 </tr>
 <tr>
 <td></td>
@@ -2925,7 +2894,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Hалог на транспортные средства с физических лиц</td>
-<td>44316</td>
+<td>38316</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2933,7 +2902,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>94082</td>
+<td>152313</td>
 </tr>
 <tr>
 <td></td>
@@ -2941,7 +2910,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>94082</td>
+<td>152313</td>
 </tr>
 <tr>
 <td></td>
@@ -2949,7 +2918,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>94082</td>
+<td>152313</td>
 </tr>
 <tr>
 <td></td>
@@ -2965,15 +2934,15 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>03</td>
 <td>Субвенции</td>
-<td>11954</td>
+<td>70185</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -2998,7 +2967,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -3014,7 +2982,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>155151</td>
+<td>205151</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3150,7 +3118,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>31584</td>
+<td>81584</td>
 </tr>
 <tr>
 <td></td>
@@ -3158,7 +3126,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>31584</td>
+<td>81584</td>
 </tr>
 <tr>
 <td></td>
@@ -3166,7 +3134,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31584</td>
+<td>81584</td>
 </tr>
 <tr>
 <td></td>
@@ -3182,7 +3150,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>21238</td>
+<td>71238</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3200,29 +3168,13 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>Прочие</td>
 <td>12095</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>12095</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>040</td>
-<td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>12095</td>
-</tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -3247,7 +3199,62 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>12095</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
+<td>12095</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бюджетная программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -3278,8 +3285,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -3297,7 +3304,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -3339,8 +3345,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -3365,7 +3371,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -3396,8 +3401,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -3415,7 +3420,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -3443,8 +3447,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -3469,7 +3473,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4405,15 +4408,17 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 </tr>
 </table>
 
-> *Приложение 10 к решению Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
+> *Приложение 10 утвержденное решением Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
 
 # Бюджет Капальского сельского округа на 2018 год
+
+> *Сноска. Приложение 10 в редакции решения Аксуского районного маслихата Алматинской области от 26.02.2018 № 25-122 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -4438,15 +4443,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th></th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4462,7 +4466,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>9353</td>
+<td>8753</td>
 </tr>
 <tr>
 <td></td>
@@ -4470,7 +4474,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>3000</td>
+<td>2400</td>
 </tr>
 <tr>
 <td></td>
@@ -4478,7 +4482,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>3000</td>
+<td>2400</td>
 </tr>
 <tr>
 <td></td>
@@ -4486,7 +4490,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Индивидуальный подоходный налог с доходов, не облагаемых у источника выплаты</td>
-<td>3000</td>
+<td>2400</td>
 </tr>
 <tr>
 <td></td>
@@ -4526,15 +4530,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>250</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>126</td>
+<td>376</td>
 </tr>
 <tr>
 <td></td>
@@ -4566,7 +4562,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>34206</td>
+<td>34806</td>
 </tr>
 <tr>
 <td></td>
@@ -4574,7 +4570,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>34206</td>
+<td>34806</td>
 </tr>
 <tr>
 <td></td>
@@ -4582,7 +4578,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>34206</td>
+<td>34806</td>
 </tr>
 <tr>
 <td></td>
@@ -4598,15 +4594,15 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>03</td>
 <td>Субвенции</td>
-<td>13111</td>
+<td>13711</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -4631,7 +4627,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4766,8 +4761,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -4792,7 +4787,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4823,19 +4817,22 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4850,6 +4847,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th></th>
 </tr>
 <tr>
 <td></td>
@@ -4857,6 +4855,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -4864,6 +4863,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4871,6 +4871,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4878,14 +4879,15 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>1</td>
 <td>Погашение бюджетных кредитов выданных из государственного бюджета</td>
 <td>0</td>
+<td></td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -4910,7 +4912,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4941,8 +4942,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -4960,7 +4961,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4989,7 +4989,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <tr>
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
-сумма
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -5013,15 +5013,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -5844,15 +5836,17 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 </tr>
 </table>
 
-> *Приложение 13 к решению Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
+> *Приложение 13 утвержденное решением Аксуского районного маслихата от 25 декабря 2017 года № 24-117 «О бюджете сельских округов Аксуского района на 2018- 2020 годы»*
 
 # Бюджет Карачиликского сельского округа на 2018 год
+
+> *Сноска. Приложение 13 в редакции решения Аксуского районного маслихата Алматинской области от 26.02.2018 № 25-122 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -5877,15 +5871,14 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th></th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5901,7 +5894,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4543</td>
+<td>4200</td>
 </tr>
 <tr>
 <td></td>
@@ -5909,7 +5902,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>800</td>
+<td>457</td>
 </tr>
 <tr>
 <td></td>
@@ -5917,7 +5910,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>800</td>
+<td>457</td>
 </tr>
 <tr>
 <td></td>
@@ -5925,7 +5918,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Индивидуальный подоходный налог с доходов, не облагаемых у источника выплаты</td>
-<td>800</td>
+<td>457</td>
 </tr>
 <tr>
 <td></td>
@@ -5965,15 +5958,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>02</td>
 <td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>120</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>10</td>
+<td>130</td>
 </tr>
 <tr>
 <td></td>
@@ -5997,7 +5982,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>66284</td>
+<td>66627</td>
 </tr>
 <tr>
 <td></td>
@@ -6005,7 +5990,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>66284</td>
+<td>66627</td>
 </tr>
 <tr>
 <td></td>
@@ -6013,7 +5998,7 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>66284</td>
+<td>66627</td>
 </tr>
 <tr>
 <td></td>
@@ -6021,15 +6006,15 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td>03</td>
 <td>Субвенции</td>
-<td>66284</td>
+<td>66627</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -6054,7 +6039,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -6189,8 +6173,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -6215,7 +6199,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -6246,8 +6229,8 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
+<td rowspan="4">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -6265,7 +6248,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -6306,9 +6288,108 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="8">Функциональная группа</td>
+<td colspan="3" rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Бюджетная программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th colspan="2">5</th>
+<th colspan="3">6</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">IV. Сальдо по операциям с финансовыми активами</td>
+<td colspan="3">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Приобретение финансовых активов</td>
+<td colspan="3">0</td>
+</tr>
+<tr>
+<td colspan="9">Категория</td>
 <td rowspan="4">
-сумма
+Сумма
+(тысяч тенге)
+</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="7">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">V. Дефицит бюджета (профицит)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">VI. Финансирование дефицита ( использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">
+Сумма
 (тысяч тенге)
 </td>
 </tr>
@@ -6333,111 +6414,6 @@ source: https://zan.gov.kz/client/#!/doc/118228/rus/25.12.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">
-сумма
-(тысяч тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит бюджета (профицит)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита ( использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-сумма
-(тысяч тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджетная программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
