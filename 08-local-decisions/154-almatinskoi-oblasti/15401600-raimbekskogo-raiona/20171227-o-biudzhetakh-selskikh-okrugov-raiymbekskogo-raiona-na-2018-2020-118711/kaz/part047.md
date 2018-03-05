@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118711/kaz/27.12.2017
+source: https://zan.gov.kz/client/#!/doc/118711/kaz/05.03.2018
 ---
 
 > *Райымбек аудандық мәслихатының*  
