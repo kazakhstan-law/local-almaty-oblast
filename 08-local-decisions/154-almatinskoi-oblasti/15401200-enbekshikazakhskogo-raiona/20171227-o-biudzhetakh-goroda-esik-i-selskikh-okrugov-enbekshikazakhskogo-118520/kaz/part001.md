@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
+source: https://zan.gov.kz/client/#!/doc/118520/kaz/07.03.2018
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
@@ -9,11 +9,12 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 
 # 2018 жылға арналған Ават ауылдық округінің бюджеті
 
+> *Ескерту. 1-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 07.03.2018 № 25-22 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы,
 мың теңге
 </td>
@@ -31,63 +32,66 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
+<td>
+
+Атауы
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>53284</td>
+<td>41194</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>50284</td>
+<td>38194</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>22225</td>
+<td>12267</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>22225</td>
+<td>12267</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>28059</td>
+<td>25927</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>900</td>
+<td>769</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>1584</td>
+<td>1458</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>25575</td>
+<td>23700</td>
 </tr>
 <tr>
 <td>4</td>
@@ -142,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>53284</td>
+<td>41194</td>
 </tr>
 <tr>
 <td>01</td>
@@ -189,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді - мекендерді абаттандыру</td>
+<td>Елді-мекендерді абаттандыру</td>
 <td>5598</td>
 </tr>
 <tr>
@@ -302,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>21402</td>
+<td>9312</td>
 </tr>
 <tr>
 <td></td>
@@ -310,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>21402</td>
+<td>9312</td>
 </tr>
 <tr>
 <td></td>
@@ -318,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21402</td>
+<td>9312</td>
 </tr>
 <tr>
 <td></td>
@@ -326,14 +330,14 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td>043</td>
 <td>Бюджеттік алып коюлар</td>
-<td>21402</td>
+<td>9312</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>III. Таза бюджеттік кредит беру</td>
+<td>III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 </table>
@@ -408,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">IY. Қаржылық активтермен болатын операциялар бойынша сальдо</td>
+<td colspan="6">IV. Қаржыл активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
@@ -432,14 +436,14 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Y. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">YI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
@@ -460,28 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісімшарттары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">Қарыз алу келісім-шарттары</td>
 <td colspan="2">0</td>
 </tr>
 </table>
@@ -1645,10 +1628,12 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 </table>
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
-> *2017 жылғы «27» желтоқсандағы*  
+> *2017 жылғы 27 желтоқсандағы*  
 > *«Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 23-1 шешіміне 4-қосымша*
 
 # 2018 жылға арналған Асы ауылдық округінің бюджеті
+
+> *Ескерту. 4-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 07.03.2018 № 25-22 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1672,84 +1657,87 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
+<td>
+
+Атауы
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>68330</td>
+<td>68230</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>23695</td>
+<td>23403</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>2166</td>
+<td>4204</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>2166</td>
+<td>4204</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>21529</td>
+<td>19199</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>790</td>
+<td>590</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>917</td>
+<td>1228</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>19822</td>
+<td>17381</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>44635</td>
+<td>44827</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>44635</td>
+<td>44827</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>44635</td>
+<td>44827</td>
 </tr>
 </table>
 
@@ -1783,7 +1771,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>68330</td>
+<td>68230</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1887,15 +1875,15 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1650</td>
+<td>1550</td>
 </tr>
 <tr>
 <td></td>
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді - мекендерді абаттандыру</td>
-<td>1650</td>
+<td>Елді-мекендерді абаттандыру</td>
+<td>1550</td>
 </tr>
 <tr>
 <td></td>
@@ -1903,7 +1891,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1650</td>
+<td>1550</td>
 </tr>
 <tr>
 <td></td>
@@ -1919,7 +1907,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td>010</td>
 <td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>150</td>
+<td>50</td>
 </tr>
 <tr>
 <td></td>
@@ -1966,7 +1954,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>III. Таза бюджеттік кредит беру</td>
+<td>III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 </table>
@@ -2041,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">IY. Қаржылық активтермен болатын операциялар бойынша сальдо</td>
+<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
@@ -2065,14 +2053,14 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Y. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">YI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
@@ -2093,28 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісімшарттары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">Қарыз алу келісім-шарттары</td>
 <td colspan="2">0</td>
 </tr>
 </table>
@@ -2122,7 +2089,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td rowspan="3">
 Сомасы,
 мың теңге
 </td>
@@ -2142,6 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td>Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -3248,10 +3216,12 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 </table>
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
-> *2017 жылғы «27» желтоқсандағы*  
+> *2017 жылғы 27 желтоқсандағы*  
 > *«Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 23-1 шешіміне 7-қосымша*
 
 # 2018 жылға арналған Ақши ауылдық округінің бюджеті
+
+> *Ескерту. 7-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 07.03.2018 № 25-22 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3275,7 +3245,10 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
+<td>
+
+Атауы
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3289,70 +3262,70 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>26645</td>
+<td>21006</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>3748</td>
+<td>2708</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>3748</td>
+<td>2708</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>22897</td>
+<td>18298</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>510</td>
+<td>395</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>1287</td>
+<td>1270</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>21100</td>
+<td>16633</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>24510</td>
+<td>30149</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>24510</td>
+<td>30149</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>24510</td>
+<td>30149</td>
 </tr>
 </table>
 
@@ -3473,7 +3446,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді - мекендерді абаттандыру</td>
+<td>Елді-мекендерді абаттандыру</td>
 <td>4350</td>
 </tr>
 <tr>
@@ -3585,7 +3558,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>III. Таза бюджеттік кредит беру</td>
+<td>III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 </table>
@@ -3637,103 +3610,82 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 
 <table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
+<td colspan="10">Функционалдық топ</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 <td colspan="2">Атауы</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">IY. Қаржылық активтермен болатын операциялар бойынша сальдо</td>
+<td colspan="7">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="5">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Y. Бюджет тапшылығы (профициті)</td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">YI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="3">Қарыздар түсімі</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
 <td colspan="2"></td>
-<td colspan="2">Мемлекеттік ішкі қарыздар</td>
+<td colspan="3">Мемлекеттік ішкі қарыздар</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісімшарттары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="3">Қарыз алу келісім-шарттары</td>
 <td colspan="2">0</td>
 </tr>
 </table>
@@ -4900,10 +4852,12 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 </table>
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
-> *2017 жылғы «27» желтоқсандағы*  
+> *2017 жылғы 27 желтоқсандағы*  
 > *«Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 23-1 шешіміне 10-қосымша*
 
 # 2018 жылға арналған Бәйдібек би ауылдық округінің бюджеті
+
+> *Ескерту. 10-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 07.03.2018 № 25-22 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -4927,63 +4881,66 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
+<td>
+
+Атауы
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>60262</td>
+<td>74157</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>37762</td>
+<td>51657</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>12120</td>
+<td>17599</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>12120</td>
+<td>17599</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>25642</td>
+<td>34058</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>1340</td>
+<td>1410</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>1994</td>
+<td>4763</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>22308</td>
+<td>27885</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5038,7 +4995,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>60262</td>
+<td>74157</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5093,7 +5050,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді - мекендерді абаттандыру</td>
+<td>Елді-мекендерді абаттандыру</td>
 <td>4110</td>
 </tr>
 <tr>
@@ -5174,7 +5131,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>12818</td>
+<td>26713</td>
 </tr>
 <tr>
 <td></td>
@@ -5182,7 +5139,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>12818</td>
+<td>26713</td>
 </tr>
 <tr>
 <td></td>
@@ -5190,7 +5147,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>12818</td>
+<td>26713</td>
 </tr>
 <tr>
 <td></td>
@@ -5198,14 +5155,14 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 <td></td>
 <td>043</td>
 <td>Бюджеттік алып коюлар</td>
-<td>12818</td>
+<td>26713</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>III. Таза бюджеттік кредит беру</td>
+<td>III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 </table>
@@ -5257,103 +5214,82 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/27.12.2017
 
 <table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
+<td colspan="10">Функционалдық топ</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 <td colspan="2">Атауы</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">IY. Қаржылық активтермен болатын операциялар бойынша сальдо</td>
+<td colspan="7">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="5">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Y. Бюджет тапшылығы (профициті)</td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">YI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="3">Қарыздар түсімі</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
 <td colspan="2"></td>
-<td colspan="2">Мемлекеттік ішкі қарыздар</td>
+<td colspan="3">Мемлекеттік ішкі қарыздар</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісімшарттары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="3">Қарыз алу келісім-шарттары</td>
 <td colspan="2">0</td>
 </tr>
 </table>
