@@ -1,17 +1,19 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
+source: https://zan.gov.kz/client/#!/doc/118260/rus/13.03.2018
 ---
 
 > *Приложение 1*  
 > *к решению Ескельдинского*  
 > *районного маслихата*  
-> *от «27» декабря 2017 года*  
+> *от 27 декабря 2017 года*  
 > *№ 24-162 «О бюджетах*  
 > *сельских округов Ескельдинского*  
 > *района на 2018-2020 годы»*
 
-# Бюджет Алдабергенского сельского округа на 2018 год
+# Бюджет Алдабергеновского сельского округа на 2018 год
+
+> *Сноска. Приложение 1 в редакции решения Ескельдинского районного маслихата Алматинской области от 13.03.2018 № 27-177 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -45,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>56465</td>
+<td>58465</td>
 </tr>
 <tr>
 <td>1</td>
@@ -101,206 +103,214 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Поступление трансфертов</td>
-<td>44683</td>
+<td>46683</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>44683</td>
+<td>46683</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>44683</td>
+<td>46683</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="5">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th colspan="2">2</th>
+<th>1</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>56465</td>
+<td>58465</td>
 </tr>
 <tr>
-<td colspan="4">01</td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>21267</td>
+<td>23267</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21267</td>
+<td>23267</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21267</td>
+<td>23267</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>21267</td>
+<td>20967</td>
 </tr>
 <tr>
-<td colspan="4">04</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>2300</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Образование</td>
 <td>27601</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
 <td>27601</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>27601</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
 <td>27601</td>
 </tr>
 <tr>
-<td colspan="4">07</td>
-<td colspan="2"></td>
+<td>07</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Жилищно - коммунальное хозяйство</td>
 <td>4147</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">3</td>
+<td></td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
 <td>4147</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>4147</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 <td>1998</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>602</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>1547</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
-<td colspan="2"></td>
+<td>13</td>
 <td></td>
-<td></td>
-<td>Прочие</td>
-<td>3450</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="2">9</td>
 <td></td>
 <td></td>
 <td>Прочие</td>
 <td>3450</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>3450</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>3450</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
@@ -310,37 +320,37 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 
 <table>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="6">Программа</td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">Наименование</td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">ІІІ. Чистое бюджетное кредитование</td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІІІ. Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 </table>
@@ -391,7 +401,10 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -412,8 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -456,27 +468,24 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>VI. Финансирование дефицита(использование профицита) бюджета</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="4">Функциональная группа</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
@@ -485,11 +494,9 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2994,12 +3001,14 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 > *Приложение 7*  
 > *к решению Ескельдинского*  
 > *районного маслихата*  
-> *от «27» декабря 2017 года*  
+> *от 27 декабря 2017 года*  
 > *№ 24-162 «О бюджетах*  
 > *сельских округов Ескельдинского*  
 > *района на 2018-2020 годы»*
 
 # Бюджет Бактыбайского сельского округа на 2018 год
+
+> *Сноска. Приложение 7 в редакции решения Ескельдинского районного маслихата Алматинской области от 13.03.2018 № 27-177 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -3033,7 +3042,7 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>60476</td>
+<td>64476</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3089,206 +3098,214 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Поступление трансфертов</td>
-<td>22694</td>
+<td>26694</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>22694</td>
+<td>26694</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>22694</td>
+<td>26694</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="5">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th colspan="2">2</th>
+<th>1</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>60476</td>
+<td>64476</td>
 </tr>
 <tr>
-<td colspan="4">01</td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>22089</td>
+<td>26089</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>22089</td>
+<td>26089</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>22089</td>
+<td>26089</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
 <td>22089</td>
 </tr>
 <tr>
-<td colspan="4">04</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Образование</td>
 <td>27165</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
 <td>27165</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>27165</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
 <td>27165</td>
 </tr>
 <tr>
-<td colspan="4">07</td>
-<td colspan="2"></td>
+<td>07</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Жилищно - коммунальное хозяйство</td>
 <td>6430</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">3</td>
+<td></td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
 <td>6430</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>6430</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 <td>3032</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>953</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>2445</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
-<td colspan="2"></td>
+<td>13</td>
 <td></td>
-<td></td>
-<td>Прочие</td>
-<td>4792</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="2">9</td>
 <td></td>
 <td></td>
 <td>Прочие</td>
 <td>4792</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>4792</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>4792</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
@@ -3298,37 +3315,37 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 
 <table>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="6">Программа</td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">Наименование</td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">ІІІ. Чистое бюджетное кредитование</td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІІІ. Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 </table>
@@ -3379,7 +3396,10 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3400,15 +3420,17 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>
+IV. Сальдо по операциям с
+финансовыми активами
+</td>
 <td>0</td>
 </tr>
 </table>
@@ -3444,45 +3466,40 @@ source: https://zan.gov.kz/client/#!/doc/118260/rus/27.12.2017
 <td></td>
 <td></td>
 <td></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>VI. Финансирование дефицита(использование профицита) бюджета</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="4">Функциональная группа</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Программа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Наименование</td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Погашение займов</td>
-<td colspan="2">0</td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td>0</td>
 </tr>
 </table>
 
