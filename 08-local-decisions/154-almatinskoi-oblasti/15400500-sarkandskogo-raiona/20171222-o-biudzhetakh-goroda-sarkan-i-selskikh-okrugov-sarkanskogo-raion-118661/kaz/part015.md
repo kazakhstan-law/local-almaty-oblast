@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
+source: https://zan.gov.kz/client/#!/doc/118661/kaz/14.03.2018
 ---
 
 > *Сарқан аудандық мәслихатының*  
@@ -478,6 +478,8 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 
 # Черкасск ауылдық округінің 2018 жылға арналған бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Алматы облысы Сарқан аудандық мәслихатының 14.03.2018 № 34-149 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -503,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>46 617</td>
+<td>47 917</td>
 </tr>
 <tr>
 <td>1</td>
@@ -559,21 +561,28 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>39 156</td>
+<td>40 456</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>39 156</td>
+<td>40 456</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың)бюджетінен трансферттер</td>
-<td>39 156</td>
+<td>40 456</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -600,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>46 617</td>
+<td>47 917</td>
 </tr>
 <tr>
 <td>01</td>
@@ -608,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>19 693</td>
+<td>20 993</td>
 </tr>
 <tr>
 <td></td>
@@ -616,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>19 693</td>
+<td>20 993</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19 693</td>
+<td>20 993</td>
 </tr>
 <tr>
 <td></td>
@@ -640,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>300</td>
+<td>1 600</td>
 </tr>
 <tr>
 <td>07</td>
@@ -759,11 +768,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -814,7 +819,6 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
@@ -854,10 +858,7 @@ source: https://zan.gov.kz/client/#!/doc/118661/kaz/22.12.2017
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-
-Сомасы (мың теңге)
-</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
