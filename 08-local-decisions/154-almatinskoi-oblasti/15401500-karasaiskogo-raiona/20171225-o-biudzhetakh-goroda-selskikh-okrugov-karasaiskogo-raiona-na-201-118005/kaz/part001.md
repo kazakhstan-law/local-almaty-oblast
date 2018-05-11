@@ -1,10 +1,10 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
+source: https://zan.gov.kz/client/#!/doc/118005/kaz/11.05.2018
 ---
 
 > *Қарасай аудандық мәслихатының*  
-> *2017 жылғы «25 »желтоқсандағы*  
+> *2017 жылғы 25 желтоқсандағы*  
 > *«Қарасай ауданының қала, ауылдық*  
 > *округтерінің 2018-2020 жылдарға*  
 > *арналған бюджеттері туралы»*  
@@ -13,29 +13,26 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 
 # Қаскелең қаласының 2018 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Алматы облысы Қарасай аудандық мәслихатының 06.03.2018 № 26-3 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Алматы облысы Қарасай аудандық мәслихатының 11.05.2018 № 29-3 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -45,13 +42,11 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>І. Кірістер</td>
-<td>986329</td>
+<td>987781</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
@@ -61,7 +56,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Табыс салығы</td>
 <td>304189</td>
 </tr>
@@ -69,14 +63,12 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>2</td>
-<td></td>
 <td>Жеке табыс салығы</td>
 <td>304189</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
-<td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
 <td>461477</td>
@@ -85,7 +77,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>1</td>
-<td></td>
 <td>Мүлікке салынатын салықтар</td>
 <td>49949</td>
 </tr>
@@ -93,7 +84,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>Жер салығы</td>
 <td>15530</td>
 </tr>
@@ -101,14 +91,12 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>395998</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
-<td></td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>3000</td>
@@ -117,7 +105,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>3000</td>
 </tr>
@@ -125,25 +112,22 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td>4</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Трансферттер түсімі</td>
-<td>217663</td>
+<td>219115</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>217663</td>
+<td>219115</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>217663</td>
+<td>219115</td>
 </tr>
 </table>
 
@@ -151,7 +135,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
@@ -184,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>986329</td>
+<td>997781</td>
 </tr>
 <tr>
 <td>01</td>
@@ -192,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34546</td>
+<td>35998</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34546</td>
+<td>35998</td>
 </tr>
 <tr>
 <td></td>
@@ -208,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34546</td>
+<td>35998</td>
 </tr>
 <tr>
 <td></td>
@@ -216,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>30646</td>
+<td>32098</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td>289330</td>
+<td>299330</td>
 </tr>
 <tr>
 <td></td>
@@ -240,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>289330</td>
+<td>299330</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>289330</td>
+<td>299330</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>289330</td>
+<td>299330</td>
 </tr>
 <tr>
 <td>07</td>
@@ -352,7 +335,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
@@ -405,25 +387,25 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td></td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Сомасы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td>(мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -431,7 +413,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -447,7 +428,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
@@ -478,9 +458,8 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="4">
-
+<td colspan="5">Санаты</td>
+<td rowspan="3">
 Сомасы
 (мың теңге)
 </td>
@@ -488,34 +467,32 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td></td>
 <td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>V.</td>
+<td>Бюджет тапшылығы (профициті)</td>
+<td>-10 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>VI.</td>
+<td>Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
@@ -525,6 +502,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
@@ -532,8 +510,41 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Қарыз алу келісім-шарттары</td>
 <td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>01</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>10 000</td>
 </tr>
 </table>
 
@@ -541,7 +552,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
@@ -1726,7 +1736,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 </table>
 
 > *Қарасай аудандық мәслихатының*  
-> *2017 жылғы «25 »желтоқсандағы*  
+> *2017 жылғы 25 желтоқсандағы*  
 > *«Қарасай ауданының қала, ауылдық*  
 > *округтерінің 2018-2020 жылдарға*  
 > *арналған бюджеттері туралы»*  
@@ -1735,31 +1745,26 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 
 # Жамбыл ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда – Алматы облысы Қарасай аудандық мәслихатының 06.03.2018 № 26-3 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда – Алматы облысы Қарасай аудандық мәслихатының 11.05.2018 № 29-3 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="5">
-
-Санаты
-</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Кіші сыныбы</td>
+<td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1769,13 +1774,11 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>І. Кірістер</td>
-<td>101690</td>
+<td>104400</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
@@ -1785,7 +1788,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Табыс салығы</td>
 <td>14337</td>
 </tr>
@@ -1793,14 +1795,12 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>2</td>
-<td></td>
 <td>Жеке табыс салығы</td>
 <td>14337</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
-<td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
 <td>76423</td>
@@ -1809,7 +1809,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>1</td>
-<td></td>
 <td>Мүлікке салынатын салықтар</td>
 <td>6831</td>
 </tr>
@@ -1817,7 +1816,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>Жер салығы</td>
 <td>4339</td>
 </tr>
@@ -1825,14 +1823,12 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>65253</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
-<td></td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>300</td>
@@ -1841,7 +1837,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>300</td>
 </tr>
@@ -1849,25 +1844,22 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td>4</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Трансферттер түсімі</td>
-<td>10630</td>
+<td>13340</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>10630</td>
+<td>13340</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>10630</td>
+<td>13340</td>
 </tr>
 </table>
 
@@ -1875,7 +1867,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
@@ -1908,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>101690</td>
+<td>110236</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1988,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>9053</td>
+<td>17599</td>
 </tr>
 <tr>
 <td></td>
@@ -1996,7 +1987,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>9053</td>
+<td>17599</td>
 </tr>
 <tr>
 <td></td>
@@ -2004,7 +1995,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9053</td>
+<td>17599</td>
 </tr>
 <tr>
 <td></td>
@@ -2028,7 +2019,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2000</td>
+<td>10546</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2100,7 +2091,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
@@ -2154,7 +2144,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
@@ -2195,7 +2184,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
-
 Сомасы
 (мың теңге)
 </td>
@@ -2226,9 +2214,8 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="4">
-
+<td colspan="5">Санаты</td>
+<td rowspan="3">
 Сомасы
 (мың теңге)
 </td>
@@ -2236,34 +2223,32 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td></td>
 <td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>V.</td>
+<td>Бюджет тапшылығы (профициті)</td>
+<td>-5 836</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>VI.</td>
+<td>Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>5 836</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
@@ -2273,6 +2258,7 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
@@ -2280,8 +2266,41 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Қарыз алу келісім-шарттары</td>
 <td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>5 836</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>5 836</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>5 836</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>01</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>5 836</td>
 </tr>
 </table>
 
@@ -2289,7 +2308,6 @@ source: https://zan.gov.kz/client/#!/doc/118005/kaz/06.03.2018
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-
 Сомасы
 (мың теңге)
 </td>
