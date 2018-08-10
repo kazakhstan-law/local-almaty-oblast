@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
+source: https://zan.gov.kz/client/#!/doc/118248/kaz/10.08.2018
 ---
 
 > *Іле аудандық мәслихатының 2017 жылғы 25 желтоқсандағы «Іле ауданының Боралдай кенті және ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 20-105 шешіміне 22-қосымша*
 
 # 2018 жылға арналған Междуреченск ауылдық округінің бюджеті
 
-> *Ескерту. 22-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 06.03.2018 № 23-112 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 22-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 10.08.2018 № 31-146 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>142 141</td>
+<td>154 902</td>
 </tr>
 <tr>
 <td>1</td>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>77 971</td>
+<td>65 533</td>
 </tr>
 <tr>
 <td></td>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>19 282</td>
+<td>22 545</td>
 </tr>
 <tr>
 <td></td>
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>19 282</td>
+<td>22 545</td>
 </tr>
 <tr>
 <td></td>
@@ -68,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>58 689</td>
+<td>42 988</td>
 </tr>
 <tr>
 <td></td>
@@ -76,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>1</td>
 <td></td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>1 405</td>
+<td>1 042</td>
 </tr>
 <tr>
 <td></td>
@@ -84,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>1 977</td>
+<td>1 818</td>
 </tr>
 <tr>
 <td></td>
@@ -92,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>55 307</td>
+<td>40 128</td>
 </tr>
 <tr>
 <td>4</td>
@@ -100,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>64 170</td>
+<td>89 369</td>
 </tr>
 <tr>
 <td></td>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>64 170</td>
+<td>89 369</td>
 </tr>
 <tr>
 <td></td>
@@ -116,7 +116,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>64 170</td>
+<td>89 369</td>
 </tr>
 </table>
 
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>ІІ. Шығыстар</td>
-<td>149 446</td>
+<td>162 207</td>
 </tr>
 <tr>
 <td>1</td>
@@ -188,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>001</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28 031</td>
+<td>31 031</td>
 </tr>
 <tr>
 <td></td>
@@ -197,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>022</td>
 <td></td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>56 989</td>
+<td>53 989</td>
 </tr>
 <tr>
 <td>4</td>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>8 272</td>
+<td>21 033</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>8 272</td>
+<td>21 033</td>
 </tr>
 <tr>
 <td></td>
@@ -386,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8 272</td>
+<td>21 033</td>
 </tr>
 <tr>
 <td></td>
@@ -395,25 +395,25 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>043</td>
 <td></td>
 <td>Бюджеттік алып коюлар</td>
-<td>8 272</td>
+<td>21 033</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="6">Сыныбы</td>
+<td rowspan="4"></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td rowspan="3"></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
@@ -421,71 +421,74 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>5</td>
+<td></td>
+<td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
+<td></td>
+<td>01</td>
+<td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td></td>
+<td>1</td>
 <td></td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
-<td colspan="7">Сыныбы</td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="5">Ішкі сыныбы</td>
+<td rowspan="3"></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="3">Ерекшелігі</td>
+<td rowspan="2"></td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td></td>
+<td></td>
+<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
+<td>01</td>
 <td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td></td>
+<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
 <td></td>
-<td colspan="2">Қаржы активтерін ел ішінде сатудан түсетін түсімдер</td>
+<td>1</td>
+<td></td>
+<td>Қаржы активтерін ел ішінде сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 </table>
@@ -2373,7 +2376,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 
 # 2018 жылға арналған Чапаев ауылдық округінің бюджеті
 
-> *Ескерту. 25-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 06.03.2018 № 23-112 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 25-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 10.08.2018 № 31-146 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2410,7 +2413,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>63 465</td>
+<td>70 051</td>
 </tr>
 <tr>
 <td></td>
@@ -2418,7 +2421,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>18 277</td>
+<td>24 427</td>
 </tr>
 <tr>
 <td></td>
@@ -2426,7 +2429,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>18 277</td>
+<td>24 427</td>
 </tr>
 <tr>
 <td></td>
@@ -2434,7 +2437,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>45 188</td>
+<td>45 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2442,7 +2445,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>1</td>
 <td></td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>1 019</td>
+<td>964</td>
 </tr>
 <tr>
 <td></td>
@@ -2450,7 +2453,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>1 328</td>
+<td>546</td>
 </tr>
 <tr>
 <td></td>
@@ -2458,7 +2461,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>42 841</td>
+<td>44 114</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2466,7 +2469,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>22 733</td>
+<td>16 147</td>
 </tr>
 <tr>
 <td></td>
@@ -2474,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>22 733</td>
+<td>16 147</td>
 </tr>
 <tr>
 <td></td>
@@ -2482,7 +2485,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>22 733</td>
+<td>16 147</td>
 </tr>
 </table>
 
@@ -4074,7 +4077,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 
 # 2018 жылға арналған Энергетический ауылдық округінің бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 06.03.2018 № 23-112 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда – Алматы облысы Іле аудандық мәслихатының 10.08.2018 № 31-146 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -4103,7 +4106,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>530 287</td>
+<td>433 823</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4111,7 +4114,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>503 311</td>
+<td>369 311</td>
 </tr>
 <tr>
 <td></td>
@@ -4119,7 +4122,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>196 265</td>
+<td>202 643</td>
 </tr>
 <tr>
 <td></td>
@@ -4127,7 +4130,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>196 265</td>
+<td>202 643</td>
 </tr>
 <tr>
 <td></td>
@@ -4135,7 +4138,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>307 046</td>
+<td>166 668</td>
 </tr>
 <tr>
 <td></td>
@@ -4143,7 +4146,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>1</td>
 <td></td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>5 905</td>
+<td>4 342</td>
 </tr>
 <tr>
 <td></td>
@@ -4151,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>40 765</td>
+<td>6 765</td>
 </tr>
 <tr>
 <td></td>
@@ -4159,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>260 376</td>
+<td>155 561</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4167,7 +4170,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>26 976</td>
+<td>64 512</td>
 </tr>
 <tr>
 <td></td>
@@ -4175,7 +4178,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>26 976</td>
+<td>64 512</td>
 </tr>
 <tr>
 <td></td>
@@ -4183,7 +4186,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>26 976</td>
+<td>64 512</td>
 </tr>
 </table>
 
@@ -4219,7 +4222,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>ІІ. Шығыстар</td>
-<td>542 686</td>
+<td>446 222</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4462,7 +4465,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>377 573</td>
+<td>281 109</td>
 </tr>
 <tr>
 <td></td>
@@ -4471,7 +4474,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>377 573</td>
+<td>281 109</td>
 </tr>
 <tr>
 <td></td>
@@ -4480,7 +4483,7 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>377 573</td>
+<td>281 109</td>
 </tr>
 <tr>
 <td></td>
@@ -4488,8 +4491,8 @@ source: https://zan.gov.kz/client/#!/doc/118248/kaz/04.05.2018
 <td></td>
 <td>043</td>
 <td></td>
-<td>Бюджеттік алып коюлар</td>
-<td>377 573</td>
+<td>Бюджеттік алып қоюлар</td>
+<td>281 109</td>
 </tr>
 </table>
 
