@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
+source: https://zan.gov.kz/client/#!/doc/118711/rus/20.08.2018
 ---
 
 > *Приложение 1*  
@@ -3681,7 +3681,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 
 # Бюджет Жамбылского сельского округа на 2018 год
 
-> *Сноска. Приложение 7 в редакции решения Райымбекского районного маслихата Алматинской области от 05.03.2018 № 33-156 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 7 в редакции решения Райымбекского районного маслихата Алматинской области от 20.08.2018 № 43-202 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -3711,7 +3711,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>56779</td>
+<td>65765</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3788,27 +3788,27 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>51027</td>
+<td>60013</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>51027</td>
+<td>60013</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>51027</td>
+<td>60013</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td rowspan="5">
 Сумма
 (тысяч тенге)
@@ -3816,22 +3816,22 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
@@ -3839,15 +3839,15 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>56779</td>
+<td>65765</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
 <td>17566</td>
@@ -3855,7 +3855,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>17566</td>
@@ -3863,7 +3863,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>17566</td>
@@ -3871,7 +3871,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
 <td>17166</td>
@@ -3879,7 +3879,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
 <td>400</td>
@@ -3887,39 +3887,39 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td>04</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Образование</td>
-<td>34792</td>
+<td>43778</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>34792</td>
+<td>43778</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>34792</td>
+<td>43778</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>34792</td>
+<td>43778</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 <td>3703</td>
@@ -3927,7 +3927,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td>3</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
 <td>3703</td>
@@ -3935,7 +3935,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>3703</td>
@@ -3943,7 +3943,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
 <td>980</td>
@@ -3951,7 +3951,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>102</td>
@@ -3959,7 +3959,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>2621</td>
@@ -3967,7 +3967,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td>12</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
 <td>718</td>
@@ -3975,7 +3975,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
 <td>718</td>
@@ -3983,7 +3983,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>718</td>
@@ -3991,7 +3991,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td>718</td>
@@ -3999,7 +3999,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>ІІІ. Чистое бюджетное кредитование</td>
 <td>0</td>
@@ -4007,7 +4007,7 @@ source: https://zan.gov.kz/client/#!/doc/118711/rus/05.05.2018
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
