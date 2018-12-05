@@ -549,7 +549,7 @@
 
 # 2018 жылға арналған Қырбалтабай ауылдық округінің бюджеті
 
-> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 20.08.2018 № 33-67 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 05.12.2018 № 38-87 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -567,7 +567,7 @@
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -587,28 +587,28 @@
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">16705</td>
+<td colspan="2">13705</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">1974</td>
+<td colspan="2">1722</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">1974</td>
+<td colspan="2">1722</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">14731</td>
+<td colspan="2">11983</td>
 </tr>
 <tr>
 <td></td>
@@ -622,35 +622,35 @@
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">623</td>
+<td colspan="2">416</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">13851</td>
+<td colspan="2">11310</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 </table>
 
@@ -664,7 +664,7 @@
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -868,7 +868,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>Ішкі сыныбы</td>
+<td>Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -903,80 +903,80 @@
 
 <table>
 <tr>
-<td colspan="7">Функционалдық топ</td>
+<td colspan="8">Функционалдық топ</td>
 <td colspan="2" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>Бағдарлама</td>
-<td>Атауы</td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="5">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td colspan="2">0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2">Ішкі сыныбы</td>
-<td colspan="2">Атауы</td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2">2</td>
+<td colspan="3">2</td>
 <td colspan="2">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
@@ -992,7 +992,7 @@
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
