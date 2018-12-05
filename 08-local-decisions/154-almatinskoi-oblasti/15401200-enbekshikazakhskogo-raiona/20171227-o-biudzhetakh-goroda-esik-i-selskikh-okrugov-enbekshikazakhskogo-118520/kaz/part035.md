@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
+source: https://zan.gov.kz/client/#!/doc/118520/kaz/05.12.2018
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының*  
@@ -1051,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 
 # 2018 жылға арналған Қаражота ауылдық округінің бюджеті
 
-> *Ескерту. 37-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 20.08.2018 № 33-67 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 37-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 05.12.2018 № 38-87 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1069,7 +1069,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1089,28 +1089,28 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">23209</td>
+<td colspan="2">19209</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">8456</td>
+<td colspan="2">6956</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">8456</td>
+<td colspan="2">6956</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">14753</td>
+<td colspan="2">12253</td>
 </tr>
 <tr>
 <td></td>
@@ -1124,35 +1124,35 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">970</td>
+<td colspan="2">633</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">13441</td>
+<td colspan="2">11278</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">43548</td>
+<td colspan="2">47548</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">43548</td>
+<td colspan="2">47548</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">43548</td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -1166,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -1194,7 +1194,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>21809</td>
+<td>22138</td>
 </tr>
 <tr>
 <td></td>
@@ -1202,7 +1202,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>21809</td>
+<td>22138</td>
 </tr>
 <tr>
 <td></td>
@@ -1210,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21809</td>
+<td>22138</td>
 </tr>
 <tr>
 <td></td>
@@ -1218,7 +1218,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>20275</td>
+<td>20604</td>
 </tr>
 <tr>
 <td></td>
@@ -1266,7 +1266,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1750</td>
+<td>1421</td>
 </tr>
 <tr>
 <td></td>
@@ -1274,7 +1274,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>1750</td>
+<td>1421</td>
 </tr>
 <tr>
 <td></td>
@@ -1282,7 +1282,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1750</td>
+<td>1421</td>
 </tr>
 <tr>
 <td></td>
@@ -1306,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1500</td>
+<td>1171</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1394,7 +1394,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td>Ішкі сыныбы</td>
+<td>Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -1429,81 +1429,81 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 
 <table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
+<td colspan="10">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="8">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="7">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="3">Қарыздар түсімі</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
 <td colspan="2"></td>
-<td colspan="2">Мемлекеттік ішкі қарыздар</td>
+<td colspan="3">Мемлекеттік ішкі қарыздар</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісім-шарттары</td>
+<td colspan="3">Қарыз алу келісім-шарттары</td>
 <td colspan="2">0</td>
 </tr>
 </table>
@@ -1518,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -2662,7 +2662,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 
 # 2018 жылға арналған Қырбалтабай ауылдық округінің бюджеті
 
-> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 20.08.2018 № 33-67 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 05.12.2018 № 38-87 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2680,7 +2680,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2700,28 +2700,28 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">16705</td>
+<td colspan="2">13705</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">1974</td>
+<td colspan="2">1722</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">1974</td>
+<td colspan="2">1722</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">14731</td>
+<td colspan="2">11983</td>
 </tr>
 <tr>
 <td></td>
@@ -2735,35 +2735,35 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">623</td>
+<td colspan="2">416</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">13851</td>
+<td colspan="2">11310</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">18435</td>
+<td colspan="2">21435</td>
 </tr>
 </table>
 
@@ -2777,7 +2777,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -2981,7 +2981,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td>Ішкі сыныбы</td>
+<td>Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -3016,80 +3016,80 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 
 <table>
 <tr>
-<td colspan="7">Функционалдық топ</td>
+<td colspan="8">Функционалдық топ</td>
 <td colspan="2" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>Бағдарлама</td>
-<td>Атауы</td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="5">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td colspan="2">0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2">Ішкі сыныбы</td>
-<td colspan="2">Атауы</td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2">2</td>
+<td colspan="3">2</td>
 <td colspan="2">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
@@ -3105,7 +3105,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -4197,16 +4197,16 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2017 жылғы 27 желтоқсандағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 23-1 шешіміне 43-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2017 жылғы 27 желтоқсандағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» №23-1 шешіміне 43-қосымша*
 
 # 2018 жылға арналған Қорам ауылдық округінің бюджеті
 
-> *Ескерту. 43-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 20.08.2018 № 33-67 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 43-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 05.12.2018 № 38-87 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="4">
+<td colspan="5">Санаты</td>
+<td colspan="2" rowspan="4">
 
 Сомасы,
 мың теңге
@@ -4214,95 +4214,95 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>I. Кірістер</td>
-<td>29732</td>
+<td colspan="2">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Кірістер</td>
+<td colspan="2">29732</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td>Салықтық түсімдер</td>
-<td>12102</td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="2">12102</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td>Табыс салығы</td>
-<td>1920</td>
+<td colspan="2">Табыс салығы</td>
+<td colspan="2">1920</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td>Жеке табыс салығы</td>
-<td>1920</td>
+<td colspan="2">Жеке табыс салығы</td>
+<td colspan="2">1920</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td>Меншікке салынатын салықтар</td>
-<td>10182</td>
+<td colspan="2">Меншікке салынатын салықтар</td>
+<td colspan="2">10182</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Мүлікке салынатын салықтар</td>
-<td>377</td>
+<td colspan="2">Мүлікке салынатын салықтар</td>
+<td colspan="2">377</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td>Жер салығы</td>
-<td>1181</td>
+<td colspan="2">Жер салығы</td>
+<td colspan="2">1181</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td>Көлік құралдарына салынатын салық</td>
-<td>8624</td>
+<td colspan="2">Көлік құралдарына салынатын салық</td>
+<td colspan="2">8624</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td>Трансферттердің түсімдері</td>
-<td>17630</td>
+<td colspan="2">Трансферттердің түсімдері</td>
+<td colspan="2">17630</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>17630</td>
+<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td colspan="2">17630</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>17630</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="2">17630</td>
 </tr>
 </table>
 
@@ -4316,7 +4316,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -4344,7 +4344,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>20902</td>
+<td>21032</td>
 </tr>
 <tr>
 <td></td>
@@ -4352,7 +4352,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>20902</td>
+<td>21032</td>
 </tr>
 <tr>
 <td></td>
@@ -4360,7 +4360,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20902</td>
+<td>21032</td>
 </tr>
 <tr>
 <td></td>
@@ -4368,7 +4368,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>19837</td>
+<td>19967</td>
 </tr>
 <tr>
 <td></td>
@@ -4384,7 +4384,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1330</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
@@ -4392,7 +4392,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>1330</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
@@ -4400,7 +4400,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1330</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
@@ -4409,14 +4409,6 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>200</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>010</td>
-<td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>130</td>
 </tr>
 <tr>
 <td></td>
@@ -4480,7 +4472,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td>Ішкі сыныбы</td>
+<td>Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -4520,7 +4512,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="7">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4554,7 +4546,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
@@ -4604,7 +4596,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -5680,16 +5672,16 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2017 жылғы 27 желтоқсандағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» № 23-1 шешіміне 46-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2017 жылғы 27 желтоқсандағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2018-2020 жылдарға арналған бюджеттері туралы» №23-1 шешіміне 46-қосымша*
 
 # 2018 жылға арналған Қазақстан ауылдық округінің бюджеті
 
-> *Ескерту. 46-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 11.05.2018 № 29-39 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 46-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 05.12.2018 № 38-87 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="4">
+<td colspan="5">Санаты</td>
+<td colspan="2" rowspan="4">
 
 Сомасы,
 мың теңге
@@ -5697,98 +5689,95 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-
-Атауы
-</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>I. Кірістер</td>
-<td>45073</td>
+<td colspan="2">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Кірістер</td>
+<td colspan="2">45073</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td>Салықтық түсімдер</td>
-<td>35173</td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="2">28418</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td>Табыс салығы</td>
-<td>12196</td>
+<td colspan="2">Табыс салығы</td>
+<td colspan="2">9919</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td>Жеке табыс салығы</td>
-<td>12196</td>
+<td colspan="2">Жеке табыс салығы</td>
+<td colspan="2">9919</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td>Меншікке салынатын салықтар</td>
-<td>22977</td>
+<td colspan="2">Меншікке салынатын салықтар</td>
+<td colspan="2">18499</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Мүлікке салынатын салықтар</td>
-<td>600</td>
+<td colspan="2">Мүлікке салынатын салықтар</td>
+<td colspan="2">504</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td>Жер салығы</td>
-<td>1369</td>
+<td colspan="2">Жер салығы</td>
+<td colspan="2">850</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td>Көлік құралдарына салынатын салық</td>
-<td>21008</td>
+<td colspan="2">Көлік құралдарына салынатын салық</td>
+<td colspan="2">17145</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td>Трансферттердің түсімдері</td>
-<td>9900</td>
+<td colspan="2">Трансферттердің түсімдері</td>
+<td colspan="2">16655</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>9900</td>
+<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td colspan="2">16655</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>9900</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="2">16655</td>
 </tr>
 </table>
 
@@ -5802,7 +5791,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -6006,7 +5995,7 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <tr>
 <td></td>
 <td></td>
-<td>Ішкі сыныбы</td>
+<td>Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -6042,11 +6031,11 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <table>
 <tr>
 <td colspan="9">Функционалдық топ</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="7">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -6057,9 +6046,8 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
-<td colspan="2">Атауы</td>
-<td></td>
+<td colspan="3">Бағдарлама</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -6071,67 +6059,67 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
-<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
+<td colspan="9">Санаты</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">Кіші сыныбы</td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">0</td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td colspan="2">0</td>
+<td colspan="3">Қарыздар түсімі</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
 <td colspan="2"></td>
-<td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td colspan="2">0</td>
+<td colspan="3">Мемлекеттік ішкі қарыздар</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісім-шарттары</td>
-<td colspan="2">0</td>
+<td colspan="3">Қарыз алу келісім-шарттары</td>
+<td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="3">
+<td rowspan="4">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="4">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td></td>
@@ -6144,7 +6132,6 @@ source: https://zan.gov.kz/client/#!/doc/118520/kaz/20.08.2018
 <td></td>
 <td>Бағдарлама</td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
