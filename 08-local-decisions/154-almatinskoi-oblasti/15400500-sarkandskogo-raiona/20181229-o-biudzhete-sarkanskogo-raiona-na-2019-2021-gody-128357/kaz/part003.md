@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128357/kaz/29.12.2018
+source: https://zan.gov.kz/client/#!/doc/128357/kaz/26.03.2019
 ---
 
 > *Сарқан аудандық мәслихатының*  
