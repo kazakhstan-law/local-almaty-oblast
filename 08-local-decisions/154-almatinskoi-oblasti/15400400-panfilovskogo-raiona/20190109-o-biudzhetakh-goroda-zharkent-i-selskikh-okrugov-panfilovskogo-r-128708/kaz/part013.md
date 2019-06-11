@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
+source: https://zan.gov.kz/client/#!/doc/128708/kaz/11.06.2019
 ---
 
 > *Панфилов аудандық мәслихатының*  
@@ -13,7 +13,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 
 # 2019 жылға арналған Жаскент ауылдық округінің бюджеті
 
-> *Ескерту. 13 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 09.04.2019 № 6-53-322 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 11.06.2019 № 6-55-335 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -36,18 +36,18 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>20802</td>
+<td>22674</td>
 </tr>
 <tr>
 <td>1</td>
@@ -103,21 +103,21 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>13370</td>
+<td>15242</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>13370</td>
+<td>15242</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>13370</td>
+<td>15242</td>
 </tr>
 </table>
 
@@ -149,12 +149,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>20803</td>
+<td>22675</td>
 </tr>
 <tr>
 <td>01</td>
@@ -170,7 +170,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>18299</td>
+<td>20171</td>
 </tr>
 <tr>
 <td></td>
@@ -178,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>18299</td>
+<td>20171</td>
 </tr>
 <tr>
 <td></td>
@@ -186,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18299</td>
+<td>20171</td>
 </tr>
 <tr>
 <td></td>
@@ -194,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>18299</td>
+<td>20171</td>
 </tr>
 <tr>
 <td>07</td>
@@ -315,11 +315,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -373,12 +373,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -411,11 +411,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -447,11 +447,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -539,12 +539,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1698,7 +1698,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 
 # 2019 жылға арналған Көктал ауылдық округінің бюджеті
 
-> *Ескерту. 16 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 09.04.2019 № 6-53-322 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 11.06.2019 № 6-55-335 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1721,18 +1721,18 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>83017</td>
+<td>89975</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1788,21 +1788,21 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>55105</td>
+<td>62063</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>55105</td>
+<td>62063</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>55105</td>
+<td>62063</td>
 </tr>
 </table>
 
@@ -1834,12 +1834,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1847,7 +1847,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>96004</td>
+<td>103523</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1855,7 +1855,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>27294</td>
+<td>30522</td>
 </tr>
 <tr>
 <td></td>
@@ -1863,7 +1863,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>27294</td>
+<td>30522</td>
 </tr>
 <tr>
 <td></td>
@@ -1871,7 +1871,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>27294</td>
+<td>30522</td>
 </tr>
 <tr>
 <td></td>
@@ -1879,7 +1879,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26308</td>
+<td>29536</td>
 </tr>
 <tr>
 <td></td>
@@ -1895,7 +1895,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>37044</td>
+<td>41335</td>
 </tr>
 <tr>
 <td></td>
@@ -1903,7 +1903,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>37044</td>
+<td>41335</td>
 </tr>
 <tr>
 <td></td>
@@ -1911,7 +1911,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>37044</td>
+<td>41335</td>
 </tr>
 <tr>
 <td></td>
@@ -1919,7 +1919,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>37044</td>
+<td>41335</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2072,11 +2072,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2130,12 +2130,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2168,11 +2168,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2204,25 +2204,25 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>-12987</td>
+<td>-13548</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>12987</td>
+<td>13548</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2250,21 +2250,21 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>12987</td>
+<td>13548</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>12987</td>
+<td>13548</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>12987</td>
+<td>13548</td>
 </tr>
 </table>
 
@@ -2296,12 +2296,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -3519,7 +3519,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 
 # 2019 жылға арналған Қоңырөлең ауылдық округінің бюджеті
 
-> *Ескерту. 19 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 09.04.2019 № 6-53-322 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 19 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 11.06.2019 № 6-55-335 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3542,18 +3542,18 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>57546</td>
+<td>62437</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3609,21 +3609,21 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>50685</td>
+<td>55576</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>50685</td>
+<td>55576</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>50685</td>
+<td>55576</td>
 </tr>
 </table>
 
@@ -3655,12 +3655,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3668,7 +3668,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>57546</td>
+<td>62437</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3676,7 +3676,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>20006</td>
+<td>21620</td>
 </tr>
 <tr>
 <td></td>
@@ -3684,7 +3684,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>20006</td>
+<td>21620</td>
 </tr>
 <tr>
 <td></td>
@@ -3692,7 +3692,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20006</td>
+<td>21620</td>
 </tr>
 <tr>
 <td></td>
@@ -3700,7 +3700,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>20006</td>
+<td>21620</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3708,7 +3708,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>25662</td>
+<td>28939</td>
 </tr>
 <tr>
 <td></td>
@@ -3716,7 +3716,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>25662</td>
+<td>28939</td>
 </tr>
 <tr>
 <td></td>
@@ -3724,7 +3724,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25662</td>
+<td>28939</td>
 </tr>
 <tr>
 <td></td>
@@ -3732,7 +3732,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>25662</td>
+<td>28939</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3853,11 +3853,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3911,12 +3911,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3949,11 +3949,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3985,11 +3985,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -4077,12 +4077,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -5300,7 +5300,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 
 # 2019 жылға арналған Пенжім ауылдық округінің бюджеті
 
-> *Ескерту. 22 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 09.04.2019 № 6-53-322 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 22 - қосымша жаңа редакцияда – Алматы облысы Панфилов аудандық мәслихатының 11.06.2019 № 6-55-335 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -5323,18 +5323,18 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>141918</td>
+<td>154824</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5390,21 +5390,21 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>108476</td>
+<td>121382</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>108476</td>
+<td>121382</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>108476</td>
+<td>121382</td>
 </tr>
 </table>
 
@@ -5436,12 +5436,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5449,7 +5449,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>155626</td>
+<td>168532</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5457,7 +5457,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>23456</td>
+<td>25697</td>
 </tr>
 <tr>
 <td></td>
@@ -5465,7 +5465,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>23456</td>
+<td>25697</td>
 </tr>
 <tr>
 <td></td>
@@ -5473,7 +5473,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>23456</td>
+<td>25697</td>
 </tr>
 <tr>
 <td></td>
@@ -5481,7 +5481,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>23456</td>
+<td>25697</td>
 </tr>
 <tr>
 <td>04</td>
@@ -5489,7 +5489,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>98331</td>
+<td>108996</td>
 </tr>
 <tr>
 <td></td>
@@ -5497,7 +5497,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>98331</td>
+<td>108996</td>
 </tr>
 <tr>
 <td></td>
@@ -5505,7 +5505,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>98331</td>
+<td>108996</td>
 </tr>
 <tr>
 <td></td>
@@ -5513,7 +5513,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>98331</td>
+<td>108996</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5545,7 +5545,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>10909</td>
+<td>7593</td>
 </tr>
 <tr>
 <td></td>
@@ -5561,7 +5561,7 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>4941</td>
+<td>8257</td>
 </tr>
 <tr>
 <td>13</td>
@@ -5674,11 +5674,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5732,12 +5732,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5770,11 +5770,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5806,11 +5806,11 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5898,12 +5898,12 @@ source: https://zan.gov.kz/client/#!/doc/128708/kaz/09.04.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
