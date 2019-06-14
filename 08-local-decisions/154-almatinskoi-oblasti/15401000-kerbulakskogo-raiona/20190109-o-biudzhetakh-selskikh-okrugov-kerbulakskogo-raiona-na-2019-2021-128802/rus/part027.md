@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
+source: https://zan.gov.kz/client/#!/doc/128802/rus/14.06.2019
 ---
 
 > *Приложение 27*  
@@ -480,46 +480,46 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>332320</td>
+<td>376 181</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>71860</td>
+<td>71 860</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>33000</td>
+<td>33 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>33000</td>
+<td>33 000</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>38860</td>
+<td>38 860</td>
 </tr>
 <tr>
 <td></td>
@@ -540,28 +540,28 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>37650</td>
+<td>37 650</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>260460</td>
+<td>304 321</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>260460</td>
+<td>304 321</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>260460</td>
+<td>304 321</td>
 </tr>
 </table>
 
@@ -583,12 +583,12 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -596,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>337656</td>
+<td>381 517</td>
 </tr>
 <tr>
 <td>01</td>
@@ -604,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>33639</td>
+<td>36 461</td>
 </tr>
 <tr>
 <td></td>
@@ -612,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>33639</td>
+<td>36 461</td>
 </tr>
 <tr>
 <td></td>
@@ -620,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33639</td>
+<td>36 461</td>
 </tr>
 <tr>
 <td></td>
@@ -628,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>33489</td>
+<td>36 311</td>
 </tr>
 <tr>
 <td></td>
@@ -644,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>258032</td>
+<td>281 671</td>
 </tr>
 <tr>
 <td></td>
@@ -652,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>252484</td>
+<td>276 123</td>
 </tr>
 <tr>
 <td></td>
@@ -660,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>252484</td>
+<td>276 123</td>
 </tr>
 <tr>
 <td></td>
@@ -668,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>252484</td>
+<td>276 123</td>
 </tr>
 <tr>
 <td></td>
@@ -676,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>5548</td>
+<td>5 548</td>
 </tr>
 <tr>
 <td></td>
@@ -684,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5548</td>
+<td>5 548</td>
 </tr>
 <tr>
 <td></td>
@@ -692,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td>5548</td>
+<td>5 548</td>
 </tr>
 <tr>
 <td>07</td>
@@ -700,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>45984</td>
+<td>63 384</td>
 </tr>
 <tr>
 <td></td>
@@ -708,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>45984</td>
+<td>63 384</td>
 </tr>
 <tr>
 <td></td>
@@ -716,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45984</td>
+<td>63 384</td>
 </tr>
 <tr>
 <td></td>
@@ -724,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>9876</td>
+<td>11 876</td>
 </tr>
 <tr>
 <td></td>
@@ -732,7 +732,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>3000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
@@ -740,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>33108</td>
+<td>47 508</td>
 </tr>
 <tr>
 <td>15</td>
@@ -794,12 +794,12 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -833,11 +833,11 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -880,12 +880,12 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -911,46 +911,46 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>-5336</td>
+<td>-5 336</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>5336</td>
+<td>5 336</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>5336</td>
+<td>5 336</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>5336</td>
+<td>5 336</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>5336</td>
+<td>5 336</td>
 </tr>
 </table>
 
@@ -972,12 +972,12 @@ source: https://zan.gov.kz/client/#!/doc/128802/rus/03.04.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
