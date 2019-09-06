@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128702/kaz/30.05.2019
+source: https://zan.gov.kz/client/#!/doc/128702/kaz/06.09.2019
 ---
 
 > *Көксу ауданы мәслихатының*  
