@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128721/kaz/30.05.2019
+source: https://zan.gov.kz/client/#!/doc/128721/kaz/10.09.2019
 ---
 
 > *Ескелді аудандық мәслихатының*  
