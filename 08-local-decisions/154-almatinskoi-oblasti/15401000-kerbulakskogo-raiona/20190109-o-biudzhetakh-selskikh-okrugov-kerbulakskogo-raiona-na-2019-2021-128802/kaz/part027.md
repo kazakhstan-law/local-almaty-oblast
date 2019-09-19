@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128802/kaz/14.06.2019
+source: https://zan.gov.kz/client/#!/doc/128802/kaz/19.09.2019
 ---
 
 > *Кербұлақ аудандық мәслихатының*  
