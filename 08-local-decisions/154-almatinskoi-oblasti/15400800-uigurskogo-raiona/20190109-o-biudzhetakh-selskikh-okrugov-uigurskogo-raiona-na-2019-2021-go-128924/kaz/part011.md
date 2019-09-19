@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
+source: https://zan.gov.kz/client/#!/doc/128924/kaz/19.09.2019
 ---
 
 > *Ұйғыр аудандық мәслихатының*  
@@ -1197,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 
 # 2019 жылға арналған Ават ауылдық округінің бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 13.06.2019 № 6-51-301 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 19.09.2019 № 6-55-315 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1224,18 +1224,18 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>26564</td>
+<td>27864</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1291,21 +1291,21 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>21596</td>
+<td>22896</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>21596</td>
+<td>22896</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>21596</td>
+<td>22896</td>
 </tr>
 </table>
 
@@ -1346,7 +1346,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>27564</td>
+<td>28864</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1450,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1784</td>
+<td>3084</td>
 </tr>
 <tr>
 <td></td>
@@ -1458,7 +1458,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>1784</td>
+<td>3084</td>
 </tr>
 <tr>
 <td></td>
@@ -1466,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1784</td>
+<td>3084</td>
 </tr>
 <tr>
 <td></td>
@@ -1498,7 +1498,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1045</td>
+<td>2345</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1585,12 +1585,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -1602,6 +1601,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1632,12 +1637,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,6 +1653,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3006,7 +3016,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 
 # 2019 жылға арналған Тиірмен ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 13.06.2019 № 6-51-301 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 19.09.2019 № 6-55-315 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3033,11 +3043,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3163,7 +3173,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>23633</td>
+<td>23333</td>
 </tr>
 <tr>
 <td></td>
@@ -3171,7 +3181,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>23633</td>
+<td>23333</td>
 </tr>
 <tr>
 <td></td>
@@ -3179,7 +3189,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>23633</td>
+<td>23333</td>
 </tr>
 <tr>
 <td></td>
@@ -3187,7 +3197,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>23433</td>
+<td>23133</td>
 </tr>
 <tr>
 <td></td>
@@ -3315,7 +3325,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>0</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -3323,7 +3333,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>0</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -3331,7 +3341,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -3339,7 +3349,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>045</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>0</td>
+<td>300</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3394,12 +3404,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -3411,6 +3420,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3441,12 +3456,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -3458,6 +3472,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>

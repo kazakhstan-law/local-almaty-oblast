@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
+source: https://zan.gov.kz/client/#!/doc/128924/kaz/19.09.2019
 ---
 
 > *Ұйғыр аудандық мәслихатының*  
@@ -13,7 +13,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 
 # 2019 жылға арналған Дардамты ауылдық округінің бюджеті
 
-> *Ескерту. 22-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 13.06.2019 № 6-51-301 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 22-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 19.09.2019 № 6-55-315 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -40,11 +40,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>34767</td>
+<td>36117</td>
 </tr>
 <tr>
 <td>01</td>
@@ -266,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5852</td>
+<td>7202</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>5852</td>
+<td>7202</td>
 </tr>
 <tr>
 <td></td>
@@ -282,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5852</td>
+<td>7202</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>3397</td>
+<td>4747</td>
 </tr>
 <tr>
 <td>12</td>
@@ -401,12 +401,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -418,6 +417,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td>5</td>
@@ -448,12 +453,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -465,6 +469,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -503,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>- 4800</td>
+<td>- 6150</td>
 </tr>
 <tr>
 <td></td>
@@ -511,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>4800</td>
+<td>6150</td>
 </tr>
 <tr>
 <td>7</td>
@@ -551,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>4800</td>
+<td>6150</td>
 </tr>
 <tr>
 <td></td>
@@ -559,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>4800</td>
+<td>6150</td>
 </tr>
 <tr>
 <td></td>
@@ -567,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>4800</td>
+<td>6150</td>
 </tr>
 <tr>
 <td></td>
@@ -575,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>4800</td>
+<td>6150</td>
 </tr>
 </table>
 
@@ -5472,7 +5482,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 
 # 2019 жылға арналған Қалжат ауылдық округінің бюджеті
 
-> *Ескерту. 31-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 13.06.2019 № 6-51-301 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 31-қосымша жаңа редакцияда – Алматы облысы Ұйғыр аудандық мәслихатының 19.09.2019 № 6-55-315 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -5499,11 +5509,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5621,7 +5631,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>23996</td>
+<td>24296</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5629,7 +5639,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>20568</td>
+<td>20868</td>
 </tr>
 <tr>
 <td></td>
@@ -5637,7 +5647,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>20568</td>
+<td>20868</td>
 </tr>
 <tr>
 <td></td>
@@ -5645,7 +5655,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20568</td>
+<td>20868</td>
 </tr>
 <tr>
 <td></td>
@@ -5653,7 +5663,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>20438</td>
+<td>20738</td>
 </tr>
 <tr>
 <td></td>
@@ -5860,12 +5870,11 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -5877,6 +5886,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5907,12 +5922,14 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сынып</td>
-<td>Атауы</td>
+<td colspan="4">Сынып</td>
 </tr>
 <tr>
 <td></td>
@@ -5924,6 +5941,12 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -5962,7 +5985,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>-1130</td>
+<td>-1430</td>
 </tr>
 <tr>
 <td></td>
@@ -5970,7 +5993,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>1130</td>
+<td>1430</td>
 </tr>
 <tr>
 <td>7</td>
@@ -6010,7 +6033,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>1130</td>
+<td>1430</td>
 </tr>
 <tr>
 <td></td>
@@ -6018,7 +6041,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>1130</td>
+<td>1430</td>
 </tr>
 <tr>
 <td></td>
@@ -6026,7 +6049,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>1130</td>
+<td>1430</td>
 </tr>
 <tr>
 <td></td>
@@ -6034,7 +6057,7 @@ source: https://zan.gov.kz/client/#!/doc/128924/kaz/13.06.2019
 <td></td>
 <td>01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>1130</td>
+<td>1430</td>
 </tr>
 </table>
 
