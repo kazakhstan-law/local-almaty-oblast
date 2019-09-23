@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127476/kaz/13.06.2019
+source: https://zan.gov.kz/client/#!/doc/127476/kaz/23.09.2019
 ---
 
 > *2019 жылғы 10 қаңтардағы*  
