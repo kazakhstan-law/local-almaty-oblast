@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128781/kaz/10.09.2019
+source: https://zan.gov.kz/client/#!/doc/128781/kaz/05.12.2019
 ---
 
 > *Балқаш аудандық мәслихатының*  
