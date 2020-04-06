@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138375/rus/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/138375/rus/06.04.2020
 ---
 
 > *Приложение 3 к решению Алакольского районного маслихата от 27 декабря 2019 года № 62-2*
