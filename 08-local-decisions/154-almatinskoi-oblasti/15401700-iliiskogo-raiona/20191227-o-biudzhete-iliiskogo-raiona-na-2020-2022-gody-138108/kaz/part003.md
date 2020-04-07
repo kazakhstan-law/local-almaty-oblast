@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138108/kaz/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/138108/kaz/07.04.2020
 ---
 
 > *Іле аудандық мәслихатының 2019 жылғы 27 желтоқсандағы № 49-220 шешіміне 3-қосымша*
