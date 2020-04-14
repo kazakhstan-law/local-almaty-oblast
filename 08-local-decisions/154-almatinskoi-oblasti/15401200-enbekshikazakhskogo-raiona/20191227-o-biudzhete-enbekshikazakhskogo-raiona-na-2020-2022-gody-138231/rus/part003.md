@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138231/rus/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/138231/rus/14.04.2020
 ---
 
 > *Приложение 3 к решению Енбекшиказахского районного маслихата от 27 декабря 2019 года № 57-154*
