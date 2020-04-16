@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139053/rus/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/139053/rus/16.04.2020
 ---
 
 > *Приложение 28 к решению Ескельдинского районного маслихата от 9 января 2019 года № 61-352*
