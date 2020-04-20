@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
+source: https://zan.gov.kz/client/#!/doc/139117/rus/20.04.2020
 ---
 
 > *Приложение 14 к решению*  
@@ -951,20 +951,23 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </tr>
 </table>
 
-> *Приложение 16 к решению*  
-> *Уйгурского районного*  
-> *маслихата от 10 января*  
-> *2020 года № 6-60-347*
+> *Приложение 16*  
+> *к решению Уйгурского районного*  
+> *маслихата от 10 января 2020 года*  
+> *№ 6-60-347 «О бюджетах сельских*  
+> *округов Уйгурского района на 2020-2022 годы»*
 
 # Бюджет Тиирменского сельского округа на 2020 год
+
+> *Сноска. Приложение 16 в редакции решения Уйгуруского районного маслихата Алматинской области от 20.04.2020 № 6-64-369 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">
-
 Сумма
-(тысяч тенге)
+(тысяч
+тенге)
 </td>
 </tr>
 <tr>
@@ -977,24 +980,31 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>Наименование</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>33884</td>
+<td>41884</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4824</td>
+<td>5324</td>
 </tr>
 <tr>
 <td></td>
@@ -1015,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>1422</td>
+<td>1922</td>
 </tr>
 <tr>
 <td></td>
@@ -1036,7 +1046,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>150</td>
+<td>650</td>
 </tr>
 <tr>
 <td></td>
@@ -1057,21 +1067,21 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>29060</td>
+<td>36560</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>29060</td>
+<td>36560</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>29060</td>
+<td>36560</td>
 </tr>
 </table>
 
@@ -1085,18 +1095,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Программа</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -1106,7 +1122,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>33884</td>
+<td>49389</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1154,7 +1170,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4442</td>
+<td>12442</td>
 </tr>
 <tr>
 <td></td>
@@ -1162,7 +1178,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>4442</td>
+<td>12442</td>
 </tr>
 <tr>
 <td></td>
@@ -1170,7 +1186,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>4442</td>
+<td>12442</td>
 </tr>
 <tr>
 <td></td>
@@ -1178,7 +1194,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>1732</td>
+<td>9232</td>
 </tr>
 <tr>
 <td></td>
@@ -1194,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2000</td>
+<td>2500</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1229,6 +1245,38 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>5062</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>7505</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>7505</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>7505</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>7505</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1248,26 +1296,28 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
@@ -1277,6 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
@@ -1284,6 +1335,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
@@ -1291,30 +1343,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Класс</td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -1328,19 +1374,20 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1350,18 +1397,21 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-7505</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>7505</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
@@ -1371,6 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Внутренние государственные займы</td>
 <td>0</td>
 </tr>
@@ -1378,10 +1429,12 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Договоры займа</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>03</td>
@@ -1392,36 +1445,40 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>8</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>7505</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>7505</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>7505</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>7505</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -1431,12 +1488,6 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -2426,20 +2477,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </tr>
 </table>
 
-> *Приложение 19 к решению*  
-> *Уйгурского районного*  
-> *маслихата от 10 января*  
-> *2020 года № 6-60-347*
+> *Приложение 19*  
+> *к решению Уйгурского районного*  
+> *маслихата от 10 января 2020 года*  
+> *№ 6-60-347 «О бюджетах сельских*  
+> *округов Уйгурского района*  
+> *на 2020-2022 годы»*
 
 # Бюджет Актамского сельского округа на 2020 год
+
+> *Сноска. Приложение 19 в редакции решения Уйгуруского районного маслихата Алматинской области от 20.04.2020 № 6-64-369 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">
-
 Сумма
-(тысяч тенге)
+(тысяч
+тенге)
 </td>
 </tr>
 <tr>
@@ -2452,38 +2507,45 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>Наименование</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>25090</td>
+<td>24640</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4347</td>
+<td>3897</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>3400</td>
+<td>2950</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>3400</td>
+<td>2950</td>
 </tr>
 <tr>
 <td></td>
@@ -2560,18 +2622,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Программа</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -2581,7 +2649,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>25090</td>
+<td>24641</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2629,7 +2697,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5110</td>
+<td>4660</td>
 </tr>
 <tr>
 <td></td>
@@ -2637,7 +2705,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>5110</td>
+<td>4660</td>
 </tr>
 <tr>
 <td></td>
@@ -2645,7 +2713,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5110</td>
+<td>4660</td>
 </tr>
 <tr>
 <td></td>
@@ -2669,7 +2737,39 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2900</td>
+<td>2450</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>1</td>
 </tr>
 <tr>
 <td></td>
@@ -2691,26 +2791,28 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
@@ -2720,6 +2822,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
@@ -2727,6 +2830,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
@@ -2734,30 +2838,27 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">
+Сумма (тысяч
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Класс</td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -2771,19 +2872,20 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2793,18 +2895,21 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
@@ -2814,6 +2919,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Внутренние государственные займы</td>
 <td>0</td>
 </tr>
@@ -2821,10 +2927,12 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Договоры займа</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>03</td>
@@ -2835,36 +2943,40 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>8</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2874,12 +2986,6 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -3870,20 +3976,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </tr>
 </table>
 
-> *Приложение 22 к решению*  
-> *Уйгурского районного*  
-> *маслихата от 10 января*  
-> *2020 года № 6-60-347*
+> *Приложение 22*  
+> *к решению Уйгурского районного*  
+> *маслихата от 10 января 2020 года*  
+> *№ 6-60-347 «О бюджетах сельских*  
+> *округов Уйгурского района*  
+> *на 2020-2022 годы»*
 
 # Бюджет Дардамтинского сельского округа на 2020 год
+
+> *Сноска. Приложение 22 в редакции решения Уйгуруского районного маслихата Алматинской области от 20.04.2020 № 6-64-369 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">
-
 Сумма
-(тысяч тенге)
+(тысяч
+тенге)
 </td>
 </tr>
 <tr>
@@ -3896,38 +4006,45 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>Наименование</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>43075</td>
+<td>42775</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>10222</td>
+<td>9922</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>8400</td>
+<td>8100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>8400</td>
+<td>8100</td>
 </tr>
 <tr>
 <td></td>
@@ -4004,18 +4121,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Программа</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -4025,7 +4148,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>43075</td>
+<td>42779</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4105,7 +4228,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7414</td>
+<td>7114</td>
 </tr>
 <tr>
 <td></td>
@@ -4113,7 +4236,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>7414</td>
+<td>7114</td>
 </tr>
 <tr>
 <td></td>
@@ -4121,7 +4244,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7414</td>
+<td>7114</td>
 </tr>
 <tr>
 <td></td>
@@ -4145,7 +4268,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>4233</td>
+<td>3933</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4180,6 +4303,38 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>7584</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>4</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -4199,26 +4354,27 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="4">Класс Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
 <td></td>
-<td>Наименование</td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
@@ -4228,6 +4384,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
@@ -4235,6 +4392,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
@@ -4242,30 +4400,28 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">
+Сумма
+(тысяч
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Класс</td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -4279,19 +4435,20 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4301,18 +4458,21 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-4</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>4</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
@@ -4322,6 +4482,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Внутренние государственные займы</td>
 <td>0</td>
 </tr>
@@ -4329,10 +4490,12 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Договоры займа</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>03</td>
@@ -4343,36 +4506,40 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>8</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>4</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4382,12 +4549,6 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -5444,20 +5605,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </tr>
 </table>
 
-> *Приложение 25 к решению*  
-> *Уйгурского районного*  
-> *маслихата от 10 января*  
-> *2020 года № 6-60-347*
+> *Приложение 25*  
+> *к решению Уйгурского районного*  
+> *маслихата от 10 января 2020 года*  
+> *№ 6-60-347 «О бюджетах сельских*  
+> *округов Уйгурского района*  
+> *на 2020-2022 годы»*
 
 # Бюджет Кетпенского сельского округа на 2020 год
+
+> *Сноска. Приложение 25 в редакции решения Уйгуруского районного маслихата Алматинской области от 20.04.2020 № 6-64-369 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">
-
 Сумма
-(тысяч тенге)
+(тысяч
+тенге)
 </td>
 </tr>
 <tr>
@@ -5470,38 +5635,45 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>Наименование</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>28391</td>
+<td>27891</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4572</td>
+<td>4072</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>3400</td>
+<td>2900</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>3400</td>
+<td>2900</td>
 </tr>
 <tr>
 <td></td>
@@ -5578,18 +5750,24 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Программа</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -5599,7 +5777,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>28391</td>
+<td>27894</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5647,7 +5825,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6251</td>
+<td>5751</td>
 </tr>
 <tr>
 <td></td>
@@ -5655,7 +5833,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>6251</td>
+<td>5751</td>
 </tr>
 <tr>
 <td></td>
@@ -5663,7 +5841,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6251</td>
+<td>5751</td>
 </tr>
 <tr>
 <td></td>
@@ -5687,7 +5865,39 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3500</td>
+<td>3000</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5709,26 +5919,28 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
@@ -5738,6 +5950,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
@@ -5745,6 +5958,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
@@ -5752,30 +5966,27 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="5">Категория</td>
+<td rowspan="3">
+Сумма (тысяч
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Класс</td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -5789,19 +6000,20 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5811,18 +6023,21 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-3</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
@@ -5832,6 +6047,7 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Внутренние государственные займы</td>
 <td>0</td>
 </tr>
@@ -5839,10 +6055,12 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Договоры займа</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>03</td>
@@ -5853,36 +6071,40 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td>8</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>3</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5892,12 +6114,6 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -6395,480 +6611,6 @@ source: https://zan.gov.kz/client/#!/doc/139117/rus/10.01.2020
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>056</td>
-<td>Погашение долга аппарата акима города районного значения, села, поселка, сельского округа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Приложение 27 к решению*  
-> *Уйгурского районного*  
-> *маслихата от 10 января*  
-> *2020 года № 6-60-347*
-
-# Бюджет Кетпенского сельского округа на 2022 год
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">
-
-Сумма
-(тысяч тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>I. Доходы</td>
-<td>27090</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>6440</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>990</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подохоный налог</td>
-<td>990</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Hалоги на собственность</td>
-<td>5450</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Hалоги на имущество</td>
-<td>280</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>270</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Hалог на транспортные средства</td>
-<td>4900</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>20650</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансерты из вышестоящих органов государственного управления</td>
-<td>20650</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из райнного (города областного значения) бюджета</td>
-<td>20650</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">
-
-Сумма
-(тысяч тенге)
-</td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Программа</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Подпрограмма</td>
-</tr>
-<tr>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Затраты</td>
-<td>27090</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государсвенные услуги общего характера</td>
-<td>21960</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21960</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районноо значения, села поселка, сельского округа</td>
-<td>21960</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Услуги по обеспечению деятеьности акима города районного значения, села, поселка, сельского округа</td>
-<td>21960</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>5130</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Жилищное хозяйство</td>
-<td>5130</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>14</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сльского округа</td>
-<td>5130</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td>2010</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Обеспечение санитарии населенных пунктов</td>
-<td>1020</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>2100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3.Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Погашение бюджетныхкредито, выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Сальдо по операциям с финансовыми активами</td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Нименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td>Поступления займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Внутренние государственны займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>03</td>
-<td>Займы, получаеые местным исполнительным органо района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Смма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
