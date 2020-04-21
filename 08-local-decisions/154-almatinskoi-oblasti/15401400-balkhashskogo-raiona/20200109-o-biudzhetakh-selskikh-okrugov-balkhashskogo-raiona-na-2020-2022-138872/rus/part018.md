@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/138872/rus/21.04.2020
 ---
 
 > *Приложение 18 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
@@ -401,100 +401,88 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 </table>
 
-> *Приложение 19 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
+> *Приложение 19 к решению Балхашского районного маслихата от 09 января 2020 года № 59-250*
 
 # Бюджет Берекенского сельского округа на 2020 год
 
+> *Сноска. Приложение 19 в редакции решения Балхашского районного маслихата Алматинской области от 21.04.2020 № 62-257 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td colspan="2">І. Доходы</td>
 <td>23271</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2">Налоговые поступления</td>
 <td>990</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>657</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>657</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>333</td>
+<td colspan="2">Hалоги на собственность</td>
+<td>990</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td colspan="2">Налог на имущество</td>
 <td>53</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">Земельный налог</td>
 <td>80</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>200</td>
+<td colspan="2">Hалог на транспортные средства</td>
+<td>857</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td colspan="2">Поступления трансфертов</td>
 <td>22281</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
 <td>22281</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета</td>
 <td>22281</td>
 </tr>
 </table>
@@ -532,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>23271</td>
+<td>24986</td>
 </tr>
 <tr>
 <td>01</td>
@@ -572,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1590</td>
+<td>3305</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1590</td>
+<td>3305</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1590</td>
+<td>3305</td>
 </tr>
 <tr>
 <td></td>
@@ -612,15 +600,14 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>795</td>
+<td>2510</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="2">Сумма (тыс.тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="3">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -630,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -652,15 +639,13 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
+<td colspan="4">Класс</td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -702,14 +687,35 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1715</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1715</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>1715</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>1715</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>1715</td>
 </tr>
 <tr>
 <td></td>
@@ -778,8 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -1593,94 +1598,89 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 </table>
 
-> *Приложение 22 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
+> *Приложение 22 к решению Балхашского районного маслихата от 09 января 2020 года № 59-250*
 
 # Бюджет Бирликского сельского округа на 2020 год
 
+> *Сноска. Приложение 22 в редакции решения Балхашского районного маслихата Алматинской области от 21.04.2020 № 62-257 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td colspan="2">І. Доходы</td>
 <td>36152</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2">Налоговые поступления</td>
 <td>880</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>740</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>740</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>140</td>
+<td colspan="2">Hалоги на собственность</td>
+<td>880</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td colspan="2">Налог на имущество</td>
 <td>44</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">Земельный налог</td>
 <td>96</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспорт</td>
+<td>740</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td colspan="2">Поступления трансфертов</td>
 <td>35272</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
 <td>35272</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td>36152</td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета</td>
+<td>35272</td>
 </tr>
 </table>
 
@@ -1717,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>36152</td>
+<td>37554</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1757,7 +1757,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1852</td>
+<td>3254</td>
 </tr>
 <tr>
 <td></td>
@@ -1765,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1852</td>
+<td>3254</td>
 </tr>
 <tr>
 <td></td>
@@ -1773,7 +1773,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1852</td>
+<td>3254</td>
 </tr>
 <tr>
 <td></td>
@@ -1797,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>795</td>
+<td>2197</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1835,9 +1835,8 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="2">Сумма (тыс.тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="3">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -1847,7 +1846,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -1869,15 +1868,13 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
+<td colspan="4">Класс</td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -1919,14 +1916,35 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1402</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1402</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>1402</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>1402</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>1402</td>
 </tr>
 <tr>
 <td></td>
@@ -1995,8 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -2803,94 +2820,89 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 </table>
 
-> *Приложение 25 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
+> *Приложение 25 к решению Балхашского районного маслихата от 09 января 2020 года № 59-250*
 
 # Бюджет Желтурангинского сельского округа на 2020 год
 
+> *Сноска. Приложение 25 в редакции решения Балхашского районного маслихата Алматинской области от 21.04.2020 № 62-257 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
-<td>22950</td>
+<td colspan="2">І. Доходы</td>
+<td>22600</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2">Налоговые поступления</td>
 <td>686</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>587</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>587</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>99</td>
+<td colspan="2">Hалоги на собственность</td>
+<td>686</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td colspan="2">Налог на имущество</td>
 <td>12</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">Земельный налог</td>
 <td>87</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспорт</td>
+<td>587</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
-<td>22264</td>
+<td colspan="2">Поступления трансфертов</td>
+<td>21914</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>22264</td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td>21914</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td>22264</td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета</td>
+<td>21914</td>
 </tr>
 </table>
 
@@ -2927,7 +2939,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>22950</td>
+<td>22600</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2967,7 +2979,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>3344</td>
+<td>2994</td>
 </tr>
 <tr>
 <td></td>
@@ -2975,7 +2987,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>3344</td>
+<td>2994</td>
 </tr>
 <tr>
 <td></td>
@@ -2983,7 +2995,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>3344</td>
+<td>2994</td>
 </tr>
 <tr>
 <td></td>
@@ -3007,15 +3019,14 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1795</td>
+<td>1445</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="2">Сумма (тыс.тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="3">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -3025,7 +3036,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -3047,15 +3058,13 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
+<td colspan="4">Класс</td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -3173,8 +3182,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -3960,94 +3968,89 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 </table>
 
-> *Приложение 28 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
+> *Приложение 28 к решению Балхашского районного маслихата от 09 января 2020 года № 59-250*
 
 # Бюджет Жиделинского сельского округа на 2020 год
 
+> *Сноска. Приложение 28 в редакции решения Балхашского районного маслихата Алматинской области от 21.04.2020 № 62-257 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
-<td>25394</td>
+<td colspan="2">І. Доходы</td>
+<td>25984</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2">Налоговые поступления</td>
 <td>905</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>783</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>783</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>122</td>
+<td colspan="2">Hалоги на собственность</td>
+<td>905</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td colspan="2">Налог на имущество</td>
 <td>16</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">Земельный налог</td>
 <td>106</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспорт</td>
+<td>783</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
-<td>24489</td>
+<td colspan="2">Поступления трансфертов</td>
+<td>25079</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>24489</td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td>25079</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td>24489</td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета</td>
+<td>25079</td>
 </tr>
 </table>
 
@@ -4084,7 +4087,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>25394</td>
+<td>25984</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4124,7 +4127,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2508</td>
+<td>3098</td>
 </tr>
 <tr>
 <td></td>
@@ -4132,7 +4135,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2508</td>
+<td>3098</td>
 </tr>
 <tr>
 <td></td>
@@ -4140,7 +4143,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>2508</td>
+<td>3098</td>
 </tr>
 <tr>
 <td></td>
@@ -4164,7 +4167,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1495</td>
+<td>2085</td>
 </tr>
 </table>
 
@@ -4204,15 +4207,13 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
+<td colspan="4">Класс</td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -4330,8 +4331,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -5117,94 +5117,89 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 </table>
 
-> *Приложение 31 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
+> *Приложение 31 к решению Балхашского районного маслихата от 09 января 2020 года № 59-250*
 
 # Бюджет Каройского сельского округа на 2020 год
 
+> *Сноска. Приложение 31 в редакции решения Балхашского районного маслихата Алматинской области от 21.04.2020 № 62-257 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
-<td>26906</td>
+<td colspan="2">І. Доходы</td>
+<td>26406</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2">Налоговые поступления</td>
 <td>880</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>735</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>735</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>145</td>
+<td colspan="2">Hалоги на собственность</td>
+<td>880</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td colspan="2">Налог на имущество</td>
 <td>15</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">Земельный налог</td>
 <td>130</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспорт</td>
+<td>735</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
-<td>26026</td>
+<td colspan="2">Поступления трансфертов</td>
+<td>25526</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>26026</td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td>25526</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td>26026</td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета</td>
+<td>25526</td>
 </tr>
 </table>
 
@@ -5241,7 +5236,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>26906</td>
+<td>27352</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5281,7 +5276,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>3642</td>
+<td>4088</td>
 </tr>
 <tr>
 <td></td>
@@ -5289,7 +5284,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>3642</td>
+<td>4088</td>
 </tr>
 <tr>
 <td></td>
@@ -5297,7 +5292,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>3642</td>
+<td>4088</td>
 </tr>
 <tr>
 <td></td>
@@ -5321,15 +5316,14 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>795</td>
+<td>2591</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="2">Сумма (тыс.тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="3">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5339,7 +5333,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -5361,15 +5355,13 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
+<td colspan="4">Класс</td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -5411,14 +5403,35 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-946</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>946</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>946</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>946</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>946</td>
 </tr>
 <tr>
 <td></td>
@@ -5487,8 +5500,7 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -6621,404 +6633,6 @@ source: https://zan.gov.kz/client/#!/doc/138872/rus/09.01.2020
 
 Сумма
 (тыс,тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">
-
-Сумма
-(тыс.тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Класс</td>
-<td colspan="2">Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Приложение 35 к решению маслихата Балхашского района от 9 января 2020 года № 59-250*
-
-# Бюджет Коктальского сельского округа на 2021 год
-
-<table>
-<tr>
-<td colspan="6">Категория</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Класс</td>
-<td></td>
-<td colspan="2">Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">І. Доходы</td>
-<td>22802</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td colspan="3">Налоговые поступления</td>
-<td>2440</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Социальный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Социальный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>2440</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Налог на имущество</td>
-<td>18</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="3">Земельный налог</td>
-<td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>2362</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td colspan="3">Поступления трансфертов</td>
-<td>20362</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>20362</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td>20362</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ІІ. Затраты</td>
-<td>22802</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>21213</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21213</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>21213</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>21213</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>1589</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>1589</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1589</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Освешение улиц населенных пунктов</td>
-<td>529</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Обеспечение санитарии населенных пунктов</td>
-<td>265</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>795</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="2">Сумма (тыс.тенге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Класс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="6">Категория</td>
-<td rowspan="4">
-
-Сумма
-(тыс.тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Класс</td>
-<td colspan="2"></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">
-
-Сумма
-(тыс.тенге)
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Класс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступления займов</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">
-
-Сумма
-(тыс.тенге)
 </td>
 </tr>
 <tr>
