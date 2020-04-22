@@ -1,31 +1,30 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
+source: https://zan.gov.kz/client/#!/doc/139215/kaz/22.04.2020
 ---
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 1-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 1-қосымша*
 
 # 2020 жылға арналған Ават ауылдық округінің бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -47,35 +46,35 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>182</td>
+<td>965</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>182</td>
+<td>965</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>4 620</td>
+<td>3 837</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>1 273</td>
+<td>976</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>2 787</td>
+<td>2 301</td>
 </tr>
 <tr>
 <td></td>
@@ -117,7 +116,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -137,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>33 864</td>
+<td>33 867</td>
 </tr>
 <tr>
 <td>01</td>
@@ -176,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>022</td>
-<td>Мемлекетік органның күрделі шығыстары</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
 <td>188</td>
 </tr>
 <tr>
@@ -236,6 +235,38 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>3 000</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>3</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -292,61 +323,30 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Функционалдық кіші топ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Санаты</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Сыныбы</td>
-<td colspan="2"></td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Кіші сыныбы</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">
-Мемлекеттің қаржы активтерін сатудан түсетін
-түсімдер
-</td>
+<td colspan="3">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 </table>
@@ -371,28 +371,60 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-3</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>3</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="4">
+<td rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="6">Функционалдық кіші топ</td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -405,6 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td colspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -1324,29 +1357,28 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 4-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 4-қосымша*
 
 # 2020 жылға арналған Асы ауылдық округінің бюджеті
+
+> *Ескерту. 4-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -1368,35 +1400,35 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>182</td>
+<td>632</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>182</td>
+<td>632</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>2 319</td>
+<td>1 869</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>1 250</td>
+<td>958</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>910</td>
+<td>752</td>
 </tr>
 <tr>
 <td></td>
@@ -1438,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -1458,7 +1490,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>100 434</td>
+<td>100 435</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1633,8 +1665,40 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>040</td>
-<td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
 <td>10 000</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>1</td>
 </tr>
 <tr>
 <td></td>
@@ -1648,149 +1712,153 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="11">Санаты</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="10">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
+<td colspan="4"></td>
+<td colspan="3">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="4">01</td>
+<td colspan="3"></td>
+<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="3">1</td>
+<td colspan="3">Мемлекеттік бюджеттен берілетін бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
 <td></td>
-<td>1</td>
-<td>Мемлекеттік бюджеттен берілетін бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="5">Функционалдық кіші топ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="11">Функционалдық топ</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="8">Кіші функция</td>
+</tr>
+<tr>
+<td colspan="3"></td>
 <td></td>
+<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 <td colspan="3">Бағдарлама</td>
 <td>Атауы</td>
-</tr>
-<tr>
 <td colspan="2"></td>
-<td></td>
-<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="4">Қаржы активтерін сатып алу</td>
-<td>0</td>
+<td colspan="7">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="8">
-<table>
+<td colspan="13"></td>
+</tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="12">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="2"></td>
+<td colspan="10">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">
-Мемлекеттің қаржы активтерін сатудан түсетін
-түсімдер
-</td>
-<td>0</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan="7">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td colspan="3"></td>
-<td>Кіші сыныбы</td>
-<td colspan="2">Атауы</td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
+<td>-1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2">8</td>
+<td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">01</td>
+<td colspan="3"></td>
+<td colspan="3">Бюджет қаражаты қалдықтары</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3">1</td>
+<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td>1</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -1803,6 +1871,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td>Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -2818,29 +2887,28 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 7-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 7-қосымша*
 
 # 2020 жылға арналған Ақши ауылдық округінің бюджеті
+
+> *Ескерту. 7-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -2862,35 +2930,35 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>182</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>182</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>1 393</td>
+<td>1 176</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>455</td>
+<td>348</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>630</td>
+<td>520</td>
 </tr>
 <tr>
 <td></td>
@@ -2932,7 +3000,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2952,7 +3020,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>42 693</td>
+<td>42 694</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3083,6 +3151,38 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>3 000</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>1</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3140,11 +3240,11 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <table>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="6">Функционалдық кіші топ</td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3154,8 +3254,10 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3166,35 +3268,14 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="5">Қаржы активтерін сатып алу</td>
-<td colspan="2">0</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">
-<table>
-<tr>
-<td colspan="3">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">
-Мемлекеттің қаржы активтерін сатудан түсетін
-түсімдер
-</td>
-<td>0</td>
-</tr>
-</table>
-</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="9">Санаты</td>
@@ -3207,80 +3288,102 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td>Кіші сыныбы</td>
-<td colspan="4">Атауы</td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаты қалдықтары</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td>1</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>056</td>
+<td colspan="2"></td>
+<td colspan="2">056</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімі аппаратының жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -4167,29 +4270,28 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 10-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 10-қосымша*
 
 # 2020 жылға арналған Бәйдібек би ауылдық округінің бюджеті
+
+> *Ескерту. 10-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -4211,35 +4313,35 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>3 000</td>
+<td>3 291</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>3 000</td>
+<td>3 291</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>1 829</td>
+<td>1 538</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>692</td>
+<td>531</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>740</td>
+<td>610</td>
 </tr>
 <tr>
 <td></td>
@@ -4281,7 +4383,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -4399,14 +4501,6 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>1 500</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Таза бюджеттік кредиттеу</td>
-<td>0</td>
-</tr>
 </table>
 
 <table>
@@ -4456,148 +4550,153 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 
 <table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="2">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
+<td colspan="5">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0</td>
+<td colspan="10"></td>
 </tr>
 <tr>
-<td colspan="5">
-<table>
-<tr>
-<td colspan="3">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
+<td colspan="3"></td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаты қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>056</td>
+<td colspan="2"></td>
+<td colspan="2">056</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімі аппаратының жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -5486,14 +5585,16 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 13-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 13-қосымша*
 
 # 2020 жылға арналған Балтабай ауылдық округінің бюджеті
+
+> *Ескерту. 13-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
@@ -5505,12 +5606,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -5532,35 +5628,35 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>182</td>
+<td>429</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>182</td>
+<td>429</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>2 298</td>
+<td>2 051</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>751</td>
+<td>576</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>415</td>
+<td>343</td>
 </tr>
 <tr>
 <td></td>
@@ -5602,7 +5698,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -5622,7 +5718,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>91 045</td>
+<td>98 949</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5630,7 +5726,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>26 435</td>
+<td>34 335</td>
 </tr>
 <tr>
 <td></td>
@@ -5638,7 +5734,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>26 435</td>
+<td>34 335</td>
 </tr>
 <tr>
 <td></td>
@@ -5646,7 +5742,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 435</td>
+<td>34 335</td>
 </tr>
 <tr>
 <td></td>
@@ -5654,7 +5750,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26 247</td>
+<td>34 147</td>
 </tr>
 <tr>
 <td></td>
@@ -5781,345 +5877,24 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td></td>
 <td>040</td>
-<td>Өңірлерді дамытудың 2025 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
+<td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
 <td>35 000</td>
 </tr>
 <tr>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>III. Таза бюджеттік кредиттеу</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Мемлекеттік бюджеттен берілетін бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="5">Функционалдық кіші топ</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">Бағдарлама</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Қаржы активтерін сатып алу</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">
-<table>
-<tr>
-<td colspan="3">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan="7">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>Кіші сыныбы</td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>056</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімі аппаратының жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 14-қосымша*
-
-# 2021 жылға арналған Балтабай ауылдық округінің бюджеті
-
-<table>
-<tr>
-<td colspan="4">Санаты</td>
-<td rowspan="4">
-
-Сомасы,
-мың теңге
-</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>I. Кірістер</td>
-<td>91 661</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Салықтық түсімдер</td>
-<td>40 885</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Меншікке салынатын салықтар</td>
-<td>40 885</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Мүлікке салынатын салықтар</td>
-<td>1 024</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Жер салығы</td>
-<td>486</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td>Трансферттер</td>
 <td>4</td>
-<td>Көлік құралдарына салынатын салық</td>
-<td>39 375</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Трансферттердің түсімдері</td>
-<td>50 776</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>50 776</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>50 776</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Шығындар</td>
-<td>91 661</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>26 570</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>26 570</td>
+<td>Трансферттер</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
@@ -6127,135 +5902,15 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 570</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26 570</td>
-</tr>
-<tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Білім беру</td>
-<td>21 528</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>21 528</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21 528</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td>21 528</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>8 563</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді абаттандыру</td>
-<td>8 563</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8 563</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>6 313</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>200</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>010</td>
-<td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>150</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1 900</td>
-</tr>
-<tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>35 000</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>35 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>040</td>
-<td>Өңірлерді дамытудың 2025 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td>35 000</td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
@@ -6315,11 +5970,11 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <table>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="6">Функционалдық кіші топ</td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -6329,86 +5984,82 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Қаржы активтерін сатып алу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="10">
-<table>
-<tr>
-<td colspan="3">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
-</table>
-</td>
+<tr>
+<td colspan="9"></td>
 </tr>
 <tr>
-<td colspan="9">Санаты</td>
+<td colspan="8">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Сыныбы</td>
+<td colspan="7">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">Кіші сыныбы</td>
-<td colspan="4">Атауы</td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
+<td>-7 904</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>7 904</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>7 904</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
+<td>7 904</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td>7 904</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -6421,6 +6072,7 @@ source: https://zan.gov.kz/client/#!/doc/139215/kaz/10.01.2020
 <td></td>
 <td>Бағдарлама</td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
