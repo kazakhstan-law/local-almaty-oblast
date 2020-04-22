@@ -441,29 +441,28 @@
 </tr>
 </table>
 
-> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 10-қосымша*
+> *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы «Еңбекшіқазақ ауданының Есік қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 58-159 шешіміне 10-қосымша*
 
 # 2020 жылға арналған Бәйдібек би ауылдық округінің бюджеті
+
+> *Ескерту. 10-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.04.2020 № 62-177 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="3">
 
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
+<td colspan="2">Кіші сыныбы</td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -485,35 +484,35 @@
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>3 000</td>
+<td>3 291</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>3 000</td>
+<td>3 291</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>1 829</td>
+<td>1 538</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td>692</td>
+<td>531</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>740</td>
+<td>610</td>
 </tr>
 <tr>
 <td></td>
@@ -555,7 +554,7 @@
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -673,14 +672,6 @@
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>1 500</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Таза бюджеттік кредиттеу</td>
-<td>0</td>
-</tr>
 </table>
 
 <table>
@@ -730,148 +721,153 @@
 
 <table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="2">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
+<td colspan="5">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0</td>
+<td colspan="10"></td>
 </tr>
 <tr>
-<td colspan="5">
-<table>
-<tr>
-<td colspan="3">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
+<td colspan="3"></td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кіші сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаты қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="6">Функционалдық кіші топ</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 <td>Атауы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>056</td>
+<td colspan="2"></td>
+<td colspan="2">056</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімі аппаратының жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
