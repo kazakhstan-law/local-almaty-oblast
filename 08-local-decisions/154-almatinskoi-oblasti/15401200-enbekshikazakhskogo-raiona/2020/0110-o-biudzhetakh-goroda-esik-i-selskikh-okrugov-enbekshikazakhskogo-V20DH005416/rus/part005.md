@@ -968,9 +968,11 @@
 </tr>
 </table>
 
-> *Приложение 7 к решению Енбекшиказахского районного маслихата от 10 января 2020 года № 58-159*
+> *Приложение 7 к решению Енбекшиказахского районного маслихата от 10 января 2020 года № 58-159 «О бюджетах города Есик и сельских округов Енбекшиказахского района на 2020-2022 годы»*
 
 # Бюджет Акшийского сельского округа на 2020 год
+
+> *Сноска. Приложение 7 в редакции решения Енбекшиказахского районного маслихата Алматинской области от 22.04.2020 № 62-177 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1006,35 +1008,35 @@
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>182</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>182</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>1 393</td>
+<td>1 176</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
-<td>455</td>
+<td>348</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>630</td>
+<td>520</td>
 </tr>
 <tr>
 <td></td>
@@ -1061,7 +1063,7 @@
 <td></td>
 <td></td>
 <td>3</td>
-<td>Трансферты из районного бюджета</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
 <td>41 118</td>
 </tr>
 </table>
@@ -1093,7 +1095,7 @@
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>42 693</td>
+<td>42 694</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1132,7 +1134,7 @@
 <td></td>
 <td></td>
 <td>022</td>
-<td>Капитальные расходы государственного органа</td>
+<td>Капитальные расходы государственных органов</td>
 <td>188</td>
 </tr>
 <tr>
@@ -1200,7 +1202,7 @@
 <td>3 500</td>
 </tr>
 <tr>
-<td></td>
+<td>,</td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1224,6 +1226,38 @@
 <td>3 000</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>1</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1235,192 +1269,182 @@
 
 <table>
 <tr>
-<td colspan="10">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="9">Класс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5"></td>
-<td colspan="2">Подкласс</td>
-<td colspan="2">Наименование</td>
+<td></td>
+<td>Подкласс</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">01</td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td>01</td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="2">Погашение бюджетных кредитов, выданных и государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="7">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Программа</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td colspan="2">0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Подкласс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td colspan="4">Поступления от продажи финансовых активов государства</td>
+<td>1</td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Подкласс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита( использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="7">Функциональная группа</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="2"></td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Программа</td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="7">Категория</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="6">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Подкласс</td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">V. Дефицит (профицит) бюджета</td>
+<td>-1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">VI. Финансирование дефицита( использование профицита) бюджета</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Остатки бюджетных средств</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">Свободные остатки бюджетных средств</td>
+<td>1</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="7">Функциональная группа</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td colspan="2">16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>056</td>
+<td colspan="2">056</td>
 <td>Погашение долга аппарата акима города районного значения, села, поселка, сельского округа перед вышестоящим бюджетом</td>
 <td>0</td>
 </tr>
