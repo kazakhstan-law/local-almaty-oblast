@@ -1,16 +1,18 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/139141/kaz/24.04.2020
 ---
 
 > *Ақсу аудандық мәслихатының 2020 жылғы «9» қаңтардағы № 56-254 шешіміне 31-қосымша*
 
 # 2020 жылға арналған Қарашілік ауылдық округінің бюджеті
 
+> *Ескерту. 31-қосымша жаңа редакцияда – Алматы облысы Ақсу аудандық мәслихатының 24.04.2020 № 59-265 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>33718</td>
+<td>34718</td>
 </tr>
 <tr>
 <td>1</td>
@@ -144,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>32277</td>
+<td>33277</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +154,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>32277</td>
+<td>33277</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +162,15 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>32277</td>
+<td>33277</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>01</td>
+<td>Ағымдағы нысаналы трансферттер</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
@@ -213,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>33718</td>
+<td>35211</td>
 </tr>
 <tr>
 <td>1</td>
@@ -221,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29008</td>
+<td>29501</td>
 </tr>
 <tr>
 <td></td>
@@ -229,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>29008</td>
+<td>29501</td>
 </tr>
 <tr>
 <td></td>
@@ -237,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29008</td>
+<td>29501</td>
 </tr>
 <tr>
 <td></td>
@@ -253,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>188</td>
+<td>681</td>
 </tr>
 <tr>
 <td>7</td>
@@ -261,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4370</td>
+<td>5370</td>
 </tr>
 <tr>
 <td></td>
@@ -269,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4370</td>
+<td>5370</td>
 </tr>
 <tr>
 <td></td>
@@ -277,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4370</td>
+<td>5370</td>
 </tr>
 <tr>
 <td></td>
@@ -301,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2835</td>
+<td>3835</td>
 </tr>
 <tr>
 <td>12</td>
@@ -396,7 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="5">
 Сомасы
 (мың тенге)
 </td>
@@ -409,6 +419,12 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -586,35 +602,35 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-493</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>493</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>493</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>493</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>493</td>
 </tr>
 </table>
 
@@ -4143,10 +4159,15 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 
 # 2020 жылға арналған Қызылағаш ауылдық округінің бюджеті
 
+> *Ескерту. 37-қосымша жаңа редакцияда – Алматы облысы Ақсу аудандық мәслихатының 24.04.2020 № 59-265 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4184,7 +4205,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>88741</td>
+<td>96641</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4280,7 +4301,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>87420</td>
+<td>95320</td>
 </tr>
 <tr>
 <td></td>
@@ -4288,7 +4309,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>87420</td>
+<td>95320</td>
 </tr>
 <tr>
 <td></td>
@@ -4296,7 +4317,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>87420</td>
+<td>95320</td>
 </tr>
 <tr>
 <td></td>
@@ -4304,7 +4325,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>38885</td>
+<td>46785</td>
 </tr>
 <tr>
 <td></td>
@@ -4319,7 +4340,10 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4357,7 +4381,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>88741</td>
+<td>96929</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4365,7 +4389,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>41516</td>
+<td>41804</td>
 </tr>
 <tr>
 <td></td>
@@ -4373,7 +4397,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>41516</td>
+<td>41804</td>
 </tr>
 <tr>
 <td></td>
@@ -4381,7 +4405,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>41516</td>
+<td>41804</td>
 </tr>
 <tr>
 <td></td>
@@ -4397,7 +4421,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>188</td>
+<td>476</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4437,7 +4461,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7930</td>
+<td>15830</td>
 </tr>
 <tr>
 <td></td>
@@ -4445,7 +4469,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>7930</td>
+<td>15830</td>
 </tr>
 <tr>
 <td></td>
@@ -4453,7 +4477,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7930</td>
+<td>15830</td>
 </tr>
 <tr>
 <td></td>
@@ -4477,7 +4501,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2530</td>
+<td>10430</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4572,7 +4596,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="5">
 Сомасы
 (мың тенге)
 </td>
@@ -4585,6 +4609,12 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4762,35 +4792,35 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-288</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>288</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>288</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>288</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>288</td>
 </tr>
 </table>
 
@@ -6346,10 +6376,15 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 
 # 2020 жылға арналған Матай ауылдық округінің бюджеті
 
+> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Ақсу аудандық мәслихатының 24.04.2020 № 59-265 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -6395,7 +6430,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>30076</td>
+<td>9576</td>
 </tr>
 <tr>
 <td></td>
@@ -6403,23 +6438,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>26831</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Корпоративтік табыс салығы</td>
-<td>25831</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>11</td>
-<td>Ірі кәсіпкерлік субъектілерінен және мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, заңды тұлғалардан алынатын корпоративтік табыс салығы</td>
-<td>25831</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -6427,7 +6446,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>1000</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -6435,7 +6454,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>02</td>
 <td>Төлем көзінен салық салынбайтын табыстардан ұсталатын жеке табыс салығы</td>
-<td>1000</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -6443,7 +6462,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>3245</td>
+<td>9076</td>
 </tr>
 <tr>
 <td></td>
@@ -6483,7 +6502,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>1054</td>
+<td>6885</td>
 </tr>
 <tr>
 <td></td>
@@ -6499,7 +6518,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>02</td>
 <td>Жеке тұлғалардан көлік құралдарына салынатын салық</td>
-<td>892</td>
+<td>6723</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6507,7 +6526,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>90744</td>
+<td>111244</td>
 </tr>
 <tr>
 <td></td>
@@ -6515,7 +6534,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>90744</td>
+<td>111244</td>
 </tr>
 <tr>
 <td></td>
@@ -6523,7 +6542,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>90744</td>
+<td>111244</td>
 </tr>
 <tr>
 <td></td>
@@ -6531,7 +6550,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>85923</td>
+<td>106423</td>
 </tr>
 <tr>
 <td></td>
@@ -6546,7 +6565,10 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -6584,7 +6606,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>120820</td>
+<td>120872</td>
 </tr>
 <tr>
 <td>1</td>
@@ -6592,7 +6614,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>22832</td>
+<td>22884</td>
 </tr>
 <tr>
 <td></td>
@@ -6600,7 +6622,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>22832</td>
+<td>22884</td>
 </tr>
 <tr>
 <td></td>
@@ -6608,7 +6630,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>22832</td>
+<td>22884</td>
 </tr>
 <tr>
 <td></td>
@@ -6624,7 +6646,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>188</td>
+<td>240</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6791,7 +6813,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="5">
 Сомасы
 (мың тенге)
 </td>
@@ -6804,6 +6826,12 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6981,35 +7009,35 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-52</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>52</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>52</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>52</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>52</td>
 </tr>
 </table>
 

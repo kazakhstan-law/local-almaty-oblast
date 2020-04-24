@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/139141/kaz/24.04.2020
 ---
 
 > *Ақсу аудандық мәслихатының 2020 жылғы «9» қаңтардағы № 56-254 шешіміне 51-қосымша*

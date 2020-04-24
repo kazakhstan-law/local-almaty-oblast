@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/139141/kaz/24.04.2020
 ---
 
 > *Ақсу аудандық мәслихатының 2020 жылғы «9» қаңтардағы № 56-254 шешіміне 41-қосымша*
@@ -5575,10 +5575,15 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 
 # 2020 жылға арналған Суықсай ауылдық округінің бюджеті
 
+> *Ескерту. 49-қосымша жаңа редакцияда – Алматы облысы Ақсу аудандық мәслихатының 24.04.2020 № 59-265 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың тенге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -5616,7 +5621,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>76506</td>
+<td>78526</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5712,7 +5717,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>75732</td>
+<td>77752</td>
 </tr>
 <tr>
 <td></td>
@@ -5720,7 +5725,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғарғы тұрған органдарынан түсетін трансферттер</td>
-<td>75732</td>
+<td>77752</td>
 </tr>
 <tr>
 <td></td>
@@ -5728,7 +5733,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>75732</td>
+<td>77752</td>
 </tr>
 <tr>
 <td></td>
@@ -5736,7 +5741,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>48058</td>
+<td>50078</td>
 </tr>
 <tr>
 <td></td>
@@ -5751,7 +5756,10 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -5789,7 +5797,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>76506</td>
+<td>78526</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5893,7 +5901,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3655</td>
+<td>5655</td>
 </tr>
 <tr>
 <td></td>
@@ -5901,7 +5909,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>3655</td>
+<td>5655</td>
 </tr>
 <tr>
 <td></td>
@@ -5909,7 +5917,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3655</td>
+<td>5655</td>
 </tr>
 <tr>
 <td></td>
@@ -5933,7 +5941,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2145</td>
+<td>4145</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5973,7 +5981,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>7900</td>
+<td>7920</td>
 </tr>
 <tr>
 <td></td>
@@ -5981,7 +5989,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>7900</td>
+<td>7920</td>
 </tr>
 <tr>
 <td></td>
@@ -5989,7 +5997,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7900</td>
+<td>7920</td>
 </tr>
 <tr>
 <td></td>
@@ -5997,7 +6005,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td>040</td>
 <td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td>7900</td>
+<td>7920</td>
 </tr>
 </table>
 
@@ -6060,7 +6068,7 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
+<td rowspan="5">
 Сомасы
 (мың тенге)
 </td>
@@ -6073,6 +6081,12 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6168,7 +6182,10 @@ source: https://zan.gov.kz/client/#!/doc/139141/kaz/09.01.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы (мың тенге)</td>
+<td rowspan="4">
+Сомасы
+(мың тенге)
+</td>
 </tr>
 <tr>
 <td></td>
