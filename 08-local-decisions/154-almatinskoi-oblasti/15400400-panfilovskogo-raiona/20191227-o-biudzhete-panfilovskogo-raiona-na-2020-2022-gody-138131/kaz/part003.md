@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138131/kaz/03.04.2020
+source: https://zan.gov.kz/client/#!/doc/138131/kaz/24.07.2020
 ---
 
 > *Панфилов аудандық мәслихатының*  
