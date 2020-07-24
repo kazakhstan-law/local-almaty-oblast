@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138126/kaz/07.04.2020
+source: https://zan.gov.kz/client/#!/doc/138126/kaz/24.07.2020
 ---
 
 > *Қаратал аудандық мәслихатының 2019 жылғы 27 желтоқсандағы № 65-234 шешіміне 3-қосымша*
