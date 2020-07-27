@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138289/kaz/06.04.2020
+source: https://zan.gov.kz/client/#!/doc/138289/kaz/27.07.2020
 ---
 
 > *Қарасай аудандық мәслихатының 2019 жылғы «27» желтоқсандағы № 50-3 шешіміне 3-қосымша*
