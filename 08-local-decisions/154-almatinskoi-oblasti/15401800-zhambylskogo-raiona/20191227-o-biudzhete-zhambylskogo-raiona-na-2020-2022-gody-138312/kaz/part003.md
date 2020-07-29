@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138312/kaz/07.04.2020
+source: https://zan.gov.kz/client/#!/doc/138312/kaz/29.07.2020
 ---
 
 > *Жамбыл аудандық мәслихатының 2019 жылғы «27» желтоқсандағы. № 65-302 шешіміне 3-қосымша*
