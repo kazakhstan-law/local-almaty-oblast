@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139052/kaz/17.04.2020
+source: https://zan.gov.kz/client/#!/doc/139052/kaz/13.08.2020
 ---
 
 > *Алакөл аудандық мәслихатының 2020 жылғы «9» қаңтар № 63-1 шешіміне 60 қосымша*
