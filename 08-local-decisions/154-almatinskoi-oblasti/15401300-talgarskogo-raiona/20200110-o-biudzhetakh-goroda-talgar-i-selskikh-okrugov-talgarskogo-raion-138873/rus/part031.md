@@ -1,32 +1,34 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
+source: https://zan.gov.kz/client/#!/doc/138873/rus/17.08.2020
 ---
 
 > *Приложение 31 к решению*  
 > *Талгарского районного маслихата*  
-> *от 10 января 2020 года № 55-235*  
-> *«О бюджетах города Талгар и*  
-> *сельских округов Талгарского*  
-> *района на 2020-2022 годы»*
+> *от 10 января 2020 года № 55-235*
 
 # Бюджет Туздыбастауского сельского округа на 2020 год
 
-> *Сноска. Приложение 31 в редакции решения Талгарского районного маслихата Алматинской области от 23.04.2020 № 58-246 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 31 в редакции решениями Талгарского районного маслихата Алматинской области от 23.04.2020 № 58-246; от 17.08.2020 № 61-258 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>163 787</td>
+<td>162 787</td>
 </tr>
 <tr>
 <td>1</td>
@@ -49,10 +51,10 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Налоговые поступление</td>
-<td>140 660</td>
+<td>135 160</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -73,7 +75,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>95 600</td>
+<td>90 026</td>
 </tr>
 <tr>
 <td></td>
@@ -97,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>82 600</td>
+<td>77 026</td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>60</td>
+<td>134</td>
 </tr>
 <tr>
 <td></td>
@@ -113,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td>4</td>
 <td></td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>60</td>
+<td>134</td>
 </tr>
 <tr>
 <td>4</td>
@@ -121,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>23 127</td>
+<td>27 627</td>
 </tr>
 <tr>
 <td></td>
@@ -129,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>23 127</td>
+<td>27 627</td>
 </tr>
 <tr>
 <td></td>
@@ -137,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>23 127</td>
+<td>27 627</td>
 </tr>
 </table>
 
@@ -174,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>187 037</td>
+<td>186 037</td>
 </tr>
 <tr>
 <td>01</td>
@@ -182,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>29 633</td>
+<td>28 633</td>
 </tr>
 <tr>
 <td></td>
@@ -190,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>29 633</td>
+<td>28 633</td>
 </tr>
 <tr>
 <td></td>
@@ -198,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>29 633</td>
+<td>28 633</td>
 </tr>
 <tr>
 <td></td>
@@ -206,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>29 333</td>
+<td>28 333</td>
 </tr>
 <tr>
 <td></td>
@@ -246,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>25 650</td>
+<td>24 900</td>
 </tr>
 <tr>
 <td></td>
@@ -262,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>13 000</td>
+<td>13 750</td>
 </tr>
 <tr>
 <td>12</td>
@@ -396,17 +398,22 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -496,17 +503,22 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -527,17 +539,22 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -598,17 +615,22 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -623,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>23250</td>
+<td>23 250</td>
 </tr>
 <tr>
 <td></td>
@@ -631,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>23250</td>
+<td>23 250</td>
 </tr>
 <tr>
 <td></td>
@@ -639,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/138873/rus/23.04.2020
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>23250</td>
+<td>23 250</td>
 </tr>
 </table>
 
