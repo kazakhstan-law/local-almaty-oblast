@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
+source: https://zan.gov.kz/client/#!/doc/139036/rus/19.08.2020
 ---
 
 > *Приложение 1 к решению*  
@@ -11,27 +11,23 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 # Бюджет Кегенского сельского округа на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решениями Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118; от 19.08.2020 № 38-129 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
+<td colspan="4">Класс</td>
 <td></td>
-<td colspan="3">Класс</td>
 </tr>
 <tr>
+<td colspan="4">Подкласс</td>
 <td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 <td></td>
 </tr>
 <tr>
@@ -39,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>247 476</td>
+<td>296 176</td>
 </tr>
 <tr>
 <td>1</td>
@@ -95,21 +91,21 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>226 606</td>
+<td>275 306</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>226 606</td>
+<td>275 306</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>226 606</td>
+<td>275 306</td>
 </tr>
 </table>
 
@@ -146,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2"></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>258 942</td>
+<td>307 642</td>
 </tr>
 <tr>
 <td>01</td>
@@ -194,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2"></td>
 <td></td>
 <td>Образование</td>
-<td>185 121</td>
+<td>233 821</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>183 373</td>
+<td>232 073</td>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>183 373</td>
+<td>232 073</td>
 </tr>
 <tr>
 <td></td>
@@ -218,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2"></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>183 373</td>
+<td>232 073</td>
 </tr>
 <tr>
 <td></td>
@@ -322,15 +318,15 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>7904</td>
+<td>7 904</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td>045</td>
-<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>3500</td>
+<td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>3 500</td>
 </tr>
 <tr>
 <td>13</td>
@@ -369,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -378,7 +374,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -413,31 +414,34 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 <table>
 <tr>
-<td colspan="2"></td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="7">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td>Программа</td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
@@ -448,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -457,7 +461,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -500,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -515,7 +524,13 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -1538,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 # Бюджет Жаланашского сельского округа на 2020 год
 
-> *Сноска. Приложение 4 в редакции решения Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 4 в редакции решениями Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118; от 19.08.2020 № 38-129 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1565,7 +1580,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>62 513</td>
+<td>75 304</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1621,21 +1636,21 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>51 976</td>
+<td>64 767</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>51 976</td>
+<td>64 767</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>51 976</td>
+<td>64 767</td>
 </tr>
 </table>
 
@@ -1672,7 +1687,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>63 661</td>
+<td>76 452</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1720,7 +1735,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>21 789</td>
+<td>34 580</td>
 </tr>
 <tr>
 <td></td>
@@ -1728,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>21 789</td>
+<td>34 580</td>
 </tr>
 <tr>
 <td></td>
@@ -1736,7 +1751,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21 789</td>
+<td>34 580</td>
 </tr>
 <tr>
 <td></td>
@@ -1744,7 +1759,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>21 789</td>
+<td>34 580</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1800,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>1 000</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1832,7 +1847,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>1 000</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
@@ -1863,7 +1878,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1872,7 +1887,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -1907,31 +1927,34 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 <table>
 <tr>
-<td colspan="2"></td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="7">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td>Программа</td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
@@ -1942,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1951,7 +1974,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -1994,7 +2022,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2009,7 +2037,13 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -2984,7 +3018,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 # Бюджет Жылысайского сельского округа на 2020 год
 
-> *Сноска. Приложение 7 в редакции решения Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 7 в редакции решениями Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118; от 19.08.2020 № 38-129 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -3088,7 +3122,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3103,10 +3137,14 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">
-Программа
-Наименование
-</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3114,7 +3152,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>27 508</td>
+<td>28 208</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3122,7 +3160,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>21 760</td>
+<td>22 460</td>
 </tr>
 <tr>
 <td></td>
@@ -3130,7 +3168,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21 760</td>
+<td>22 460</td>
 </tr>
 <tr>
 <td></td>
@@ -3138,7 +3176,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21 760</td>
+<td>22 460</td>
 </tr>
 <tr>
 <td></td>
@@ -3146,7 +3184,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>21 322</td>
+<td>22 022</td>
 </tr>
 <tr>
 <td></td>
@@ -3266,14 +3304,14 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>1000</td>
+<td>1 000</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3282,7 +3320,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -3317,94 +3360,8 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 <table>
 <tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Программа</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Подкласс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита( использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3419,7 +3376,107 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>-700</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Финансирование дефицита( использование профицита) бюджета</td>
+<td>700</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>700</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>700</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>700</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -4394,7 +4451,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 # Бюджет Карабулакского сельского округа на 2020 год
 
-> *Сноска. Приложение 10 в редакции решения Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 10 в редакции решениями Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118; от 19.08.2020 № 38-129 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -4498,7 +4555,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4513,7 +4570,13 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -4522,7 +4585,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>25 860</td>
+<td>25 960</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4530,7 +4593,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>22 570</td>
+<td>22 670</td>
 </tr>
 <tr>
 <td></td>
@@ -4538,7 +4601,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>22 570</td>
+<td>22 670</td>
 </tr>
 <tr>
 <td></td>
@@ -4546,7 +4609,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>22 570</td>
+<td>22 670</td>
 </tr>
 <tr>
 <td></td>
@@ -4554,7 +4617,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>22 132</td>
+<td>22 232</td>
 </tr>
 <tr>
 <td></td>
@@ -4649,7 +4712,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4658,7 +4721,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -4693,94 +4761,8 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 <table>
 <tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Программа</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Подкласс</td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита( использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4795,7 +4777,107 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>-100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Финансирование дефицита( использование профицита) бюджета</td>
+<td>100</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>100</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -5770,12 +5852,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 
 # Бюджет Каркаринского сельского округа на 2020 год
 
-> *Сноска. Приложение 13 в редакции решения Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 13 в редакции решениями Кегенского районного маслихата Алматинской области от 21.04.2020 № 33-118; от 19.08.2020 № 38-129 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -5784,7 +5866,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -5899,7 +5986,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>23 338</td>
+<td>24 237</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5907,7 +5994,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>20 308</td>
+<td>21 207</td>
 </tr>
 <tr>
 <td></td>
@@ -5915,7 +6002,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>20 308</td>
+<td>21 207</td>
 </tr>
 <tr>
 <td></td>
@@ -5923,7 +6010,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20 308</td>
+<td>21 207</td>
 </tr>
 <tr>
 <td></td>
@@ -5931,7 +6018,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>19 870</td>
+<td>20 769</td>
 </tr>
 <tr>
 <td></td>
@@ -6026,7 +6113,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6035,7 +6122,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -6071,7 +6163,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6086,7 +6178,13 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -6102,7 +6200,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6111,7 +6209,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <tr>
 <td></td>
 <td></td>
-<td>Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -6119,42 +6222,42 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-899</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита( использование профицита) бюджета</td>
-<td>0</td>
+<td>899</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>899</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>899</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>899</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6169,7 +6272,13 @@ source: https://zan.gov.kz/client/#!/doc/139036/rus/21.04.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Программа</td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
