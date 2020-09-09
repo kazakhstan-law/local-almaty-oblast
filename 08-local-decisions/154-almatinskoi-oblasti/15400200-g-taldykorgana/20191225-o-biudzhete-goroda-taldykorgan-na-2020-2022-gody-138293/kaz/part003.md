@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138293/kaz/29.07.2020
+source: https://zan.gov.kz/client/#!/doc/138293/kaz/09.09.2020
 ---
 
 > *Талдықорған қалалық мәслихатының*  
