@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138126/rus/24.07.2020
+source: https://zan.gov.kz/client/#!/doc/138126/rus/10.09.2020
 ---
 
 > *Приложение 3 к решению Каратальского районного маслихата от 27 декабря 2019 года № 65-234*
