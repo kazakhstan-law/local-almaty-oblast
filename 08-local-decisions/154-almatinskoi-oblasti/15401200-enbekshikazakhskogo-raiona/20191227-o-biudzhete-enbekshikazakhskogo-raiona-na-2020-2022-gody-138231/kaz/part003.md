@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138231/kaz/27.07.2020
+source: https://zan.gov.kz/client/#!/doc/138231/kaz/10.09.2020
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2019 жылғы 27 желтоқсандағы № 57-154 шешіміне 3-қосымша*
