@@ -1,68 +1,63 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
+source: https://zan.gov.kz/client/#!/doc/138755/rus/22.09.2020
 ---
 
 > *Приложение 1 к решению Илийского районного маслихата от 9 января 2020 года № 50-226*
 
 # Бюджет поселка Боралдай на 2020 год
 
-> *Сноска. Приложение 1 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253; от 22.09.2020 № 64-257 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Класс</td>
+<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>І. Доходы</td>
-<td>431 760</td>
+<td>440 094</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Налоговые поступления</td>
-<td>180 503</td>
+<td>188 837</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Подоходный налог</td>
-<td>116 590</td>
+<td>124 924</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>116 590</td>
+<td>124 924</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
-<td></td>
 <td></td>
 <td>Налоги на собственность</td>
 <td>62 906</td>
@@ -71,7 +66,6 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>1</td>
-<td></td>
 <td>Налог на имущество</td>
 <td>6 545</td>
 </tr>
@@ -79,7 +73,6 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>Земельный налог</td>
 <td>8 180</td>
 </tr>
@@ -87,14 +80,12 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Налог на транспортные средства</td>
 <td>48 181</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
-<td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>1 007</td>
@@ -103,13 +94,11 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>4</td>
-<td></td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>1 007</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Поступление трансфертов</td>
@@ -119,7 +108,6 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td>02</td>
 <td></td>
-<td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>251 257</td>
 </tr>
@@ -127,7 +115,6 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>3</td>
-<td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
 <td>251 257</td>
 </tr>
@@ -139,21 +126,21 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>480 898</td>
+<td>489 231</td>
 </tr>
 <tr>
 <td>1</td>
@@ -171,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>101 438</td>
+<td>101 437</td>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>101 438</td>
+<td>101 437</td>
 </tr>
 <tr>
 <td></td>
@@ -189,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>101 438</td>
+<td>101 437</td>
 </tr>
 <tr>
 <td></td>
@@ -198,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения,села, поселка, сельского округа</td>
-<td>42 200</td>
+<td>42 199</td>
 </tr>
 <tr>
 <td></td>
@@ -396,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>18 550</td>
+<td>26 884</td>
 </tr>
 <tr>
 <td></td>
@@ -405,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>18 550</td>
+<td>26 884</td>
 </tr>
 <tr>
 <td></td>
@@ -414,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>18 550</td>
+<td>26 884</td>
 </tr>
 <tr>
 <td></td>
@@ -423,7 +410,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>013</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>18 550</td>
+<td>26 884</td>
 </tr>
 <tr>
 <td>13</td>
@@ -505,17 +492,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>5</td>
@@ -549,17 +536,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>6</td>
@@ -593,17 +580,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -611,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-49 138</td>
+<td>-49 137</td>
 </tr>
 <tr>
 <td></td>
@@ -619,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>49 138</td>
+<td>49 137</td>
 </tr>
 <tr>
 <td>8</td>
@@ -627,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>49 138</td>
+<td>49 137</td>
 </tr>
 <tr>
 <td></td>
@@ -635,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>49 138</td>
+<td>49 137</td>
 </tr>
 <tr>
 <td></td>
@@ -643,7 +630,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>49 138</td>
+<td>49 137</td>
 </tr>
 </table>
 
@@ -653,21 +640,21 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1926,7 +1913,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 
 # Бюджет Ащыбулакского сельского округа на 2020 год
 
-> *Сноска. Приложение 4 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 4 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253; от 22.09.2020 № 64-257 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1942,17 +1929,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1960,7 +1947,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>208 462</td>
+<td>210 840</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1968,7 +1955,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>112 544</td>
+<td>114 922</td>
 </tr>
 <tr>
 <td></td>
@@ -1976,7 +1963,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>60 951</td>
+<td>63 329</td>
 </tr>
 <tr>
 <td></td>
@@ -1984,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>60 951</td>
+<td>63 329</td>
 </tr>
 <tr>
 <td></td>
@@ -2063,7 +2050,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <table>
 <tr>
 <td colspan="6">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2087,7 +2074,6 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2096,7 +2082,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>218 248</td>
+<td>220 626</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2105,7 +2091,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>41 780</td>
+<td>44 158</td>
 </tr>
 <tr>
 <td></td>
@@ -2114,7 +2100,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>41 780</td>
+<td>44 158</td>
 </tr>
 <tr>
 <td></td>
@@ -2123,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>41 780</td>
+<td>44 158</td>
 </tr>
 <tr>
 <td></td>
@@ -2132,7 +2118,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>41 670</td>
+<td>43 970</td>
 </tr>
 <tr>
 <td></td>
@@ -2141,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>022</td>
 <td></td>
 <td>Капитальные расходы государственных органов</td>
-<td>110</td>
+<td>188</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2412,17 +2398,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2456,17 +2442,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2500,17 +2486,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2560,21 +2546,21 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td>16</td>
@@ -3908,7 +3894,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 
 # Бюджет Байсеркенского сельского округа на 2020 год
 
-> *Сноска. Приложение 7 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 7 в редакции решениями Илийского районного маслихата Алматинской области от 16.04.2020 № 55-235; от 07.08.2020 № 61-253; от 22.09.2020 № 64-257 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -3916,17 +3902,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3934,7 +3920,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>228 955</td>
+<td>261 856</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3942,7 +3928,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>205 970</td>
+<td>220 714</td>
 </tr>
 <tr>
 <td></td>
@@ -3950,7 +3936,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>102 518</td>
+<td>117 262</td>
 </tr>
 <tr>
 <td></td>
@@ -3958,7 +3944,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>102 518</td>
+<td>117 262</td>
 </tr>
 <tr>
 <td></td>
@@ -4014,7 +4000,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Поступление трансфертов</td>
-<td>22 985</td>
+<td>41 142</td>
 </tr>
 <tr>
 <td></td>
@@ -4022,7 +4008,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>22 985</td>
+<td>41 142</td>
 </tr>
 <tr>
 <td></td>
@@ -4030,7 +4016,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>22 985</td>
+<td>41 142</td>
 </tr>
 </table>
 
@@ -4040,21 +4026,21 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4063,7 +4049,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>281 353</td>
+<td>314 254</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4180,7 +4166,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Жилищно - коммунальное хозяйство</td>
-<td>97 881</td>
+<td>116 038</td>
 </tr>
 <tr>
 <td></td>
@@ -4216,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>82 881</td>
+<td>101 038</td>
 </tr>
 <tr>
 <td></td>
@@ -4225,7 +4211,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>82 881</td>
+<td>101 038</td>
 </tr>
 <tr>
 <td></td>
@@ -4252,7 +4238,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>47 442</td>
+<td>65 599</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4369,7 +4355,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>9 847</td>
+<td>24 591</td>
 </tr>
 <tr>
 <td></td>
@@ -4378,7 +4364,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>9 847</td>
+<td>24 591</td>
 </tr>
 <tr>
 <td></td>
@@ -4387,7 +4373,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 847</td>
+<td>24 591</td>
 </tr>
 <tr>
 <td></td>
@@ -4396,7 +4382,7 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td>043</td>
 <td></td>
 <td>Бюджетные изъятия</td>
-<td>9 844</td>
+<td>24 588</td>
 </tr>
 <tr>
 <td></td>
@@ -4415,17 +4401,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4459,17 +4445,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4503,17 +4489,17 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4563,21 +4549,21 @@ source: https://zan.gov.kz/client/#!/doc/138755/rus/07.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td>16</td>
