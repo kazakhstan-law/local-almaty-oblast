@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
+source: https://zan.gov.kz/client/#!/doc/138876/kaz/22.09.2020
 ---
 
 > *Кербұлақ аудандық*  
@@ -539,15 +539,13 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 </tr>
 </table>
 
-> *Кербұлақ аудандық*  
-> *мәслихатының*  
+> *Кербұлақ аудандық мәслихатының*  
 > *2020 жылғы 9 қаңтардағы*  
-> *№ 53-314 шешіміне*  
-> *40-қосымша*
+> *№ 53-314 шешіміне 40-қосымша*
 
 # 2020 жылға арналған Сарыбастау ауылдық округінің бюджеті
 
-> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Кербұлақ аудандық мәслихатының 24.04.2020 № 55-329; 14.08.2020 № 60-351 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 40-қосымша жаңа редакцияда – Алматы облысы Кербұлақ аудандық мәслихатының 24.04.2020 № 55-329; 14.08.2020 № 60-351; 22.09.2020 № 61-357 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -555,12 +553,12 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -574,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>37 108</td>
+<td>38 608</td>
 </tr>
 <tr>
 <td>1</td>
@@ -651,21 +649,21 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>33 521</td>
+<td>35 021</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>33 521</td>
+<td>35 021</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>33 521</td>
+<td>35 021</td>
 </tr>
 </table>
 
@@ -678,16 +676,16 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>
@@ -703,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>37 108</td>
+<td>38 608</td>
 </tr>
 <tr>
 <td>01</td>
@@ -783,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>11 262</td>
+<td>12 762</td>
 </tr>
 <tr>
 <td></td>
@@ -791,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>11 262</td>
+<td>12 762</td>
 </tr>
 <tr>
 <td></td>
@@ -799,7 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11 262</td>
+<td>12 762</td>
 </tr>
 <tr>
 <td></td>
@@ -815,7 +813,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>500</td>
+<td>2 000</td>
 </tr>
 <tr>
 <td></td>
@@ -868,16 +866,16 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>
@@ -911,12 +909,12 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -958,16 +956,16 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>
@@ -993,12 +991,12 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1053,16 +1051,16 @@ source: https://zan.gov.kz/client/#!/doc/138876/kaz/14.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>

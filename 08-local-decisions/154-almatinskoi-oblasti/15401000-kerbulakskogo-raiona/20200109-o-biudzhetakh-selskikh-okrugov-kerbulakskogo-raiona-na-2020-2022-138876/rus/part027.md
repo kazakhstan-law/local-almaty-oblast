@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
+source: https://zan.gov.kz/client/#!/doc/138876/rus/22.09.2020
 ---
 
 > *Приложение 27*  
@@ -457,25 +457,30 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 > *Приложение 28*  
 > *к решению Кербулакского*  
 > *районного маслихата*  
-> *от 9 января*  
-> *2020 года № 53-314*
+> *от 9 января 2020 года № 53-314*
 
 # Бюджет Сарыозекского сельского округа на 2020 год
 
-> *Сноска. Приложение 28 в редакции решениями Кербулакского районного маслихата Алматинской области от 24.04.2020 № 55-329; от 14.08.2020 № 60-351 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 28 в редакции решениями Кербулакского районного маслихата Алматинской области от 24.04.2020 № 55-329; от 14.08.2020 № 60-351; от 22.09.2020 № 61-357 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -489,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>426 132</td>
+<td>451 678</td>
 </tr>
 <tr>
 <td>1</td>
@@ -545,40 +550,47 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>359 808</td>
+<td>385 354</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>359 808</td>
+<td>385 354</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>359 808</td>
+<td>385 354</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -594,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>431 256</td>
+<td>456 802</td>
 </tr>
 <tr>
 <td>01</td>
@@ -642,7 +654,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>319 144</td>
+<td>342 550</td>
 </tr>
 <tr>
 <td></td>
@@ -650,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>314 167</td>
+<td>337 573</td>
 </tr>
 <tr>
 <td></td>
@@ -658,7 +670,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>314 167</td>
+<td>337 573</td>
 </tr>
 <tr>
 <td></td>
@@ -666,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>75 211</td>
+<td>75 961</td>
 </tr>
 <tr>
 <td></td>
@@ -674,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td>041</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>238 956</td>
+<td>261 612</td>
 </tr>
 <tr>
 <td></td>
@@ -706,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>57 654</td>
+<td>59 794</td>
 </tr>
 <tr>
 <td></td>
@@ -714,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>57 654</td>
+<td>59 794</td>
 </tr>
 <tr>
 <td></td>
@@ -722,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>57 654</td>
+<td>59 794</td>
 </tr>
 <tr>
 <td></td>
@@ -730,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>22 929</td>
+<td>25 069</td>
 </tr>
 <tr>
 <td></td>
@@ -816,20 +828,27 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -859,16 +878,22 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -902,20 +927,30 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Малая функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетной программы</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Программа</td>
 </tr>
 <tr>
 <td>1</td>
@@ -937,16 +972,22 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -994,20 +1035,27 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5380,25 +5428,30 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 > *Приложение 37*  
 > *к решению Кербулакского*  
 > *районного маслихата*  
-> *от 9 января*  
-> *2020 года № 53-314*
+> *от 9 января 2020 года № 53-314*
 
 # Бюджет Сарыбулакского сельского округа на 2020 год
 
-> *Сноска. Приложение 37 в редакции решениями Кербулакского районного маслихата Алматинской области от 24.04.2020 № 55-329; от 14.08.2020 № 60-351 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 37 в редакции решениями Кербулакского районного маслихата Алматинской области от 24.04.2020 № 55-329; от 14.08.2020 № 60-351; от 22.09.2020 № 61-357 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5412,7 +5465,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>28 497</td>
+<td>35 997</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5489,40 +5542,47 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>25 845</td>
+<td>33 345</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>25 845</td>
+<td>33 345</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>25 845</td>
+<td>33 345</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5538,7 +5598,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>28 497</td>
+<td>35 997</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5618,7 +5678,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2 000</td>
+<td>9 500</td>
 </tr>
 <tr>
 <td></td>
@@ -5626,7 +5686,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2 000</td>
+<td>9 500</td>
 </tr>
 <tr>
 <td></td>
@@ -5634,7 +5694,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 000</td>
+<td>9 500</td>
 </tr>
 <tr>
 <td></td>
@@ -5650,7 +5710,7 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 000</td>
+<td>8 500</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5688,20 +5748,27 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5731,16 +5798,22 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5774,20 +5847,30 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Малая функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетной программы</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5809,16 +5892,22 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5866,20 +5955,27 @@ source: https://zan.gov.kz/client/#!/doc/138876/rus/14.08.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональные группы Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Малая функция</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Администратор бюджетной программы</td>
+<td colspan="5">Функциональные группы</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="4">Малая функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
