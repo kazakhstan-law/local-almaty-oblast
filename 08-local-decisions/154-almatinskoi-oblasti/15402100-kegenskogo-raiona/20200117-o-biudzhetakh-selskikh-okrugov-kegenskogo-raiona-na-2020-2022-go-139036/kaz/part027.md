@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
+source: https://zan.gov.kz/client/#!/doc/139036/kaz/23.09.2020
 ---
 
 > *Кеген аудандық мәслихатының*  
@@ -1941,18 +1941,14 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 </table>
 
 > *Кеген аудандық мәслихатының*  
-> *2020 жылғы «17» қаңтардағы № 30-107*  
-> *«Кеген ауданының ауылдық округтерінің*  
-> *2020-2022 жылдарға арналған бюджеті*  
-> *туралы» шешіміне 31-қосымша*
+> *2020 жылғы "17" қаңтардағы*  
+> *№ 30-107 шешіміне 31-қосымша*
+
+# 2020 жылға арналған Саты ауылдық округінің бюджеті
+
+> *Ескерту. 31-қосымша жаңа редакцияда – Алматы облысы Кеген аудандық мәслихатының 21.04.2020 № 33-118; 23.09.2020 № 40-136 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
-<tr>
-<td colspan="5">
-<strong>2020 жылға арналған Саты ауылдық округінің бюджеті</strong>
-Ескерту. 31-қосымша жаңа редакцияда – Алматы облысы Кеген аудандық мәслихатының 21.04.2020 № 33-118 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.
-</td>
-</tr>
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
@@ -1981,7 +1977,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>42 558</td>
+<td>49 458</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2037,21 +2033,21 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>38 924</td>
+<td>45 824</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>38 924</td>
+<td>45 824</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>38 924</td>
+<td>45 824</td>
 </tr>
 </table>
 
@@ -2088,7 +2084,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>42 558</td>
+<td>49 458</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2096,7 +2092,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>17 754</td>
+<td>24 654</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2100,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>17 754</td>
+<td>24 654</td>
 </tr>
 <tr>
 <td></td>
@@ -2112,7 +2108,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17 754</td>
+<td>24 654</td>
 </tr>
 <tr>
 <td></td>
@@ -2128,7 +2124,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>438</td>
+<td>7 338</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2215,7 +2211,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -2224,7 +2220,12 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <tr>
 <td></td>
 <td></td>
-<td>Кіші сыныбы</td>
+<td colspan="2">Кіші сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
@@ -2259,82 +2260,91 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 
 <table>
 <tr>
-<td colspan="10">Функционалдық топ</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="8">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="7">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="3"></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">Бағдарлама</td>
-<td>Атауы</td>
-<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td></td>
-<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="11"></td>
+<td colspan="9"></td>
 </tr>
 <tr>
-<td colspan="10">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="8">Санаты</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="9">Сыныбы</td>
+<td colspan="3"></td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Кіші сыныбы</td>
-<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражаты қалдықтары</td>
+<td>Бюджет қаражаты қалдықтары</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
-<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
 <td>0</td>
 </tr>
 </table>
@@ -2342,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="3">
+<td rowspan="5">
 Сомасы,
 мың теңге
 </td>
@@ -2360,9 +2370,14 @@ source: https://zan.gov.kz/client/#!/doc/139036/kaz/19.08.2020
 <td></td>
 <td></td>
 <td></td>
-<td>Бағдарлама</td>
-<td>Атауы</td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>16</td>
