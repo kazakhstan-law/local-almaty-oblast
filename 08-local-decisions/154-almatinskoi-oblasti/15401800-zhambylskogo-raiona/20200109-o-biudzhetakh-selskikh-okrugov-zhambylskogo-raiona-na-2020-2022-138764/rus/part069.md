@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138764/rus/12.08.2020
+source: https://zan.gov.kz/client/#!/doc/138764/rus/25.09.2020
 ---
 
 > *Приложение 69 к решению Жамбылского районного маслихата от 9 января 2020 года № 66-306*
