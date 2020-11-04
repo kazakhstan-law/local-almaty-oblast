@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138375/kaz/07.09.2020
+source: https://zan.gov.kz/client/#!/doc/138375/kaz/04.11.2020
 ---
 
 > *Алакөл аудандық мәслихатының 2019 жылғы 27 желтоқсаны № 62-2 шешіміне 3 қосымша*
