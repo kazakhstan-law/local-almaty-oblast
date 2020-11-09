@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138268/kaz/07.09.2020
+source: https://zan.gov.kz/client/#!/doc/138268/kaz/09.11.2020
 ---
 
 > *Балқаш аудандық мәслихатының 2019 жылғы 27 желтоқсаны № 58-248 шешіміне 3- қосымша*
