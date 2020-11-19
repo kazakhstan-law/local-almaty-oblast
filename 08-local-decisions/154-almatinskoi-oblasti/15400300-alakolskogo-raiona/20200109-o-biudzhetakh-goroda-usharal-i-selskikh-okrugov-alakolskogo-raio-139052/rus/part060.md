@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
+source: https://zan.gov.kz/client/#!/doc/139052/rus/19.11.2020
 ---
 
 > *Приложение 60 к решению Алакольского районного маслихата от «9» января 2020 года № 63-1*
@@ -398,20 +398,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 
 # Бюджет Енбекшинского сельского округа на 2020 год
 
-> *Сноска. Приложение 61 в редакции решения Алакольского районного маслихата Алматинской области от 17.04.2020 № 68-1 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 61 в редакции решениями Алакольского районного маслихата Алматинской области от 17.04.2020 № 68-1; от 19.11.2020 № 78-1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="5">Класс</td>
+<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -421,77 +421,77 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td>І. Доходы</td>
 <td>21 262</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td>Налоговые поступления</td>
 <td>714</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="3">Подоходный налог</td>
-<td>198</td>
+<td>Подоходный налог</td>
+<td>67</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>198</td>
+<td>Индивидуальный подоходный налог</td>
+<td>67</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>516</td>
+<td>Hалоги на собственность</td>
+<td>647</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td>Налог на имущество</td>
 <td>18</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td>Земельный налог</td>
 <td>138</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>360</td>
+<td>Hалог на транспортные средства</td>
+<td>491</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td>Поступления трансфертов</td>
 <td>20 548</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
 <td>20 548</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
 <td>20 548</td>
 </tr>
 </table>
@@ -502,20 +502,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -594,7 +594,7 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
+<td>Освешение улиц в населенных пунктах</td>
 <td>585</td>
 </tr>
 <tr>
@@ -653,16 +653,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="4">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -683,20 +683,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Специфика</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -718,16 +718,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -762,20 +762,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1573,20 +1573,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 
 # Бюджет Ушбулакского сельского округа на 2020 год
 
-> *Сноска. Приложение 64 в редакции решения Алакольского районного маслихата Алматинской области от 17.04.2020 № 68-1 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 64 в редакции решениями Алакольского районного маслихата Алматинской области от 17.04.2020 № 68-1; от 19.11.2020 № 78-1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="5">Класс</td>
+<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -1596,77 +1596,77 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td>І. Доходы</td>
 <td>21 869</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td>Налоговые поступления</td>
 <td>2 015</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="3">Подоходный налог</td>
-<td>261</td>
+<td>Подоходный налог</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>261</td>
+<td>Индивидуальный подоходный налог</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>1 754</td>
+<td>Hалоги на собственность</td>
+<td>1 978</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td>Налог на имущество</td>
 <td>9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
-<td>198</td>
+<td>Земельный налог</td>
+<td>183</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>1 547</td>
+<td>Hалог на транспортные средства</td>
+<td>1 786</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td>Поступления трансфертов</td>
 <td>19 854</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
 <td>19 854</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
 <td>19 854</td>
 </tr>
 </table>
@@ -1677,20 +1677,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1801,7 +1801,7 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
+<td>Освешение улиц в населенных пунктах</td>
 <td>221</td>
 </tr>
 <tr>
@@ -1863,16 +1863,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="4">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1893,20 +1893,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Специфика</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1928,16 +1928,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1972,20 +1972,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2849,22 +2849,24 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </tr>
 </table>
 
-> *Приложение 67 к решению Алакольского районного маслихата от «9» января 2020 года № 63-1*
+> *Приложение 67 к решению Алакольского районного маслихата от «9» января 2020 года № 63-1 «О бюджетах города Ушарал и сельских округов Алакольского района на 2020-2022 годы»*
 
 # Бюджет Сапакского сельского округа на 2020 год
 
+> *Сноска. Приложение 67 в редакции решения Алакольского районного маслихата Алматинской области от 19.11.2020 № 78-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="5">Класс</td>
+<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -2874,77 +2876,77 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td>І. Доходы</td>
 <td>20 746</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td>Налоговые поступления</td>
 <td>620</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="3">Подоходный налог</td>
-<td>20</td>
+<td>Подоходный налог</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>20</td>
+<td>Индивидуальный подоходный налог</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>600</td>
+<td>Hалоги на собственность</td>
+<td>617</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td>Налог на имущество</td>
 <td>10</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
+<td>Земельный налог</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>490</td>
+<td>Hалог на транспортные средства</td>
+<td>507</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td>Поступления трансфертов</td>
 <td>20 126</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
 <td>20 126</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>33</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
 <td>20 126</td>
 </tr>
 </table>
@@ -2955,20 +2957,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3106,16 +3108,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="4">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3136,20 +3138,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Специфика</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3171,16 +3173,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3215,20 +3217,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4022,22 +4024,24 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </tr>
 </table>
 
-> *Приложение 70 к решению Алакольского районного маслихата от «9» января 2020 года № 63-1*
+> *Приложение 70 к решению Алакольского районного маслихата от «9» января 2020 года № 63-1 «О бюджетах города Ушарал и сельских округов Алакольского района на 2020-2022 годы»*
 
 # Бюджет Лепсинского сельского округа на 2020 год
 
+> *Сноска. Приложение 70 в редакции решения Алакольского районного маслихата Алматинской области от 19.11.2020 № 78-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="5">Класс</td>
+<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -4047,77 +4051,77 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">І. Доходы</td>
+<td>І. Доходы</td>
 <td>27 597</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="3">Налоговые поступления</td>
+<td>Налоговые поступления</td>
 <td>2 075</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="3">Подоходный налог</td>
-<td>352</td>
+<td>Подоходный налог</td>
+<td>208</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>352</td>
+<td>Индивидуальный подоходный налог</td>
+<td>208</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>1 723</td>
+<td>Hалоги на собственность</td>
+<td>1 867</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="3">Налог на имущество</td>
+<td>Налог на имущество</td>
 <td>17</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Земельный налог</td>
-<td>224</td>
+<td>Земельный налог</td>
+<td>220</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>1 482</td>
+<td>Hалог на транспортные средства</td>
+<td>1 630</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td>Поступления трансфертов</td>
 <td>25 522</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
 <td>25 522</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
 <td>25 522</td>
 </tr>
 </table>
@@ -4128,20 +4132,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4279,16 +4283,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 <td rowspan="4">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4309,20 +4313,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Специфика</td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4344,16 +4348,16 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4388,20 +4392,20 @@ source: https://zan.gov.kz/client/#!/doc/139052/rus/13.08.2020
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td></td>
