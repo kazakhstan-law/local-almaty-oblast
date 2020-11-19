@@ -397,9 +397,11 @@
 </tr>
 </table>
 
-> *Алакөл аудандық мәслихатының 2020 жылғы «9» қаңтар № 63-1 шешіміне 70 қосымша*
+> *Алакөл аудандық мәслихатының 2020 жылғы «9» қаңтардағы «Алакөл ауданының Үшарал қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 63-1 шешіміне 70-қосымша*
 
 # 2020 жылға арналған Лепсі ауылдық округінің бюджеті
+
+> *Ескерту. 70-қосымша жаңа редакцияда – Алматы облысы Алакөл аудандық мәслихатының 19.11.2020 № 78-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -410,12 +412,12 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="5">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="6">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -440,21 +442,21 @@
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td>352</td>
+<td>208</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>352</td>
+<td>208</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>1 723</td>
+<td>1 867</td>
 </tr>
 <tr>
 <td></td>
@@ -468,14 +470,14 @@
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Жер салығы</td>
-<td>224</td>
+<td>220</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>1 482</td>
+<td>1 630</td>
 </tr>
 <tr>
 <td>4</td>
@@ -509,20 +511,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Бағдарлама әкiмшiлiгi</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td></td>
+<td colspan="4">Бағдарлама әкiмшiлiгi</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -663,16 +665,16 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сынып</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Ішкі сынып</td>
+<td></td>
+<td colspan="3">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -692,20 +694,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Сынып</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Ішкі сынып</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Ерекшелігі</td>
+<td></td>
+<td colspan="4">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -726,16 +728,16 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сынып</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Ішкі сынып</td>
+<td></td>
+<td colspan="3">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -769,20 +771,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Бағдарлама әкімшісі</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td></td>
+<td colspan="4">Бағдарлама әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
