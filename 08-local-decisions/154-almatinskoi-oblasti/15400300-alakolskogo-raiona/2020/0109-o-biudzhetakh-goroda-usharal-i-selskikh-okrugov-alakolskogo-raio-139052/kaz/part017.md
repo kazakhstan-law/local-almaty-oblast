@@ -928,107 +928,107 @@
 </tr>
 </table>
 
-> *Алакөл аудандық мәслихатының 2020 жылғы «9» қаңтардағы № 63-1 «Алакөл ауданының Үшарал қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» шешіміне 19-қосымша*
+> *Алакөл аудандық мәслихатының 2020 жылғы «9» қаңтардағы «Алакөл ауданының Үшарал қаласы мен ауылдық округтерінің 2020-2022 жылдарға арналған бюджеттері туралы» № 63-1 шешіміне 19-қосымша*
 
 # 2020 жылға арналған Жағатал ауылдық округінің бюджеті
 
-> *Ескерту. 19-қосымша жаңа редакцияда – Алматы облысы Алакөл аудандық мәслихатының 17.04.2020 № 68-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 19-қосымша жаңа редакцияда – Алматы облысы Алакөл аудандық мәслихатының 17.04.2020 № 68-1; 19.11.2020 № 78-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="7">Сыныбы</td>
+<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="5">Ішкі сыныбы</td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">І. Кiрiстер</td>
+<td></td>
+<td></td>
+<td>І. Кiрiстер</td>
 <td>23 924</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Салықтық түсiмдер</td>
+<td></td>
+<td></td>
+<td>Салықтық түсiмдер</td>
 <td>4 793</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="3">Табыс салығы</td>
-<td>1 386</td>
+<td>01</td>
+<td></td>
+<td>Табыс салығы</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="3">Жеке табыс салығы</td>
-<td>1 386</td>
+<td></td>
+<td>2</td>
+<td>Жеке табыс салығы</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td colspan="3">Меншiкке салынатын салықтар</td>
-<td>3 407</td>
+<td>04</td>
+<td></td>
+<td>Меншiкке салынатын салықтар</td>
+<td>3 767</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3">Мүлiкке салынатын салықтар</td>
+<td></td>
+<td>1</td>
+<td>Мүлiкке салынатын салықтар</td>
 <td>35</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="3">Жер салығы</td>
-<td>193</td>
+<td></td>
+<td>3</td>
+<td>Жер салығы</td>
+<td>138</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">4</td>
-<td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>3 179</td>
+<td></td>
+<td>4</td>
+<td>Көлiк құралдарына салынатын салық</td>
+<td>3 594</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Трансферттердің түсімдері</td>
+<td></td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
 <td>19 131</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">02</td>
-<td colspan="2"></td>
-<td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td>02</td>
+<td></td>
+<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
 <td>19 131</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="3">Аудандық (облыстық маңызы бар қаланың) бюджеттерінен трансферттер</td>
+<td></td>
+<td>3</td>
+<td>Аудандық (облыстық маңызы бар қаланың) бюджеттерінен трансферттер</td>
 <td>19 131</td>
 </tr>
 </table>
@@ -1042,20 +1042,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Бағдарлама әкiмшiлiгi</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td></td>
+<td colspan="4">Бағдарлама әкiмшiлiгi</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1196,16 +1196,16 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сынып</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Ішкі сынып</td>
+<td></td>
+<td colspan="3">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1226,20 +1226,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Сынып</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Ішкі сынып</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Ерекшелігі</td>
+<td></td>
+<td colspan="4">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1261,16 +1261,16 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сынып</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="2">Ішкі сынып</td>
+<td></td>
+<td colspan="3">Ішкі сынып</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1319,20 +1319,20 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Бағдарлама әкімшісі</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td></td>
+<td colspan="4">Бағдарлама әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td>Атауы</td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Атауы</td>
 </tr>
 <tr>
 <td></td>
