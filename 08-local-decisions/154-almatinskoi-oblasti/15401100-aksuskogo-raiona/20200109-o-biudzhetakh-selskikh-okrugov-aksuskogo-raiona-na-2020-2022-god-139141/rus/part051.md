@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139141/rus/13.08.2020
+source: https://zan.gov.kz/client/#!/doc/139141/rus/20.11.2020
 ---
 
 > *Приложение 51 к решению маслихата Аксуского района от «9» января 2020 года № 56-254*
