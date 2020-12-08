@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138289/rus/04.11.2020
+source: https://zan.gov.kz/client/#!/doc/138289/rus/08.12.2020
 ---
 
 > *Приложение 3 к решению Карасайского районного маслихата от «27» декабря 2019 года № 50-3*
