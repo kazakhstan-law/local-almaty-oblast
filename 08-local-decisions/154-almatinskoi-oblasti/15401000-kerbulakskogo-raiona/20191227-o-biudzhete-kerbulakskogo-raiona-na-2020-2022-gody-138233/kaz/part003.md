@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138233/kaz/05.11.2020
+source: https://zan.gov.kz/client/#!/doc/138233/kaz/08.12.2020
 ---
 
 > *Кербұлақ аудандық*  
