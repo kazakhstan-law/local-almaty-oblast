@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138382/kaz/10.11.2020
+source: https://zan.gov.kz/client/#!/doc/138382/kaz/09.12.2020
 ---
 
 > *«Райымбек ауданының маслихаты» ММ*  
