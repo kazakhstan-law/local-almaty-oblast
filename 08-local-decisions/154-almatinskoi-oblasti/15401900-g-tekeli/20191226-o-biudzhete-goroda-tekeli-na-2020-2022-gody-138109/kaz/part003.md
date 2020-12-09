@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138109/kaz/06.11.2020
+source: https://zan.gov.kz/client/#!/doc/138109/kaz/09.12.2020
 ---
 
 > *Текелі қалалық мәслихатының*  
