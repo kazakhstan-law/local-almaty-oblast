@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138225/kaz/09.11.2020
+source: https://zan.gov.kz/client/#!/doc/138225/kaz/10.12.2020
 ---
 
 > *Ескелді аудандық мәслихатының 2019 жылғы 27 желтоқсандағы № 60-349 шешіміне 3-қосымша*

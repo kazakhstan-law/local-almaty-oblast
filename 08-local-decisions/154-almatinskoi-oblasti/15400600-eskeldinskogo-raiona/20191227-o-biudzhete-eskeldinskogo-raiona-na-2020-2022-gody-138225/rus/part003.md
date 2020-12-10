@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138225/rus/09.11.2020
+source: https://zan.gov.kz/client/#!/doc/138225/rus/10.12.2020
 ---
 
 > *Приложение 3 к решению Ескельдинского районного маслихата от 27 декабря 2019 года № 60-349*
