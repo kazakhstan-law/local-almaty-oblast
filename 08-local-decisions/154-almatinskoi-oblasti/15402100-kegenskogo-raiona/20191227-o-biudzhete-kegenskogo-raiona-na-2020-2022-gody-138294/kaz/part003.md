@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138294/kaz/06.11.2020
+source: https://zan.gov.kz/client/#!/doc/138294/kaz/10.12.2020
 ---
 
 > *Кеген аудандық мәслихатының*  
