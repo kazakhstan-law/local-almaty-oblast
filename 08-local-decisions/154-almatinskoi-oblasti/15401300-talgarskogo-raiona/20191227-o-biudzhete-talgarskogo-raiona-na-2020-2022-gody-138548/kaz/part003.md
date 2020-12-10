@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138548/kaz/09.11.2020
+source: https://zan.gov.kz/client/#!/doc/138548/kaz/10.12.2020
 ---
 
 > *Талғар аудандық мәслихатының*  
