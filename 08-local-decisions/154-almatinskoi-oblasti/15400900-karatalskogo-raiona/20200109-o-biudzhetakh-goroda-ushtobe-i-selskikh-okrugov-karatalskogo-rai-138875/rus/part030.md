@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138875/rus/25.11.2020
+source: https://zan.gov.kz/client/#!/doc/138875/rus/14.12.2020
 ---
 
 > *Приложение 30 к решению Каратальского районного маслихата от 9 января 2020 года № 66-238*
