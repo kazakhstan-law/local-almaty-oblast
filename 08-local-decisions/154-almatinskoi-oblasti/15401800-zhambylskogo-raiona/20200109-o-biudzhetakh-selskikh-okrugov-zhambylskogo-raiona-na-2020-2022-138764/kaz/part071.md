@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138764/kaz/20.11.2020
+source: https://zan.gov.kz/client/#!/doc/138764/kaz/15.12.2020
 ---
 
 > *Жамбыл аудандық мәслихатының 2020 жылғы 9 қаңтардағы № 66-306 шешіміне 71-қосымша*
