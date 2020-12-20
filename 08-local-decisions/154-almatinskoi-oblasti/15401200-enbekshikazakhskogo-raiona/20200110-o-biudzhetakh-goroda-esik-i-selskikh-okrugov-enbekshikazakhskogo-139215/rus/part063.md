@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139215/rus/20.11.2020
+source: https://zan.gov.kz/client/#!/doc/139215/rus/20.12.2020
 ---
 
 > *Приложение 63 к решению Енбекшиказахского районного маслихата от 10 января 2020 года № 58-159*

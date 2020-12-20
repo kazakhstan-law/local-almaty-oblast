@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139215/kaz/20.11.2020
+source: https://zan.gov.kz/client/#!/doc/139215/kaz/20.12.2020
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 10 қаңтардағы № 58-159 шешіміне 63-қосымша*
