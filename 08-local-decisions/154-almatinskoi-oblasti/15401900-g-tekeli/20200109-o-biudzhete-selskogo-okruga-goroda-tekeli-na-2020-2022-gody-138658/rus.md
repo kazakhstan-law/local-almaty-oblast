@@ -1,5 +1,5 @@
 ---
-version_id: '138658_495156'
+version_id: '138658_499662'
 act_code: '138658'
 language: rus
 title: О бюджете сельского округа города Текели на 2020-2022 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '154019000002'
 approval_date: 2020-01-09
-version_date: 2020-11-23
+version_date: 2020-12-20
 registry_number: '138658'
 caused_by:
-  code: '149067'
+  code: '150262'
   title: О внесении изменений в решение Текелийского городского маслихата от 9 января 2020 года № 44-265 «О бюджете сельского округа города Текели на 2020-2022 годы»
-  link: https://zan.gov.kz/client/#!/doc/149067/rus
-source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
+  link: https://zan.gov.kz/client/#!/doc/150262/rus
+source: https://zan.gov.kz/client/#!/doc/138658/rus
 ---
 
 # О бюджете сельского округа города Текели на 2020-2022 годы
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 
    6) финансирование дефицита (использование профицита) бюджета 0 тенге.
 
-> *Сноска. Пункт 1 в редакции решения Текелийского городского маслихата Алматинской области от 23.11.2020 № 54-316 (вводится в действие с 01.01.2020).*
+> *Сноска. Пункт 1 в редакции решениями Текелийского городского маслихата Алматинской области от 23.11.2020 № 54-316; от 20.12.2020 № 55-326 (вводится в действие с 01.01.2020).*
 
 2. Контроль за исполнением настоящего решения возложить на постоянную комиссию Текелийского городского маслихата «По вопросам бюджета и экономики».
 
@@ -71,11 +71,12 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 
 # Бюджет Рудничного сельского округа на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения Текелийского городского маслихата Алматинской области от 23.11.2020 № 54-316 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решениями Текелийского городского маслихата Алматинской области от 23.11.2020 № 54-316; от 20.12.2020 № 55-326 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td rowspan="4">
 Сумма
 (тысяч тенге)
@@ -83,7 +84,8 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -115,21 +117,21 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>180</td>
+<td>162</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>180</td>
+<td>162</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>1 412</td>
+<td>1 430</td>
 </tr>
 <tr>
 <td></td>
@@ -150,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>1 350</td>
+<td>1 368</td>
 </tr>
 <tr>
 <td>4</td>
@@ -177,187 +179,187 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="9">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="2"></td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>2. Затраты</td>
 <td>24 168</td>
 </tr>
 <tr>
-<td>01</td>
-<td></td>
-<td></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
 <td>17 676</td>
 </tr>
 <tr>
-<td></td>
-<td>1</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>17 676</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>124</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>17 676</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
 <td>17 188</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
 <td>488</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 <td>4 214</td>
 </tr>
 <tr>
-<td></td>
-<td>3</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
 <td>4 214</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>124</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>4 214</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 <td>2 516</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>259</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>1 439</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
 <td>1 450</td>
 </tr>
 <tr>
-<td></td>
-<td>1</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
 <td>1 450</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>124</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>1 450</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td>1 450</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>828</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
 <td>828</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>124</td>
+<td>Прочие</td>
+<td>828</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>828</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 <td>828</td>
@@ -366,45 +368,45 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="9">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="8">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="2">Программа</td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2"></td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>3. Чистое бюджетное кредитование</td>
+<td colspan="2"></td>
+<td colspan="3">3. Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджетные кредиты</td>
+<td colspan="2"></td>
+<td colspan="3">Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 </table>
@@ -436,13 +438,6 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 <table>
@@ -477,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 <td></td>
 <td></td>
 <td></td>
-<td>4. Сальдо по операциям с финансовымиактивами</td>
+<td>4. Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
@@ -492,12 +487,14 @@ source: https://zan.gov.kz/client/#!/doc/138658/rus/23.11.2020
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
