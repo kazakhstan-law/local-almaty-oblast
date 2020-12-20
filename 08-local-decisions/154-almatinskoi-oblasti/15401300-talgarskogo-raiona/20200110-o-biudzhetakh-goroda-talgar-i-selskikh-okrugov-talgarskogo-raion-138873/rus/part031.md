@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138873/rus/27.11.2020
+source: https://zan.gov.kz/client/#!/doc/138873/rus/20.12.2020
 ---
 
 > *Приложение 31 к решению*  
