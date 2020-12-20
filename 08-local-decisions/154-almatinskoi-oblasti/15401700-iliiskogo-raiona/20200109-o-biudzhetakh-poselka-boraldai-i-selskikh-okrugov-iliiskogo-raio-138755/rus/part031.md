@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138755/rus/18.11.2020
+source: https://zan.gov.kz/client/#!/doc/138755/rus/20.12.2020
 ---
 
 > *Приложение 30 к решению Илийского районного маслихата от 9 января 2020 года № 50-226*
