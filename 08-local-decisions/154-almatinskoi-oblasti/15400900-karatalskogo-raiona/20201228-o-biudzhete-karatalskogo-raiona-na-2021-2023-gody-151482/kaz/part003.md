@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151482/kaz/28.12.2020
+source: https://zan.gov.kz/client/#!/doc/151482/kaz/29.03.2021
 ---
 
 > *Қаратал аудандық мәслихатының 2020 жылғы 28 желтоқсандағы*  
