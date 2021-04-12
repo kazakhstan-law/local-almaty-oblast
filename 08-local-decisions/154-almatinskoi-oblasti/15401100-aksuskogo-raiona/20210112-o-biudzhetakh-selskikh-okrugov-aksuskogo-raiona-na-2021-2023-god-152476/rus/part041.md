@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152476/rus/12.01.2021
+source: https://zan.gov.kz/client/#!/doc/152476/rus/12.04.2021
 ---
 
 > *Приложение 41 к решению маслихата Аксуского района от «12» января 2021 года № 73-317*
