@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152496/kaz/13.01.2021
+source: https://zan.gov.kz/client/#!/doc/152496/kaz/16.04.2021
 ---
 
 > *Ескелді аудандық мәслихатының 2021 жылғы 13 қаңтардағы № 80-441 шешіміне 15-қосымша*

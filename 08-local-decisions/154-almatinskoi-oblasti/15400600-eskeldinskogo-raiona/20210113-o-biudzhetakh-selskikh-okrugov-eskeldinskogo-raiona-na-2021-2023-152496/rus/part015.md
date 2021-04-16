@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152496/rus/13.01.2021
+source: https://zan.gov.kz/client/#!/doc/152496/rus/16.04.2021
 ---
 
 > *Приложение 15 к решению Ескельдинского районного маслихата от 13 января 2021 года № 80-441*
