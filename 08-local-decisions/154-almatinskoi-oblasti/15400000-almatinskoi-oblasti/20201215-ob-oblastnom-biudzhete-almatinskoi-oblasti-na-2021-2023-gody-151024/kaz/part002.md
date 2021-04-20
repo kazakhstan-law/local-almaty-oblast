@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151024/kaz/15.12.2020
+source: https://zan.gov.kz/client/#!/doc/151024/kaz/20.04.2021
 ---
 
 > *Алматы облыстық мәслихатының*  
