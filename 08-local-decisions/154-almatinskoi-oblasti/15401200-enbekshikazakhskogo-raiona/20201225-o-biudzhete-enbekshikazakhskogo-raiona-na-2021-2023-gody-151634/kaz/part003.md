@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151634/kaz/19.03.2021
+source: https://zan.gov.kz/client/#!/doc/151634/kaz/12.05.2021
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2020 жылғы 25 желтоқсаны № 72-218 шешіміне 3-қосымша*
