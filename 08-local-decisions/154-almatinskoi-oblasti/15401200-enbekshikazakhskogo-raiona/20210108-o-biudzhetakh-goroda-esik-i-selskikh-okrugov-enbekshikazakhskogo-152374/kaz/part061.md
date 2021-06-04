@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152374/kaz/08.01.2021
+source: https://zan.gov.kz/client/#!/doc/152374/kaz/04.06.2021
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2021 жылғы 8 қаңтардағы № 73-222 шешіміне 61-қосымша*

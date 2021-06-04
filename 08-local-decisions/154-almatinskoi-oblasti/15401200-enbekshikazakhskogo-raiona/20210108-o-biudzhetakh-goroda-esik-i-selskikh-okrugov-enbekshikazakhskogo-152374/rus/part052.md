@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152374/rus/08.01.2021
+source: https://zan.gov.kz/client/#!/doc/152374/rus/04.06.2021
 ---
 
 > *Приложение 52 Енбекшиказахского районного маслихата от 8 января 2021 год*  
