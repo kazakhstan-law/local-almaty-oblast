@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152388/rus/19.04.2021
+source: https://zan.gov.kz/client/#!/doc/152388/rus/22.06.2021
 ---
 
 > *Приложение 42 к решению*  
