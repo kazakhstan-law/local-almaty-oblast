@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151651/kaz/12.05.2021
+source: https://zan.gov.kz/client/#!/doc/151651/kaz/17.08.2021
 ---
 
 > *Талдықорған қалалық мәслихатының*  
