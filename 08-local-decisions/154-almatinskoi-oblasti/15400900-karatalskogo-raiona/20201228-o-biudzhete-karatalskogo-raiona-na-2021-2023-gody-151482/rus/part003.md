@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151482/rus/12.05.2021
+source: https://zan.gov.kz/client/#!/doc/151482/rus/24.08.2021
 ---
 
 > *Приложение 3 к решению Каратальского районного маслихата*  
