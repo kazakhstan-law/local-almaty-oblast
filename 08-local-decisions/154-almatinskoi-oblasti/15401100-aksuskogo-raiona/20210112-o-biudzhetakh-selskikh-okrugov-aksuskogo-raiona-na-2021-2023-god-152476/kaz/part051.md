@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152476/kaz/16.06.2021
+source: https://zan.gov.kz/client/#!/doc/152476/kaz/02.09.2021
 ---
 
 > *Ақсу аудандық мәслихатының 2021 жылғы «12» қантардағы № 73-317 шешіміне 51-қосымша*
