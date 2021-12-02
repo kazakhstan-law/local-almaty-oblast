@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152265/kaz/06.09.2021
+source: https://zan.gov.kz/client/#!/doc/152265/kaz/02.12.2021
 ---
 
 > *Жамбыл аудандық мәслихатының 2021 жылғы 11 қаңтардағы № 82-366 шешіміне 72-қосымша*
