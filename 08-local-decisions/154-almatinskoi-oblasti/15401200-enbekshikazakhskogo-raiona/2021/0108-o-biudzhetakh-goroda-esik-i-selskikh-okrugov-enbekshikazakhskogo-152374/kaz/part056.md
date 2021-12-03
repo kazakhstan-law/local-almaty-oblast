@@ -943,7 +943,7 @@
 
 # 2021 жылға арналған Сөгеті ауылдық округінің бюджеті
 
-> *Ескерту. 58-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 58-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі); 03.12.2021 № 12-66 (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -974,35 +974,35 @@
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Кірістер</td>
-<td colspan="3">44 203</td>
+<td colspan="3">45 674</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="3">9 516</td>
+<td colspan="3">8 516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="3">Табыс салығы</td>
-<td colspan="3">219</td>
+<td colspan="3">789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td colspan="3">219</td>
+<td colspan="3">789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="3"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="3">9 297</td>
+<td colspan="3">7 727</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1016,35 +1016,35 @@
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Жер салығы</td>
-<td colspan="3">300</td>
+<td colspan="3">230</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="3">8 817</td>
+<td colspan="3">7 317</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 </table>
 
@@ -1078,7 +1078,7 @@
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">II. Шығындар</td>
-<td colspan="2">50 001</td>
+<td colspan="2">51 472</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1086,7 +1086,7 @@
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1094,7 +1094,7 @@
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1102,7 +1102,7 @@
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1110,7 +1110,7 @@
 <td></td>
 <td colspan="2">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">25 377</td>
+<td colspan="2">26 848</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1269,9 +1269,6 @@
 <td colspan="4">Мемлекеттік бюджеттен берілетін бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="12">Функционалдық топ</td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
