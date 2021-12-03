@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
+source: https://zan.gov.kz/client/#!/doc/152374/kaz/03.12.2021
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2021 жылғы 8 қаңтардағы № 73-222 шешіміне 57-қосымша*
@@ -477,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 
 # 2021 жылға арналған Сөгеті ауылдық округінің бюджеті
 
-> *Ескерту. 58-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 58-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі); 03.12.2021 № 12-66 (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -508,35 +508,35 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Кірістер</td>
-<td colspan="3">44 203</td>
+<td colspan="3">45 674</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="3">9 516</td>
+<td colspan="3">8 516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="3">Табыс салығы</td>
-<td colspan="3">219</td>
+<td colspan="3">789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td colspan="3">219</td>
+<td colspan="3">789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="3"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="3">9 297</td>
+<td colspan="3">7 727</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -550,35 +550,35 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Жер салығы</td>
-<td colspan="3">300</td>
+<td colspan="3">230</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="3">8 817</td>
+<td colspan="3">7 317</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="3">34 687</td>
+<td colspan="3">37 158</td>
 </tr>
 </table>
 
@@ -612,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">II. Шығындар</td>
-<td colspan="2">50 001</td>
+<td colspan="2">51 472</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -620,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -628,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -636,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">25 817</td>
+<td colspan="2">27 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -644,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td colspan="2">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">25 377</td>
+<td colspan="2">26 848</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -803,9 +803,6 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td colspan="4">Мемлекеттік бюджеттен берілетін бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="12">Функционалдық топ</td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
@@ -1918,7 +1915,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 
 # 2021 жылға арналған Рахат ауылдық округінің бюджеті
 
-> *Ескерту. 61-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 61-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі); 03.12.2021 № 12-66 (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1949,112 +1946,112 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td colspan="2">I. Кірістер</td>
-<td colspan="2">128 249</td>
+<td colspan="2">133 451</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">85 967</td>
+<td colspan="2">85 567</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">8 309</td>
+<td colspan="2">9 109</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">8 309</td>
+<td colspan="2">9 109</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">77 409</td>
+<td colspan="2">76 279</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
-<td colspan="2">1 431</td>
+<td colspan="2">1 731</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">3 600</td>
+<td colspan="2">3 300</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">72 378</td>
+<td colspan="2">71 248</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="2">249</td>
+<td colspan="2">179</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td colspan="2">249</td>
+<td colspan="2">179</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td colspan="2">150</td>
+<td colspan="2">550</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Мемлекеттік меншіктен түсетін кірістер</td>
-<td colspan="2">150</td>
+<td colspan="2">550</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td colspan="2">150</td>
+<td colspan="2">550</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">42 132</td>
+<td colspan="2">47 334</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">42 132</td>
+<td colspan="2">47 334</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">42 132</td>
+<td colspan="2">47 334</td>
 </tr>
 </table>
 
@@ -2088,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>179 894</td>
+<td>185 096</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2096,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>46 941</td>
+<td>52 143</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>46 941</td>
+<td>52 143</td>
 </tr>
 <tr>
 <td></td>
@@ -2112,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>46 941</td>
+<td>52 143</td>
 </tr>
 <tr>
 <td></td>
@@ -2120,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>45 713</td>
+<td>50 915</td>
 </tr>
 <tr>
 <td></td>
@@ -3553,7 +3550,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 
 # 2021 жылға арналған Саймасай ауылдық округінің бюджеті
 
-> *Ескерту. 64-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 64-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі); 03.12.2021 № 12-66 (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3584,7 +3581,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td colspan="2">I. Кірістер</td>
-<td>76 433</td>
+<td>80 430</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3598,21 +3595,21 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td>2 469</td>
+<td>5 169</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>2 469</td>
+<td>5 169</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>30 513</td>
+<td>27 813</td>
 </tr>
 <tr>
 <td></td>
@@ -3626,14 +3623,14 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td>1 468</td>
+<td>1 088</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td>27 379</td>
+<td>25 059</td>
 </tr>
 <tr>
 <td></td>
@@ -3654,21 +3651,21 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>42 907</td>
+<td>46 904</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>42 907</td>
+<td>46 904</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>42 907</td>
+<td>46 904</td>
 </tr>
 </table>
 
@@ -3702,7 +3699,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>105 603</td>
+<td>109 600</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3710,7 +3707,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>31 764</td>
+<td>35 761</td>
 </tr>
 <tr>
 <td></td>
@@ -3718,7 +3715,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>31 764</td>
+<td>35 761</td>
 </tr>
 <tr>
 <td></td>
@@ -3726,7 +3723,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>31 764</td>
+<td>35 761</td>
 </tr>
 <tr>
 <td></td>
@@ -3734,7 +3731,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>30 974</td>
+<td>34 971</td>
 </tr>
 <tr>
 <td></td>
@@ -3750,7 +3747,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>26 510</td>
+<td>27 230</td>
 </tr>
 <tr>
 <td></td>
@@ -3758,7 +3755,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>26 510</td>
+<td>27 230</td>
 </tr>
 <tr>
 <td></td>
@@ -3766,7 +3763,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 510</td>
+<td>27 230</td>
 </tr>
 <tr>
 <td></td>
@@ -3774,7 +3771,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>17942</td>
+<td>12 479</td>
 </tr>
 <tr>
 <td></td>
@@ -3798,7 +3795,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>8 436</td>
+<td>7 119</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3806,7 +3803,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>14 670</td>
+<td>21 450</td>
 </tr>
 <tr>
 <td></td>
@@ -3814,7 +3811,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Автомобиль көлігі</td>
-<td>14 670</td>
+<td>21 450</td>
 </tr>
 <tr>
 <td></td>
@@ -3822,7 +3819,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 670</td>
+<td>21 450</td>
 </tr>
 <tr>
 <td></td>
@@ -3830,7 +3827,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>14 670</td>
+<td>21 450</td>
 </tr>
 <tr>
 <td>13</td>
@@ -5234,7 +5231,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 
 # 2021 жылға арналған Ташкенсаз ауылдық округінің бюджеті
 
-> *Ескерту. 67-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 67-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 13.09.2021 № 10-50 (01.01.2021 бастап қолданысқа енгізіледі); 03.12.2021 № 12-66 (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -5265,7 +5262,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td colspan="2">I. Кірістер</td>
-<td colspan="2">40 050</td>
+<td colspan="2">41 159</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5279,21 +5276,21 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">984</td>
+<td colspan="2">1 227</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">984</td>
+<td colspan="2">1 227</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">15 522</td>
+<td colspan="2">15 279</td>
 </tr>
 <tr>
 <td></td>
@@ -5307,14 +5304,14 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">697</td>
+<td colspan="2">586</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">14 380</td>
+<td colspan="2">14 248</td>
 </tr>
 <tr>
 <td></td>
@@ -5335,21 +5332,21 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">23 506</td>
+<td colspan="2">24 615</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">23 506</td>
+<td colspan="2">24 615</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">23 506</td>
+<td colspan="2">24 615</td>
 </tr>
 </table>
 
@@ -5383,7 +5380,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>49 843</td>
+<td>50 952</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5391,7 +5388,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>26 568</td>
+<td>27 677</td>
 </tr>
 <tr>
 <td></td>
@@ -5399,7 +5396,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>26 568</td>
+<td>27 677</td>
 </tr>
 <tr>
 <td></td>
@@ -5407,7 +5404,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 568</td>
+<td>27 677</td>
 </tr>
 <tr>
 <td></td>
@@ -5415,7 +5412,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26 068</td>
+<td>27 177</td>
 </tr>
 <tr>
 <td></td>
@@ -5431,7 +5428,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>22 907</td>
+<td>22 407</td>
 </tr>
 <tr>
 <td></td>
@@ -5439,7 +5436,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>22 907</td>
+<td>22 407</td>
 </tr>
 <tr>
 <td></td>
@@ -5447,7 +5444,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>22 907</td>
+<td>22 407</td>
 </tr>
 <tr>
 <td></td>
@@ -5455,7 +5452,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 975</td>
+<td>12 475</td>
 </tr>
 <tr>
 <td></td>
@@ -5480,6 +5477,38 @@ source: https://zan.gov.kz/client/#!/doc/152374/kaz/13.09.2021
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>6 200</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлік және коммуникация</td>
+<td>500</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Автомобиль көлігі</td>
+<td>500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>500</td>
 </tr>
 <tr>
 <td>15</td>

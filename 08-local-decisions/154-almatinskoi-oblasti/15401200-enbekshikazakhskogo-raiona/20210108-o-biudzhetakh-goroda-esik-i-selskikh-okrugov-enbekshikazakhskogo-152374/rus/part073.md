@@ -1,13 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
+source: https://zan.gov.kz/client/#!/doc/152374/rus/03.12.2021
 ---
 
 > *Приложение 73 к решению Енбекшиказахского районного маслихата от 8 января 2021 года № 73-222*
 
 # Бюджет Тескенсуйского сельского округа на 2021 год
 
-> *Сноска. Приложение 73 в редакции решения Енбекшиказахского районного маслихата Алматинской области от 13.09.2021 № 10-50 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 73 в редакции решения Енбекшиказахского районного маслихата Алматинской области от 13.09.2021 № 10-50 (вводится в действие с 01.01.2021); от 03.12.2021 № 12-66 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -29,14 +29,14 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>99 394</td>
+<td>102 295</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>22 077</td>
+<td>18 577</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>17 946</td>
+<td>14 446</td>
 </tr>
 <tr>
 <td></td>
@@ -71,14 +71,14 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>1 274</td>
+<td>1 014</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>15 663</td>
+<td>12 423</td>
 </tr>
 <tr>
 <td></td>
@@ -99,21 +99,21 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>77 317</td>
+<td>83 718</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>77 317</td>
+<td>83 718</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного бюджета</td>
-<td>77 317</td>
+<td>83 718</td>
 </tr>
 </table>
 
@@ -144,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>109 418</td>
+<td>112 319</td>
 </tr>
 <tr>
 <td>01</td>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>36 138</td>
+<td>39 039</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36 138</td>
+<td>39 039</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 138</td>
+<td>39 039</td>
 </tr>
 <tr>
 <td></td>
@@ -176,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35 115</td>
+<td>38 016</td>
 </tr>
 <tr>
 <td></td>
@@ -527,6 +527,9 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2">Свободные остатки бюджетных средств</td>
 <td>10 024</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="7">Функциональная группа</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
@@ -1588,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 
 # Бюджет Шелекского сельского округа на 2021 год
 
-> *Сноска. Приложение 76 в редакции решения Енбекшиказахского районного маслихата Алматинской области от 13.09.2021 № 10-50 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 76 в редакции решения Енбекшиказахского районного маслихата Алматинской области от 13.09.2021 № 10-50 (вводится в действие с 01.01.2021); от 03.12.2021 № 12-66 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -1610,14 +1613,14 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">752 432</td>
+<td colspan="2">817 335</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">165 621</td>
+<td colspan="2">140 821</td>
 </tr>
 <tr>
 <td></td>
@@ -1638,84 +1641,91 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">136 982</td>
+<td colspan="2">112 607</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">4 700</td>
+<td colspan="2">3 900</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">3 100</td>
+<td colspan="2">2 325</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">129 182</td>
+<td colspan="2">106 382</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">1 592</td>
+<td colspan="2">1 167</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">1 592</td>
+<td colspan="2">1 167</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">179</td>
+<td colspan="2">1 979</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">179</td>
+<td colspan="2">1 979</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">179</td>
+<td colspan="2">1 979</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">586 632</td>
+<td colspan="2">674 535</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">586 632</td>
+<td colspan="2">674 535</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного бюджета</td>
-<td colspan="2">586 632</td>
+<td colspan="2">674 535</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -1743,7 +1753,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>813 234</td>
+<td>878 137</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1751,7 +1761,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>81 003</td>
+<td>96 612</td>
 </tr>
 <tr>
 <td></td>
@@ -1759,7 +1769,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>81 003</td>
+<td>96 612</td>
 </tr>
 <tr>
 <td></td>
@@ -1767,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>81 003</td>
+<td>96 612</td>
 </tr>
 <tr>
 <td></td>
@@ -1775,7 +1785,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>73 438</td>
+<td>81 147</td>
 </tr>
 <tr>
 <td></td>
@@ -1783,7 +1793,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td>7 565</td>
+<td>15 465</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1791,7 +1801,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>593 512</td>
+<td>642 806</td>
 </tr>
 <tr>
 <td></td>
@@ -1799,7 +1809,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>593 512</td>
+<td>642 806</td>
 </tr>
 <tr>
 <td></td>
@@ -1807,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>593 512</td>
+<td>642 806</td>
 </tr>
 <tr>
 <td></td>
@@ -1815,7 +1825,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>19 472</td>
+<td>25 120</td>
 </tr>
 <tr>
 <td></td>
@@ -1839,7 +1849,7 @@ source: https://zan.gov.kz/client/#!/doc/152374/rus/13.09.2021
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>557 908</td>
+<td>601 554</td>
 </tr>
 <tr>
 <td>12</td>
