@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163215/rus/29.12.2021
+source: https://zan.gov.kz/client/#!/doc/163215/rus/16.05.2022
 ---
 
 > *Приложение 50 к решению Аксуского районного маслихата от «29» декабря 2021 года № 18-68*
