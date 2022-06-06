@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162453/kaz/12.05.2022
+source: https://zan.gov.kz/client/#!/doc/162453/kaz/06.06.2022
 ---
 
 > *«Талдықорған қаласының 2022-2024 жылдарға арналған бюджеті туралы» шешіміне 3-қосымша*
