@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/168240/rus/24.05.2022
+source: https://zan.gov.kz/client/#!/doc/168240/rus/07.06.2022
 ---
 
 > *Приложение 41 к решению Уйгурского районного маслихата от 29 декабря 2021 года № 7-18-89*

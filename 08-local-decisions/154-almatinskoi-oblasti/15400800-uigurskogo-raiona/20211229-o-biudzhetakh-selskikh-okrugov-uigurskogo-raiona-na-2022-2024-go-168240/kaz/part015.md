@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/168240/kaz/24.05.2022
+source: https://zan.gov.kz/client/#!/doc/168240/kaz/07.06.2022
 ---
 
 > *Ұйғыр аудандық мәслихатының 2021 жылғы 29 желтоқсандағы № 7-18-89 шешіміне 15-қосымша*
