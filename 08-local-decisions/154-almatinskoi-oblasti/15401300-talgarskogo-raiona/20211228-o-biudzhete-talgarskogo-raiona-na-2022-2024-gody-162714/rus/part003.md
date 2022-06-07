@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/162714/rus/05.05.2022
+source: https://zan.gov.kz/client/#!/doc/162714/rus/07.06.2022
 ---
 
 > *Приложение 3 к решению Талгарского районного маслихата от «28» декабря 2021 года № 17-59*
