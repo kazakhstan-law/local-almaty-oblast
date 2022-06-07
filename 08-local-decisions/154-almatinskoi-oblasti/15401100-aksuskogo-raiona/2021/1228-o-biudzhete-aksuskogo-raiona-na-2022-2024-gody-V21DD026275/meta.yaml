@@ -24,17 +24,24 @@ versions:
   cause:
     code: '167792'
     key: G22DD02391M
+- date: 2022-06-07
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '168853'
+    key: G22DD02599M
 version_date:
-  kaz: 2022-05-06
-  rus: 2022-05-06
+  kaz: 2022-06-07
+  rus: 2022-06-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/163147/kaz/06.05.2022
-  rus: https://zan.gov.kz/client/#!/doc/163147/rus/06.05.2022
+  kaz: https://zan.gov.kz/client/#!/doc/163147/kaz/07.06.2022
+  rus: https://zan.gov.kz/client/#!/doc/163147/rus/07.06.2022
 caused_by:
-  code: '167792'
-  key: G22DD02391M
-  requisite: Решение Аксуского районного маслихата Алматинской области от 6 мая 2022 года № 23-91
+  code: '168853'
+  key: G22DD02599M
+  requisite: Решение Аксуского районного маслихата Алматинской области от 7 июня 2022 года № 25-99
   title:
     rus: О внесении изменений в решение Аксуского районного маслихата от 28 декабря 2021 года № 17-63 «О бюджете Аксуского района на 2022-2024 годы»
     kaz: Ақсу аудандық мәслихатының 2021 жылғы 28 желтоқсандағы № 17-63 «Ақсу ауданының 2022-2024 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/167792/rus
+  link: https://zan.gov.kz/client/#!/doc/168853/rus
