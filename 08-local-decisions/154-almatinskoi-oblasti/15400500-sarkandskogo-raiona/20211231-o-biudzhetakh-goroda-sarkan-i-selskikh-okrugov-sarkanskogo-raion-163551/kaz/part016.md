@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163551/kaz/24.05.2022
+source: https://zan.gov.kz/client/#!/doc/163551/kaz/07.06.2022
 ---
 
 > *Сарқан аудандық мәслихатының 2021 жылғы 31 желтоқсандағы № 15-64 шешіміне 16-қосымша*

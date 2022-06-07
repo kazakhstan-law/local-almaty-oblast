@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163551/rus/24.05.2022
+source: https://zan.gov.kz/client/#!/doc/163551/rus/07.06.2022
 ---
 
 > *Приложение 16 к решению Сарканского районного маслихата от 31 декабря 2021 года № 15-64*
