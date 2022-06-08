@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163212/rus/18.05.2022
+source: https://zan.gov.kz/client/#!/doc/163212/rus/08.06.2022
 ---
 
 > *Приложение 9 к решению Талгарского районного маслихата от 30 декабря 2021 года №18-62*
