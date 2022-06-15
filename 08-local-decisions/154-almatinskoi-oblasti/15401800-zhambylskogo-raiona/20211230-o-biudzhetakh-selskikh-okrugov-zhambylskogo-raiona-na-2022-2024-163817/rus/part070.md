@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163817/rus/20.05.2022
+source: https://zan.gov.kz/client/#!/doc/163817/rus/15.06.2022
 ---
 
 > *Приложение 71 к решению Жамбылского районного маслихата от 30 декабря 2021 года № 15-83*
