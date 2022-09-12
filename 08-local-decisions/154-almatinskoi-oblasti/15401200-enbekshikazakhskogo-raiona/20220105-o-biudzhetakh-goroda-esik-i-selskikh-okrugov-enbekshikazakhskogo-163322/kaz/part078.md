@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163322/kaz/14.06.2022
+source: https://zan.gov.kz/client/#!/doc/163322/kaz/12.09.2022
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2022 жылғы 5 қаңтардағы № 15-73 шешіміне 78-қосымша*
