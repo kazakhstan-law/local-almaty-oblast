@@ -4,33 +4,26 @@
 
 # Бюджет города Талгар на 2022 год
 
-> *Сноска. Приложение 1 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 08.06.2022 № 27-88 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 08.06.2022 № 27-88 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Подкласс</td>
-<td colspan="2"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Наименование</td>
+<td colspan="6">Наименование</td>
 </tr>
 <tr>
 <td>1</td>
@@ -45,14 +38,14 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">I. Доходы</td>
-<td colspan="2">664 347</td>
+<td colspan="2">795 705</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Налоговые поступление</td>
-<td colspan="2">627 243</td>
+<td colspan="2">628 243</td>
 </tr>
 <tr>
 <td></td>
@@ -73,14 +66,14 @@
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="4">Hалоги на собственность</td>
-<td colspan="2">410 300</td>
+<td colspan="2">412 300</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="4">Hалоги на имущество</td>
-<td colspan="2">12 385</td>
+<td colspan="2">7 885</td>
 </tr>
 <tr>
 <td></td>
@@ -94,42 +87,42 @@
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Hалог на транспортные средства</td>
-<td colspan="2">381 568</td>
+<td colspan="2">388 068</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="4">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">4 260</td>
+<td colspan="2">3 260</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">4 260</td>
+<td colspan="2">3 260</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">37 104</td>
+<td colspan="2">167 462</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">37 104</td>
+<td colspan="2">167 462</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">37 104</td>
+<td colspan="2">167 462</td>
 </tr>
 <tr>
 <td></td>
@@ -170,7 +163,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td colspan="2">685 900</td>
+<td colspan="2">817 258</td>
 </tr>
 <tr>
 <td>01</td>
@@ -178,7 +171,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">70 785</td>
+<td colspan="2">80 785</td>
 </tr>
 <tr>
 <td></td>
@@ -186,7 +179,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">70 785</td>
+<td colspan="2">80 785</td>
 </tr>
 <tr>
 <td></td>
@@ -194,7 +187,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">70 785</td>
+<td colspan="2">80 785</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +195,7 @@
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">70 785</td>
+<td colspan="2">80 785</td>
 </tr>
 <tr>
 <td></td>
@@ -218,7 +211,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">220 325</td>
+<td colspan="2">341 683</td>
 </tr>
 <tr>
 <td></td>
@@ -226,7 +219,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">220 325</td>
+<td colspan="2">341 683</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +227,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">220 325</td>
+<td colspan="2">341 683</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +235,7 @@
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td colspan="2">57 821</td>
+<td colspan="2">128 079</td>
 </tr>
 <tr>
 <td></td>
@@ -258,7 +251,7 @@
 <td colspan="2"></td>
 <td colspan="2">010</td>
 <td colspan="2">Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">2 168</td>
+<td colspan="2">3 168</td>
 </tr>
 <tr>
 <td></td>
@@ -266,7 +259,7 @@
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">146 822</td>
+<td colspan="2">196 922</td>
 </tr>
 <tr>
 <td>12</td>
@@ -373,23 +366,17 @@
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Подкласс</td>
-<td colspan="2"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -478,29 +465,22 @@
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Подкласс</td>
-<td colspan="2"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Наименование</td>
+<td colspan="6">Наименование</td>
 </tr>
 <tr>
 <td>6</td>
@@ -517,23 +497,17 @@
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Подкласс</td>
-<td colspan="2"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -589,23 +563,17 @@
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Подкласс</td>
-<td colspan="2"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
