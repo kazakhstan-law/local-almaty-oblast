@@ -1,702 +1,684 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163212/kaz/08.06.2022
+source: https://zan.gov.kz/client/#!/doc/163212/kaz/14.09.2022
 ---
 
 > *Талғар аудандық мәслихатының 2021 жылғы 30 желтоқсандағы № 18-62 шешіміне 1-қосымша*
 
 # 2022 жылғы Талғар қаласының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 08.06.2022 № 27-88 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 08.06.2022 № 27-88 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2">2</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
-<td colspan="3">4</td>
+<td colspan="6">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">I. Кiрiстер</td>
-<td>664 347</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">I. Кiрiстер</td>
+<td>795 705</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Салықтық түсімдер</td>
-<td>627 243</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">01</td>
-<td></td>
-<td colspan="5">Табыс салығы</td>
-<td>212 683</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="5">Жеке табыс салығы</td>
-<td>212 683</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">04</td>
-<td></td>
-<td colspan="5">Меншiкке салынатын салықтар</td>
-<td>410 300</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>1</td>
-<td colspan="5">Мүлiкке салынатын салықтар</td>
-<td>12 385</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Салықтық түсімдер</td>
+<td>628 243</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
+<td colspan="8">Табыс салығы</td>
+<td>212 683</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
-<td>3</td>
-<td colspan="5">Жер салығы</td>
+<td colspan="2">2</td>
+<td colspan="8">Жеке табыс салығы</td>
+<td>212 683</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="8">Меншiкке салынатын салықтар</td>
+<td>412 300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="8">Мүлiкке салынатын салықтар</td>
+<td>7 885</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="8">Жер салығы</td>
 <td>16 347</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>4</td>
-<td colspan="5">Көлiк құралдарына салынатын салық</td>
-<td>381 568</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">05</td>
 <td></td>
-<td colspan="5">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>4260</td>
-</tr>
-<tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>4</td>
-<td colspan="5">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
-<td>4260</td>
-</tr>
-<tr>
 <td colspan="2">4</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Трансферттердің түсімдері</td>
-<td>37 104</td>
+<td colspan="8">Көлiк құралдарына салынатын салық</td>
+<td>388 068</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">05</td>
 <td colspan="2"></td>
+<td colspan="8">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
+<td>3260</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="8">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
+<td>3260</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Трансферттердің түсімдері</td>
+<td>167 462</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">02</td>
-<td></td>
-<td colspan="5">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>37 104</td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td>167 462</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>3</td>
-<td colspan="5">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>37 104</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2">3</td>
+<td colspan="8">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td>167 462</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">II. Шығындар</td>
-<td>685 900</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>70 785</td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">II. Шығындар</td>
+<td>817 258</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>80 785</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>70 785</td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>80 785</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>70 785</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>80 785</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">001</td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>70 785</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>80 785</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">022</td>
-<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>220 325</td>
+<td colspan="2"></td>
+<td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>341 683</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Елді-мекендерді көркейту</td>
-<td>220 325</td>
+<td colspan="2"></td>
+<td colspan="6">Елді-мекендерді көркейту</td>
+<td>341 683</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>220 325</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>341 683</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
-<td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>57 821</td>
+<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
+<td>128 079</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">009</td>
-<td colspan="3">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="6">Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>13 514</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">010</td>
-<td colspan="3">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>2 168</td>
+<td colspan="6">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
+<td>3 168</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">011</td>
-<td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>146 822</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>196 922</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Көлiк және коммуникация</td>
+<td colspan="2"></td>
+<td colspan="6">Көлiк және коммуникация</td>
 <td>29 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Автомобиль көлiгi</td>
+<td colspan="2"></td>
+<td colspan="6">Автомобиль көлiгi</td>
 <td>29 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>29 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">013</td>
-<td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>23 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">045</td>
-<td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
 <td>6 000</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Трансферттер</td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>365 790</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Трансферттер</td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>365 790</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>365 790</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">043</td>
-<td colspan="3">Бюджеттік алып коюлар</td>
+<td colspan="6">Бюджеттік алып коюлар</td>
 <td>365 058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">048</td>
-<td colspan="3">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td colspan="6">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
 <td>732</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">III. Таза бюджеттік кредиттеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="3">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="6">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">V. Бюджет тапшылығы (профициті)</td>
 <td>-21 553</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
 <td>21 553</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздар түсімі</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Мемлекеттік ішкі қарыздар</td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3">Қарыз алу келісім-шарттары</td>
+<td colspan="6">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражаттарының қолдалынатын қалдықтары</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражаттарының қолдалынатын қалдықтары</td>
 <td>21 553</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражатының қалдықтары</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражатының қалдықтары</td>
 <td>21 553</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="6">Бюджет қаражатының бос қалдықтары</td>
 <td>21 553</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
+<td>16</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">452</td>
 <td colspan="2"></td>
-<td>452</td>
-<td colspan="2"></td>
-<td colspan="3">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
-<td colspan="3">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td colspan="6">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>0</td>
 </tr>
 </table>
@@ -2131,678 +2113,711 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/08.06.2022
 
 # 2022 жылғы Алатау ауылдық округінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Атауы</td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
-<td>3</td>
-<td></td>
-<td>4</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="6">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">I. Кiрiстер</td>
-<td>136 645</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">I. Кiрiстер</td>
+<td>142 334</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
-<td colspan="2">Салықтық түсімдер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Салықтық түсімдер</td>
 <td>105 160</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td colspan="2">Табыс салығы</td>
-<td>10 052</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="8">Табыс салығы</td>
+<td>11 670</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>2</td>
-<td colspan="2">Жеке табыс салығы</td>
-<td>10 052</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="8">Жеке табыс салығы</td>
+<td>11 670</td>
 </tr>
 <tr>
 <td></td>
-<td>04</td>
-<td></td>
-<td colspan="2">Меншiкке салынатын салықтар</td>
-<td>94 942</td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="8">Меншiкке салынатын салықтар</td>
+<td>93 324</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
-<td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>5 013</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="8">Мүлiкке салынатын салықтар</td>
+<td>3 954</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
-<td colspan="2">Жер салығы</td>
-<td>10 685</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="8">Жер салығы</td>
+<td>9 185</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>4</td>
-<td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>79 244</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="8">Көлiк құралдарына салынатын салық</td>
+<td>80 185</td>
 </tr>
 <tr>
 <td></td>
-<td>05</td>
-<td></td>
-<td colspan="2">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="8">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
 <td>166</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>4</td>
-<td colspan="2">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="8">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
 <td>166</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
-<td></td>
-<td colspan="2">Трансферттердің түсімдері</td>
-<td>31 485</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Трансферттердің түсімдері</td>
+<td>37 174</td>
 </tr>
 <tr>
 <td></td>
-<td>02</td>
-<td></td>
-<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>31 485</td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td>37 174</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
-<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>31 485</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="8">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td>37 174</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2"></td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Шығындар</td>
-<td>139 792</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">II. Шығындар</td>
+<td>145 481</td>
 </tr>
 <tr>
 <td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>73 775</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>78 675</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>73 775</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>78 675</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>73 775</td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>78 675</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>73 775</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>72 675</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>022</td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
+<td>6 000</td>
 </tr>
 <tr>
 <td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>46 217</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>43 217</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>46 217</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Елді-мекендерді көркейту</td>
+<td>43 217</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>46 217</td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>43 217</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>15 000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
+<td>12 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">009</td>
+<td colspan="6">Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>2 720</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>28 497</td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көлiк және коммуникация</td>
-<td>6 000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Көлiк және коммуникация</td>
+<td>9 789</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Автомобиль көлiгi</td>
-<td>6 000</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Автомобиль көлiгi</td>
+<td>9 789</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 000</td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>9 789</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>7 000</td>
+</tr>
+<tr>
 <td></td>
-<td></td>
-<td>013</td>
-<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>6 000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">045</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td>2 789</td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Басқалар</td>
 <td>13 745</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Басқалар</td>
 <td>13 745</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>13 745</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>040</td>
-<td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">040</td>
+<td colspan="6">Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>13 745</td>
 </tr>
 <tr>
 <td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Трансферттер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>55</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Трансферттер</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>55</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>043</td>
-<td>Бюджеттік алып коюлар</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>048</td>
-<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td>55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Таза бюджеттік кредиттеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттер</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>55</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">043</td>
+<td colspan="6">Бюджеттік алып коюлар</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">048</td>
+<td colspan="6">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>55</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">III. Таза бюджеттік кредиттеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2"></td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="2">Санаты</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
 <td>6</td>
-<td></td>
-<td></td>
-<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="2">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">V. Бюджет тапшылығы (профициті)</td>
 <td>-3 147</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
 <td>3 147</td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздар түсімі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Мемлекеттік ішкі қарыздар</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>Қарыз алу келісім-шарттары</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыз алу келісім-шарттары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Атауы</td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
 <td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджет қаражаттарының қолдалынатын қалдықтары</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражаттарының қолдалынатын қалдықтары</td>
 <td>3 147</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Бюджет қаражатының қалдықтары</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражатының қалдықтары</td>
 <td>3 147</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражатының бос қалдықтары</td>
 <td>3 147</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2"></td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td colspan="6">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
 </tr>
 </table>
 
@@ -4271,714 +4286,703 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/08.06.2022
 
 # 2022 жылғы Белбұлақ ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 08.06.2022 № 27-88 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
+<td colspan="10">Ішкі сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
+<td colspan="10">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2">2</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
-<td colspan="3">4</td>
+<td colspan="6">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">I. Кiрiстер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">I. Кiрiстер</td>
 <td>137 726</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="5">Салықтық түсімдер</td>
+<td colspan="2"></td>
+<td colspan="8">Салықтық түсімдер</td>
 <td>109 849</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="8">Табыс салығы</td>
+<td>21 115</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="5">Табыс салығы</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="8">Жеке табыс салығы</td>
 <td>21 115</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="5">Жеке табыс салығы</td>
-<td>21 115</td>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">04</td>
-<td></td>
-<td colspan="5">Меншiкке салынатын салықтар</td>
+<td colspan="2"></td>
+<td colspan="8">Меншiкке салынатын салықтар</td>
 <td>88 616</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>1</td>
-<td colspan="5">Мүлiкке салынатын салықтар</td>
-<td>4 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>3</td>
-<td colspan="5">Жер салығы</td>
-<td>3 404</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>4</td>
-<td colspan="5">Көлiк құралдарына салынатын салық</td>
-<td>81 212</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">05</td>
 <td></td>
-<td colspan="5">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>118</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="8">Мүлiкке салынатын салықтар</td>
+<td>3 200</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>4</td>
-<td colspan="5">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
-<td>118</td>
+<td colspan="2">3</td>
+<td colspan="8">Жер салығы</td>
+<td>3 104</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="2"></td>
+<td colspan="8">Көлiк құралдарына салынатын салық</td>
+<td>82 312</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="5">Трансферттердің түсімдері</td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="8">Тауарларға ,жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
+<td>118</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="8">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
+<td>118</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Трансферттердің түсімдері</td>
 <td>27 877</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">02</td>
-<td></td>
-<td colspan="5">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
 <td>27 877</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>3</td>
-<td colspan="5">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="2">3</td>
+<td colspan="8">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
 <td>27 877</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">II. Шығындар</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">II. Шығындар</td>
 <td>147 803</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>60 353</td>
+<td colspan="2"></td>
+<td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>63 353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>60 353</td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>63 353</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>60 353</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>63 353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">001</td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>60 353</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>63 353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">022</td>
-<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="2"></td>
+<td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
 <td>56 541</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Елді-мекендерді көркейту</td>
+<td colspan="2"></td>
+<td colspan="6">Елді-мекендерді көркейту</td>
 <td>56 541</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>56 541</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
-<td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
 <td>27 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">009</td>
-<td colspan="3">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="6">Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>9 549</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">011</td>
-<td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>19 992</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Көлiк және коммуникация</td>
-<td>9 500</td>
+<td colspan="2"></td>
+<td colspan="6">Көлiк және коммуникация</td>
+<td>6 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Автомобиль көлiгi</td>
-<td>9 500</td>
+<td colspan="2"></td>
+<td colspan="6">Автомобиль көлiгi</td>
+<td>6 500</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9 500</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>6 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">013</td>
-<td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>9 500</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>6 500</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Басқалар</td>
+<td colspan="2"></td>
+<td colspan="6">Басқалар</td>
 <td>15 686</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Басқалар</td>
+<td colspan="2"></td>
+<td colspan="6">Басқалар</td>
 <td>15 686</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>15 686</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">040</td>
-<td colspan="3">Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="6">Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>15 686</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Трансферттер</td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>5 723</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Трансферттер</td>
+<td colspan="2"></td>
+<td colspan="6">Трансферттер</td>
 <td>5 723</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>5 723</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">043</td>
-<td colspan="3">Бюджеттік алып коюлар</td>
+<td colspan="6">Бюджеттік алып коюлар</td>
 <td>5 717</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">048</td>
-<td colspan="3">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td colspan="6">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">III. Таза бюджеттік кредиттеу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="3">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="6">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">V. Бюджет тапшылығы (профициті)</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">V. Бюджет тапшылығы (профициті)</td>
 <td>-10 077</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">VI. Бюджеттің тапшылығын қаржыландыру (профицитті пайдалану)</td>
 <td>10 077</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздар түсімі</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Мемлекеттік ішкі қарыздар</td>
+<td colspan="2"></td>
+<td colspan="6">Мемлекеттік ішкі қарыздар</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3">Қарыз алу келісім-шарттары</td>
+<td colspan="6">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
-<td colspan="5"></td>
+<td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
-<td colspan="5"></td>
+<td></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражаттарының қолдалынатын қалдықтары</td>
+<td colspan="10">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="10">Атауы</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражаттарының қолдалынатын қалдықтары</td>
 <td>10 077</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Бюджет қаражатының қалдықтары</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджет қаражатының қалдықтары</td>
 <td>10 077</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="6">Бюджет қаражатының бос қалдықтары</td>
 <td>10 077</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td colspan="3"></td>
+<td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="12">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="8">Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
+<td>16</td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Қарыздарды өтеу</td>
+<td colspan="2"></td>
+<td colspan="6">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2">452</td>
 <td colspan="2"></td>
-<td>452</td>
-<td colspan="2"></td>
-<td colspan="3">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
-<td colspan="3">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td colspan="6">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
 </tr>
 </table>
 
