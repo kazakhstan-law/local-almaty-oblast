@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163215/kaz/17.11.2022
+source: https://zan.gov.kz/client/#!/doc/163215/kaz/02.12.2022
 ---
 
 > *Ақсу аудандық мәслихатының 2021 жылғы «29» желтоқсандағы № 18-68 шешіміне 30-қосымша*

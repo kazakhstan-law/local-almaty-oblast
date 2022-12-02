@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163215/rus/17.11.2022
+source: https://zan.gov.kz/client/#!/doc/163215/rus/02.12.2022
 ---
 
 > *Приложение 39 к решению Аксуского районного маслихата от «29» декабря 2021 года № 18-68*
