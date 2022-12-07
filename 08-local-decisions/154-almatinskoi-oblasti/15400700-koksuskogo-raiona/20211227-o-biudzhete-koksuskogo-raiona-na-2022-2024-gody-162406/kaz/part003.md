@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162406/kaz/03.11.2022
+source: https://zan.gov.kz/client/#!/doc/162406/kaz/07.12.2022
 ---
 
 > *Көксу ауданы мәслихатының 2021 жылғы 27 желтоқсандағы № 19-1 шешіміне 3-қосымша*
