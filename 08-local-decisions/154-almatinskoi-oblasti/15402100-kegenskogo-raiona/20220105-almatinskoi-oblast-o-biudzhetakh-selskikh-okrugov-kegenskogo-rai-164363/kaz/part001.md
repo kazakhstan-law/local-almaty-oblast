@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164363/kaz/16.09.2022
+source: https://zan.gov.kz/client/#!/doc/164363/kaz/07.12.2022
 ---
 
 > *Кеген аудандық мәслихатының 2022 жылғы 05 қаңтардағы № 23-80 шешіміне 1-қосымша*

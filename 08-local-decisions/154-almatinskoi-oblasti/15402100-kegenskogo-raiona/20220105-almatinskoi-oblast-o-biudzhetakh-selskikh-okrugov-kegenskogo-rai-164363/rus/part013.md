@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/164363/rus/16.09.2022
+source: https://zan.gov.kz/client/#!/doc/164363/rus/07.12.2022
 ---
 
 > *Приложение 13 к решению Кегенского районного маслихата от 05 январья 2022 года № 23-80*
