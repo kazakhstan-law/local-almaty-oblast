@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162560/kaz/02.12.2022
+source: https://zan.gov.kz/client/#!/doc/162560/kaz/09.12.2022
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2021 жылғы 28 желтоқсандағы № 14-70 шешіміне 3-қосымша*
