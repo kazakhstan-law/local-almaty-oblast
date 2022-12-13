@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/161872/rus/29.11.2022
+source: https://zan.gov.kz/client/#!/doc/161872/rus/13.12.2022
 ---
 
 > *Приложение 3 к решению Алматинского областного маслихата от 14 декабря 2021 года № 12-59*
