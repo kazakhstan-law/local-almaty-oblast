@@ -748,7 +748,7 @@
 
 # Бюджет Бескайнарского сельского округа на 2022 год
 
-> *Сноска. Приложение 13 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 13 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022); от 14.12.2022 № 37-113 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -796,56 +796,56 @@
 <td colspan="3">1</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">3 729</td>
+<td colspan="2">6 129</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">3 729</td>
+<td colspan="2">6 129</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">21 679</td>
+<td colspan="2">19 404</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">1 049</td>
+<td colspan="2">1 390</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td colspan="2">1 559</td>
+<td colspan="2">1 939</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">19 071</td>
+<td colspan="2">16 075</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">05</td>
 <td colspan="2"></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">668</td>
+<td colspan="2">543</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">668</td>
+<td colspan="2">543</td>
 </tr>
 <tr>
 <td>4</td>
@@ -876,9 +876,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -1128,9 +1125,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1189,9 +1183,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -1233,9 +1224,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1268,9 +1256,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1337,9 +1322,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1390,9 +1372,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -1457,5 +1436,13 @@
 <td colspan="2">008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 </table>
