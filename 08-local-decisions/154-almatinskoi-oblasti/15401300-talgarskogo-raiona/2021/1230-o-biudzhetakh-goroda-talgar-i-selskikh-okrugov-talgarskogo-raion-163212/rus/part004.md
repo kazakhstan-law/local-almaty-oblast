@@ -4,7 +4,7 @@
 
 # Бюджет Алатауского сельского округа на 2022 год
 
-> *Сноска. Приложение 4 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 4 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022); от 14.12.2022 № 37-113 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Доходы</td>
-<td colspan="2">142 334</td>
+<td colspan="2">150 255</td>
 </tr>
 <tr>
 <td>1</td>
@@ -52,42 +52,42 @@
 <td colspan="3">1</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">11 670</td>
+<td colspan="2">12 770</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">11 670</td>
+<td colspan="2">12 770</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">93 324</td>
+<td colspan="2">92 224</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">3 954</td>
+<td colspan="2">3 929</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td colspan="2">9 185</td>
+<td colspan="2">10 585</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">80 185</td>
+<td colspan="2">77 710</td>
 </tr>
 <tr>
 <td></td>
@@ -108,21 +108,21 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">37 174</td>
+<td colspan="2">45 095</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">37 174</td>
+<td colspan="2">45 095</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">37 174</td>
+<td colspan="2">45 095</td>
 </tr>
 <tr>
 <td></td>
@@ -132,9 +132,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -166,7 +163,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td colspan="2">145 481</td>
+<td colspan="2">153 402</td>
 </tr>
 <tr>
 <td>01</td>
@@ -174,7 +171,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">79 247</td>
+<td colspan="2">87 168</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +179,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">79 247</td>
+<td colspan="2">87 168</td>
 </tr>
 <tr>
 <td></td>
@@ -190,7 +187,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">79 247</td>
+<td colspan="2">87 168</td>
 </tr>
 <tr>
 <td></td>
@@ -198,7 +195,7 @@
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">74 000</td>
+<td colspan="2">81 921</td>
 </tr>
 <tr>
 <td></td>
@@ -392,9 +389,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -453,9 +447,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -497,9 +488,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -532,9 +520,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -601,9 +586,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -654,9 +636,6 @@
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -721,6 +700,14 @@
 <td colspan="2">008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
