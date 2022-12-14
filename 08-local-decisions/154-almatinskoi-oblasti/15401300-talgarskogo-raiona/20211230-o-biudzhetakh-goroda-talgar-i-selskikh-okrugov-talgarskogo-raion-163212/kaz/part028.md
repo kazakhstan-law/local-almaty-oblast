@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
+source: https://zan.gov.kz/client/#!/doc/163212/kaz/14.12.2022
 ---
 
 > *Талғар аудандық мәслихатының 2021 жылғы 30 желтоқсандағы № 18-62 шешіміне 28-қосымша*
 
 # 2022 жылғы Панфилов ауылдық округінің бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 36-111 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 36-111 (01.01.2022 бастап қолданысқа енгізіледі); 14.12.2022 № 37-113 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="8">I. Кiрiстер</td>
-<td>220 278</td>
+<td>230 448</td>
 </tr>
 <tr>
 <td>1</td>
@@ -111,21 +111,21 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="8">Трансферттердің түсімдері</td>
-<td>47 706</td>
+<td>57 876</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="8">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>47 706</td>
+<td>57 876</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="8">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>47 706</td>
+<td>57 876</td>
 </tr>
 <tr>
 <td></td>
@@ -135,9 +135,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
@@ -169,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">II. Шығындар</td>
-<td>229 273</td>
+<td>239 443</td>
 </tr>
 <tr>
 <td>01</td>
@@ -177,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>85 704</td>
+<td>95 874</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>85 704</td>
+<td>95 874</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>85 704</td>
+<td>95 874</td>
 </tr>
 <tr>
 <td></td>
@@ -201,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>85 704</td>
+<td>95 874</td>
 </tr>
 <tr>
 <td></td>
@@ -387,9 +384,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -448,9 +442,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
@@ -492,9 +483,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -528,9 +516,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -597,9 +582,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -650,9 +632,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
@@ -717,6 +696,14 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2">008</td>
 <td colspan="6">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td></td>
 </tr>
 </table>
 
@@ -2219,7 +2206,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 
 # 2022 жылғы Тұздыбастау ауылдық округінің бюджеті
 
-> *Ескерту. 31-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 36-111 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 31-қосымша жаңа редакцияда - Алматы облысы Талғар аудандық мәслихатының 18.05.2022 № 25-84 (01.01.2022 бастап қолданысқа енгізіледі); 14.09.2022 № 31-96 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 36-111 (01.01.2022 бастап қолданысқа енгізіледі); 14.12.2022 № 37-113 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2253,7 +2240,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="8">I. Кiрiстер</td>
-<td>180 005</td>
+<td>184 264</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2323,21 +2310,21 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="8">Трансферттердің түсімдері</td>
-<td>33 230</td>
+<td>37 489</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="8">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>33 230</td>
+<td>37 489</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="8">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>33 230</td>
+<td>37 489</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,9 +2334,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
@@ -2381,7 +2365,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">II. Шығындар</td>
-<td>192 632</td>
+<td>196 891</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2389,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>60 235</td>
+<td>64 694</td>
 </tr>
 <tr>
 <td></td>
@@ -2397,7 +2381,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>60 235</td>
+<td>64 694</td>
 </tr>
 <tr>
 <td></td>
@@ -2405,7 +2389,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>60 235</td>
+<td>64 694</td>
 </tr>
 <tr>
 <td></td>
@@ -2413,7 +2397,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>54 016</td>
+<td>58 528</td>
 </tr>
 <tr>
 <td></td>
@@ -2421,7 +2405,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
-<td>6 219</td>
+<td>6 166</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2429,7 +2413,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>60 471</td>
+<td>60 271</td>
 </tr>
 <tr>
 <td></td>
@@ -2437,7 +2421,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Елді-мекендерді көркейту</td>
-<td>60 471</td>
+<td>60 271</td>
 </tr>
 <tr>
 <td></td>
@@ -2445,7 +2429,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>60 471</td>
+<td>60 271</td>
 </tr>
 <tr>
 <td></td>
@@ -2453,7 +2437,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>32 530</td>
+<td>32 330</td>
 </tr>
 <tr>
 <td></td>
@@ -2599,9 +2583,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -2660,9 +2641,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>
@@ -2704,9 +2682,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -2740,9 +2715,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -2809,9 +2781,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
@@ -2862,9 +2831,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/kaz/07.12.2022
 <td colspan="6"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функционалдық топ</td>
 <td rowspan="5">Сомасы (мың теңге)</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
+source: https://zan.gov.kz/client/#!/doc/163212/rus/14.12.2022
 ---
 
 > *Приложение 15 к решению Талгарского районного маслихата от 30 декабря 2021 года №18-62*
@@ -751,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 
 # Бюджет Гулдалаинского сельского округа на 2022 год
 
-> *Сноска. Приложение 16 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 16 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022); от 14.12.2022 № 37-113 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -785,56 +785,56 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Доходы</td>
-<td colspan="2">125 320</td>
+<td colspan="2">129 140</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступление</td>
-<td colspan="2">89 260</td>
+<td colspan="2">99 945</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">1</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">14 530</td>
+<td colspan="2">16 330</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">14 530</td>
+<td colspan="2">16 330</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">74 490</td>
+<td colspan="2">83 375</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">2 365</td>
+<td colspan="2">2 965</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td colspan="2">3 144</td>
+<td colspan="2">3 544</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">68 981</td>
+<td colspan="2">76 866</td>
 </tr>
 <tr>
 <td></td>
@@ -855,21 +855,21 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">36 060</td>
+<td colspan="2">29 195</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">36 060</td>
+<td colspan="2">29 195</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">36 060</td>
+<td colspan="2">29 195</td>
 </tr>
 <tr>
 <td></td>
@@ -879,9 +879,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -913,7 +910,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td colspan="2">128 979</td>
+<td colspan="2">132 799</td>
 </tr>
 <tr>
 <td>01</td>
@@ -921,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">73 408</td>
+<td colspan="2">75 268</td>
 </tr>
 <tr>
 <td></td>
@@ -929,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">73 408</td>
+<td colspan="2">75 268</td>
 </tr>
 <tr>
 <td></td>
@@ -937,7 +934,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">73 408</td>
+<td colspan="2">75 268</td>
 </tr>
 <tr>
 <td></td>
@@ -945,7 +942,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">67 517</td>
+<td colspan="2">69 377</td>
 </tr>
 <tr>
 <td></td>
@@ -961,7 +958,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">36 061</td>
+<td colspan="2">38 021</td>
 </tr>
 <tr>
 <td></td>
@@ -969,7 +966,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">36 061</td>
+<td colspan="2">38 021</td>
 </tr>
 <tr>
 <td></td>
@@ -977,7 +974,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">36 061</td>
+<td colspan="2">38 021</td>
 </tr>
 <tr>
 <td></td>
@@ -985,7 +982,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td colspan="2">18 000</td>
+<td colspan="2">19 960</td>
 </tr>
 <tr>
 <td></td>
@@ -1131,9 +1128,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1192,9 +1186,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -1236,9 +1227,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1271,9 +1259,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1340,9 +1325,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -1393,9 +1375,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -2947,7 +2926,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 
 # Бюджет Кендалинского сельского округа на 2022 год
 
-> *Сноска. Приложение 19 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 19 в редакции решениями Талгарского районного маслихата Алматинской области от 18.05.2022 № 25-84 (вводится в действие с 01.01.2022); от 14.09.2022 № 31-96 (вводится в действие с 01.01.2022); от 07.12.2022 № 36-111 (вводится в действие с 01.01.2022); от 14.12.2022 № 37-113 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -2981,7 +2960,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Доходы</td>
-<td colspan="2">87 156</td>
+<td colspan="2">92 556</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3051,21 +3030,21 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">15 433</td>
+<td colspan="2">20 833</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">15 433</td>
+<td colspan="2">20 833</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">15 433</td>
+<td colspan="2">20 833</td>
 </tr>
 <tr>
 <td></td>
@@ -3075,9 +3054,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -3109,7 +3085,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td colspan="2">89 234</td>
+<td colspan="2">94 634</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3117,7 +3093,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">54 527</td>
+<td colspan="2">58 497</td>
 </tr>
 <tr>
 <td></td>
@@ -3125,7 +3101,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">54 527</td>
+<td colspan="2">58 497</td>
 </tr>
 <tr>
 <td></td>
@@ -3133,7 +3109,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">54 527</td>
+<td colspan="2">58 497</td>
 </tr>
 <tr>
 <td></td>
@@ -3141,7 +3117,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">54 527</td>
+<td colspan="2">58 497</td>
 </tr>
 <tr>
 <td></td>
@@ -3157,7 +3133,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">23 644</td>
+<td colspan="2">25 074</td>
 </tr>
 <tr>
 <td></td>
@@ -3165,7 +3141,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">23 644</td>
+<td colspan="2">25 074</td>
 </tr>
 <tr>
 <td></td>
@@ -3173,7 +3149,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">23 644</td>
+<td colspan="2">25 074</td>
 </tr>
 <tr>
 <td></td>
@@ -3181,7 +3157,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td colspan="2">10 600</td>
+<td colspan="2">12 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3189,7 +3165,7 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">4 710</td>
+<td colspan="2">4 740</td>
 </tr>
 <tr>
 <td></td>
@@ -3327,9 +3303,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -3388,9 +3361,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
@@ -3432,9 +3402,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -3467,9 +3434,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -3536,9 +3500,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Категория</td>
 <td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
@@ -3589,9 +3550,6 @@ source: https://zan.gov.kz/client/#!/doc/163212/rus/07.12.2022
 <td></td>
 <td colspan="2"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
