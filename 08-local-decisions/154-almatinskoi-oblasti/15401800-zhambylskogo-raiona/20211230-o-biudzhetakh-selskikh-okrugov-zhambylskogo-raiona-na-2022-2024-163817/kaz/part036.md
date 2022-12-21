@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163817/kaz/07.12.2022
+source: https://zan.gov.kz/client/#!/doc/163817/kaz/21.12.2022
 ---
 
 > *Жамбыл аудандық мәслихатының 2021 жылғы 30 желтоқсандағы № 15-83 шешіміне 36-қосымша*

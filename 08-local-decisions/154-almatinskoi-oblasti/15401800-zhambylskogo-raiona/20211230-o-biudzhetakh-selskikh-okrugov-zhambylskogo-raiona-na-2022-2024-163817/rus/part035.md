@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163817/rus/07.12.2022
+source: https://zan.gov.kz/client/#!/doc/163817/rus/21.12.2022
 ---
 
 > *Приложение 35 к решению Жамбылского районного маслихата от 30 декабря 2021 года № 15-83*
