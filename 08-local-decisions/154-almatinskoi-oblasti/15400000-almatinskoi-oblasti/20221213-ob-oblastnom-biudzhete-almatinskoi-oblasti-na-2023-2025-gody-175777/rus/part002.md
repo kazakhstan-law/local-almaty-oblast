@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/175777/rus/13.12.2022
+source: https://zan.gov.kz/client/#!/doc/175777/rus/17.01.2023
 ---
 
 > *Приложение 2 к решению маслихата*  
