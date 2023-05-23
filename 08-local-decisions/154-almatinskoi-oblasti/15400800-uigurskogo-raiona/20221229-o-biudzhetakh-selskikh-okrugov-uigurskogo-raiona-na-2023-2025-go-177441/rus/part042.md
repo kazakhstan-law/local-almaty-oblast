@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177441/rus/29.12.2022
+source: https://zan.gov.kz/client/#!/doc/177441/rus/23.05.2023
 ---
 
 > *Приложение 42 к решению Уйгурского районного маслихата от 29 декабря 2022 года № 7-36-165*
