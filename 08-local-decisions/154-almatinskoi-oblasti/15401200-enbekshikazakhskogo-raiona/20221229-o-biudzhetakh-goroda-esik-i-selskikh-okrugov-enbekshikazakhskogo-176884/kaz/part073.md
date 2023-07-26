@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
+source: https://zan.gov.kz/client/#!/doc/176884/kaz/26.07.2023
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2022 жылғы «29» желтоқсандағы № VII-31-149 шешіміне 73-қосымша*
 
 # 2023 жылға арналған Тескенсу ауылдық округінің бюджеті
 
-> *Ескерту. 73-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.05.2023 № VIII-3-15 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 73-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.05.2023 № VIII-3-15 (01.01.2023 бастап қолданысқа енгізіледі); 26.07.2023 № 5-22 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">I. Кірістер</td>
-<td colspan="2">84 508</td>
+<td colspan="2">87 004</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -117,25 +117,46 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="2">150</td>
 </tr>
 <tr>
+<td colspan="2">2</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4">Салықтық емес түсiмдер</td>
+<td colspan="2">500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">06</td>
+<td colspan="2"></td>
+<td colspan="4">Басқа да салықтық емес түсiмдер</td>
+<td colspan="2">500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">Басқа да салықтық емес түсiмдер</td>
+<td colspan="2">500</td>
+</tr>
+<tr>
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">63 451</td>
+<td colspan="2">65 447</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">63 451</td>
+<td colspan="2">65 447</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">63 451</td>
+<td colspan="2">65 447</td>
 </tr>
 </table>
 
@@ -169,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>88 993</td>
+<td>97 489</td>
 </tr>
 <tr>
 <td>01</td>
@@ -177,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>56 430</td>
+<td>56 930</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>56 430</td>
+<td>56 930</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>56 430</td>
+<td>56 930</td>
 </tr>
 <tr>
 <td></td>
@@ -201,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>55 930</td>
+<td>56 430</td>
 </tr>
 <tr>
 <td></td>
@@ -217,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>16 960</td>
+<td>18 956</td>
 </tr>
 <tr>
 <td></td>
@@ -225,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>16 960</td>
+<td>18 956</td>
 </tr>
 <tr>
 <td></td>
@@ -233,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>16 960</td>
+<td>18 956</td>
 </tr>
 <tr>
 <td></td>
@@ -241,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8 767</td>
+<td>10 763</td>
 </tr>
 <tr>
 <td></td>
@@ -1430,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 
 # 2023 жылға арналған Шелек ауылдық округінің бюджеті
 
-> *Ескерту. 76-қосымша жаңа редакцияда - Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.05.2023 № VIII-3-15 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 76-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 22.05.2023 № VIII-3-15 (01.01.2023 бастап қолданысқа енгізіледі); 26.07.2023 № 5-22 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1460,7 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="6">I. Кірістер</td>
-<td colspan="4">358 264</td>
+<td colspan="4">358 764</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -1544,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="6">Салықтық емес түсiмдер</td>
-<td colspan="4">3 450</td>
+<td colspan="4">3 950</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1566,6 +1587,20 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3">10</td>
 <td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ коммуналдық меншігінің мүлкін жалға беруден түсетін кірістер</td>
 <td colspan="4">3 450</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">06</td>
+<td colspan="3"></td>
+<td colspan="6">Басқа да салықтық емес түсiмдер</td>
+<td colspan="4">500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="6">Басқа да салықтық емес түсiмдер</td>
+<td colspan="4">500</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -1620,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">II. Шығындар</td>
-<td colspan="3">361 060</td>
+<td colspan="3">361 560</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1628,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="3">91 491</td>
+<td colspan="3">91 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1636,7 +1671,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td colspan="3">91 491</td>
+<td colspan="3">91 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1644,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="3">91 491</td>
+<td colspan="3">91 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1652,7 +1687,7 @@ source: https://zan.gov.kz/client/#!/doc/176884/kaz/22.05.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="3">88 697</td>
+<td colspan="3">89 197</td>
 </tr>
 <tr>
 <td colspan="2"></td>
