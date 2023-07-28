@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176675/rus/17.05.2023
+source: https://zan.gov.kz/client/#!/doc/176675/rus/28.07.2023
 ---
 
 > *Приложение 3 к решению Талгарского районного маслихата от 26 декабря 2022 года № 38-114*
