@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177441/kaz/23.05.2023
+source: https://zan.gov.kz/client/#!/doc/177441/kaz/07.08.2023
 ---
 
 > *Ұйғыр аудандық мәслихатының 2022 жылғы 29 желтоқсандағы № 7-36-165 шешіміне 42-қосымша*
