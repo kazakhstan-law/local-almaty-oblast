@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177580/rus/26.05.2023
+source: https://zan.gov.kz/client/#!/doc/177580/rus/28.08.2023
 ---
 
 > *Приложение 1 к решению Жамбылского районного маслихата от 04 января 2023 года № 34-163*
