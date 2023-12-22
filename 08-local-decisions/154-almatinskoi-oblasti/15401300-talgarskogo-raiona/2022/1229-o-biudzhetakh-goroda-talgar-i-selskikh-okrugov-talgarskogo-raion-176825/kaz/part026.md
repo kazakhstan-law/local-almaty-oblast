@@ -1376,7 +1376,7 @@
 
 # 2023 жылғы Панфилов ауылдық округінің бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда – Алматы облысы Талғар аудандық мәслихатының 25.05.2023 № 4-21 (01.01.2023 бастап қолданысқа енгізіледі); 10.08.2023 № 8-35 (01.01.2023 бастап қолданысқа енгізіледі); 22.11.2023 № 13-56 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда – Алматы облысы Талғар аудандық мәслихатының 25.05.2023 № 4-21 (01.01.2023 бастап қолданысқа енгізіледі); 10.08.2023 № 8-35 (01.01.2023 бастап қолданысқа енгізіледі); 22.11.2023 № 13-56 (01.01.2023 бастап қолданысқа енгізіледі); 22.12.2023 № 15-60 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1410,35 +1410,35 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">I. Кiрiстер</td>
-<td colspan="2">438342</td>
+<td colspan="2">455690</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="2">326861</td>
+<td colspan="2">344209</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4">Табыс салығы</td>
-<td colspan="2">146864</td>
+<td colspan="2">168734</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="4">Жеке табыс салығы</td>
-<td colspan="2">146864</td>
+<td colspan="2">168734</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="2">179088</td>
+<td colspan="2">174588</td>
 </tr>
 <tr>
 <td></td>
@@ -1459,21 +1459,21 @@
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">158988</td>
+<td colspan="2">154488</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="4">Тауарларға, жұмыстарға және көрсетілетін қызметтерге салынатын iшкi салықтар</td>
-<td colspan="2">909</td>
+<td colspan="2">887</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Кәсiпкерлiк және кәсiби қызметтi жүргiзгені үшiн алынатын алымдар</td>
-<td colspan="2">909</td>
+<td colspan="2">887</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1535,7 +1535,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td colspan="2">389516</td>
+<td colspan="2">504516</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1583,7 +1583,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">202102</td>
+<td colspan="2">206614</td>
 </tr>
 <tr>
 <td></td>
@@ -1591,7 +1591,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">202102</td>
+<td colspan="2">206614</td>
 </tr>
 <tr>
 <td></td>
@@ -1599,7 +1599,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">202102</td>
+<td colspan="2">206614</td>
 </tr>
 <tr>
 <td></td>
@@ -1615,7 +1615,7 @@
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">1945</td>
+<td colspan="2">1929</td>
 </tr>
 <tr>
 <td></td>
@@ -1623,7 +1623,7 @@
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">62031</td>
+<td colspan="2">66559</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1631,7 +1631,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td colspan="2">27000</td>
+<td colspan="2">20988</td>
 </tr>
 <tr>
 <td></td>
@@ -1639,7 +1639,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td colspan="2">27000</td>
+<td colspan="2">20988</td>
 </tr>
 <tr>
 <td></td>
@@ -1647,7 +1647,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">27000</td>
+<td colspan="2">20988</td>
 </tr>
 <tr>
 <td></td>
@@ -1655,7 +1655,7 @@
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">27000</td>
+<td colspan="2">20988</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1695,7 +1695,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td colspan="2">31918</td>
+<td colspan="2">148418</td>
 </tr>
 <tr>
 <td></td>
@@ -1703,7 +1703,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td colspan="2">31918</td>
+<td colspan="2">148418</td>
 </tr>
 <tr>
 <td></td>
@@ -1711,7 +1711,7 @@
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">31918</td>
+<td colspan="2">148418</td>
 </tr>
 <tr>
 <td></td>
@@ -1735,7 +1735,7 @@
 <td colspan="2"></td>
 <td colspan="2">051</td>
 <td colspan="2">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
-<td colspan="2">90000</td>
+<td colspan="2">116500</td>
 </tr>
 <tr>
 <td></td>
@@ -1917,7 +1917,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">48826</td>
+<td colspan="2">-48826</td>
 </tr>
 <tr>
 <td></td>
