@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176980/kaz/09.11.2023
+source: https://zan.gov.kz/client/#!/doc/176980/kaz/22.12.2023
 ---
 
 > *Қарасай аудандық мәслихатының 2022 жылғы 26 желтоқсандағы № 31-3 шешіміне 3-қосымша*
