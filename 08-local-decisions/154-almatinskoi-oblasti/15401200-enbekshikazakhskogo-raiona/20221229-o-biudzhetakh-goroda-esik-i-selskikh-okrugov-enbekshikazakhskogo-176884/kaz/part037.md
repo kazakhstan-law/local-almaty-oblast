@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176884/kaz/17.11.2023
+source: https://zan.gov.kz/client/#!/doc/176884/kaz/25.12.2023
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2022 жылғы «29» желтоқсандағы № VII-31-149 шешіміне 37-қосымша*
