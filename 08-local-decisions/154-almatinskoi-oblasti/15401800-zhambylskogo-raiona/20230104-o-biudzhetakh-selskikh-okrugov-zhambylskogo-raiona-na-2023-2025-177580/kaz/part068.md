@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177580/kaz/16.11.2023
+source: https://zan.gov.kz/client/#!/doc/177580/kaz/25.12.2023
 ---
 
 > *Жамбыл аудандық мәслихатының 2023 жылғы 04 қаңтардағы № 34-163 шешіміне 68-қосымша*
