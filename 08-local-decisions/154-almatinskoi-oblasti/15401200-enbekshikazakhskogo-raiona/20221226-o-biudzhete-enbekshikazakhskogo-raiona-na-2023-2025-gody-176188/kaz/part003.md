@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176188/kaz/13.11.2023
+source: https://zan.gov.kz/client/#!/doc/176188/kaz/26.12.2023
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2021 жылғы «26» желтоқсандағы № VII-30-147 шешіміне 3-қосымша*

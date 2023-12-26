@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176188/rus/13.11.2023
+source: https://zan.gov.kz/client/#!/doc/176188/rus/26.12.2023
 ---
 
 > *Приложение 3 к решению Енбекшиказахского районного маслихата от «26» декабря 2022 года № VII-30-147*
