@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
+source: https://zan.gov.kz/client/#!/doc/192499/kaz/23.04.2024
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2024 жылғы «8» қаңтардағы № VIII-14-72 шешіміне 72-қосымша*
@@ -1683,6 +1683,8 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 
 # 2024 жылға арналған Шелек ауылдық округінің бюджеті
 
+> *Ескерту. 76-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -1878,7 +1880,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Шығындар</td>
-<td>1 006 377</td>
+<td>1 006 378</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1933,7 +1935,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">Елді-мекендерді абаттандыру</td>
+<td colspan="2">Елді-мекендерді көркейту</td>
 <td>59 901</td>
 </tr>
 <tr>
@@ -2006,7 +2008,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферттер</td>
-<td>94 908</td>
+<td>94 909</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2014,7 +2016,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферттер</td>
-<td>94 908</td>
+<td>94 909</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2022,7 +2024,15 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>94 908</td>
+<td>94 909</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>048</td>
+<td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2129,14 +2139,14 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1</td>
 </tr>
 </table>
 
@@ -2184,7 +2194,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <tr>
 <td></td>
 <td></td>
-<td>452</td>
+<td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>0</td>
@@ -2193,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td></td>
-<td>008</td>
+<td>056</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімі аппаратының жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>0</td>
 </tr>

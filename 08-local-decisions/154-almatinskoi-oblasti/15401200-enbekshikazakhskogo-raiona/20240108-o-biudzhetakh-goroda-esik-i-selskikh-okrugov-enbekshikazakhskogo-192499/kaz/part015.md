@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
+source: https://zan.gov.kz/client/#!/doc/192499/kaz/23.04.2024
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2024 жылғы «8» қаңтардағы № VIII-14-72 шешіміне 15-қосымша*
@@ -430,110 +430,112 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 
 # 2024 жылға арналған Бәйтерек ауылдық округінің бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td colspan="10">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="4">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Сыныбы</td>
+<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші сыныбы</td>
+<td></td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Атауы</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">I. Кірістер</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Кірістер</td>
 <td>250 182</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Салықтық түсімдер</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2">Салықтық түсімдер</td>
 <td>250 182</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td colspan="3">Табыс салығы</td>
+<td></td>
+<td>01</td>
+<td></td>
+<td colspan="2">Табыс салығы</td>
 <td>150 275</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">2</td>
-<td colspan="3">Жеке табыс салығы</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2">Жеке табыс салығы</td>
 <td>150 275</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">04</td>
-<td colspan="2"></td>
-<td colspan="3">Меншікке салынатын салықтар</td>
+<td></td>
+<td>04</td>
+<td></td>
+<td colspan="2">Меншікке салынатын салықтар</td>
 <td>97 647</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="3">Мүлікке салынатын салықтар</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Мүлікке салынатын салықтар</td>
 <td>3 853</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td colspan="3">Жер салығы</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Жер салығы</td>
 <td>1 964</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">4</td>
-<td colspan="3">Көлік құралдарына салынатын салық</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Көлік құралдарына салынатын салық</td>
 <td>91 383</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">5</td>
-<td colspan="3">Бірыңғай жер салығы</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td colspan="2">Бірыңғай жер салығы</td>
 <td>447</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">05</td>
-<td colspan="2"></td>
-<td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
+<td></td>
+<td>05</td>
+<td></td>
+<td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>2 260</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td colspan="3">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>229</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">4</td>
-<td colspan="3">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>2 031</td>
 </tr>
 </table>
@@ -568,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>250 182</td>
+<td>250 184</td>
 </tr>
 <tr>
 <td>01</td>
@@ -615,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді абаттандыру</td>
+<td>Елді-мекендерді көркейту</td>
 <td>14 095</td>
 </tr>
 <tr>
@@ -688,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>155 383</td>
+<td>155 385</td>
 </tr>
 <tr>
 <td></td>
@@ -696,7 +698,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>155 383</td>
+<td>155 385</td>
 </tr>
 <tr>
 <td></td>
@@ -704,7 +706,15 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>155 383</td>
+<td>155 385</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -811,14 +821,14 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2</td>
 </tr>
 </table>
 
@@ -1731,6 +1741,8 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 
 # 2024 жылға арналған Бөлек ауылдық округінің бюджеті
 
+> *Ескерту. 19-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Санаты</td>
@@ -1890,7 +1902,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td colspan="2"></td>
 <td>II. Шығындар</td>
-<td colspan="2">83 853</td>
+<td colspan="2">83 858</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1937,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="2">3</td>
 <td></td>
 <td colspan="2"></td>
-<td>Елді-мекендерді абаттандыру</td>
+<td>Елді-мекендерді көркейту</td>
 <td colspan="2">14 212</td>
 </tr>
 <tr>
@@ -2010,7 +2022,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td colspan="2"></td>
 <td>Трансферттер</td>
-<td colspan="2">14 375</td>
+<td colspan="2">14 380</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2018,7 +2030,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td colspan="2"></td>
 <td>Трансферттер</td>
-<td colspan="2">14 375</td>
+<td colspan="2">14 380</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2026,7 +2038,15 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">14 375</td>
+<td colspan="2">14 380</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2133,14 +2153,14 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -3052,6 +3072,8 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 
 # 2024 жылға арналған Бартоғай ауылдық округінің бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -3213,7 +3235,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>65 694</td>
+<td>65 714</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3260,7 +3282,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді абаттандыру</td>
+<td>Елді-мекендерді көркейту</td>
 <td>11 778</td>
 </tr>
 <tr>
@@ -3326,6 +3348,38 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>500</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>20</td>
 </tr>
 </table>
 
@@ -3425,14 +3479,14 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-20</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>20</td>
 </tr>
 </table>
 
@@ -4328,6 +4382,8 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 
 # 2024 жылға арналған Есік қаласының бюджеті
 
+> *Ескерту. 25-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -4468,7 +4524,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>899 609</td>
+<td>995 101</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4515,7 +4571,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді абаттандыру</td>
+<td>Елді-мекендерді көркейту</td>
 <td>475 343</td>
 </tr>
 <tr>
@@ -4588,7 +4644,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>294 249</td>
+<td>389 741</td>
 </tr>
 <tr>
 <td></td>
@@ -4596,7 +4652,7 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>294 249</td>
+<td>389 741</td>
 </tr>
 <tr>
 <td></td>
@@ -4604,7 +4660,15 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>294 249</td>
+<td>389 741</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>95 492</td>
 </tr>
 <tr>
 <td></td>
@@ -4707,14 +4771,14 @@ source: https://zan.gov.kz/client/#!/doc/192499/kaz/08.01.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-95 492</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>95 492</td>
 </tr>
 </table>
 
