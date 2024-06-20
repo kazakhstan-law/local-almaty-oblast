@@ -1,11 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
+source: https://zan.gov.kz/client/#!/doc/192747/rus/20.06.2024
 ---
 
-> *Приложение 1 к решению Балхашского районного маслихата От 18 января 2024 года №16-56 «О бюджетах сельских округов Балхашского района на 2024-2026 годы»*
+> *Приложение 1 к решению Балхашского районного маслихата От 18 января 2024 года №16-56 «О бюджете сельских округов Балхашского района на 2024-2026 года»*
 
 # Бюджет Акдалинского сельского округа на 2024 год
+
+> *Сноска. Приложение 1 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -139,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>51792</td>
+<td>56715</td>
 </tr>
 <tr>
 <td>01</td>
@@ -179,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>12499</td>
+<td>17422</td>
 </tr>
 <tr>
 <td></td>
@@ -187,7 +189,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>12499</td>
+<td>17422</td>
 </tr>
 <tr>
 <td></td>
@@ -195,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>12499</td>
+<td>17422</td>
 </tr>
 <tr>
 <td></td>
@@ -219,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6122</td>
+<td>11045</td>
 </tr>
 </table>
 
@@ -309,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1098,9 +1100,11 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 </tr>
 </table>
 
-> *Приложение 4 к решению Балхашского районного маслихата От 18 января 2024 года №16-56 «О бюджетах сельских округов Балхашского района на 2024-2026 годы»*
+> *Приложение 4 к решению Балхашского районного маслихата От 18 января 2024 года №16-56 «О бюджете сельских округов Балхашского района на 2024-2026 года»*
 
 # Бюджет Акжарского сельского округа на 2024 год
+
+> *Сноска. Приложение 4 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1224,7 +1228,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>50333</td>
+<td>51775</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1264,7 +1268,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>11158</td>
+<td>12600</td>
 </tr>
 <tr>
 <td></td>
@@ -1272,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>11158</td>
+<td>12600</td>
 </tr>
 <tr>
 <td></td>
@@ -1280,7 +1284,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>11158</td>
+<td>12600</td>
 </tr>
 <tr>
 <td></td>
@@ -1304,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6122</td>
+<td>7564</td>
 </tr>
 </table>
 
@@ -1414,42 +1418,42 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">
+<td colspan="17">Функциональная группа</td>
+<td colspan="2" rowspan="5">
 
 Сумма
 (тыс,тенге)
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="3"></td>
+<td colspan="14">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="11">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="8">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Наименование</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Погашение займов</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -2167,99 +2171,101 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 
 # Бюджет Аккольского сельского округа на 2024 год
 
+> *Сноска. Приложение 7 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
-<td colspan="4">Наименование</td>
-<td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="9">Категория</td>
+<td colspan="5">Наименование</td>
+<td colspan="3" rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Класс</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="8">Класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Внутренний класс</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Внутренний класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">І. Доходы</td>
-<td colspan="3">45463</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4">І. Доходы</td>
+<td colspan="4">45463</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Налоговые поступления</td>
-<td colspan="3">3805</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4">Налоговые поступления</td>
+<td colspan="4">3805</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="3">Подоходный налог</td>
-<td colspan="3">353</td>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td colspan="4">Подоходный налог</td>
+<td colspan="4">353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="3">353</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">2</td>
+<td colspan="4">Индивидуальный подоходный налог</td>
+<td colspan="4">353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td colspan="3">Hалоги на собственность</td>
-<td colspan="3">3452</td>
+<td colspan="3"></td>
+<td colspan="3">04</td>
+<td colspan="3"></td>
+<td colspan="4">Hалоги на собственность</td>
+<td colspan="4">3452</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3">Налог на имущество</td>
-<td colspan="3">80</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="4">Налог на имущество</td>
+<td colspan="4">80</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="3">Земельный налог</td>
-<td colspan="3">30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">3</td>
+<td colspan="4">Земельный налог</td>
+<td colspan="4">30</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">4</td>
-<td colspan="3">Налог на транспорт</td>
-<td colspan="3">3342</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">4</td>
+<td colspan="4">Налог на транспорт</td>
+<td colspan="4">3342</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Поступления трансфертов</td>
-<td colspan="3">41658</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4">Поступления трансфертов</td>
+<td colspan="4">41658</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">02</td>
-<td colspan="2"></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="3">41658</td>
+<td colspan="3"></td>
+<td colspan="3">02</td>
+<td colspan="3"></td>
+<td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="4">41658</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="3">Трансферты из областного бюджета</td>
-<td colspan="3">41658</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">3</td>
+<td colspan="4">Трансферты из областного бюджета</td>
+<td colspan="4">41658</td>
 </tr>
 </table>
 
@@ -2296,7 +2302,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>45463</td>
+<td>46051</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2336,7 +2342,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9600</td>
+<td>10188</td>
 </tr>
 <tr>
 <td></td>
@@ -2344,7 +2350,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>9600</td>
+<td>10188</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,7 +2358,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>9600</td>
+<td>10188</td>
 </tr>
 <tr>
 <td></td>
@@ -2376,7 +2382,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6122</td>
+<td>6710</td>
 </tr>
 </table>
 
@@ -2466,7 +2472,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3253,6 +3259,8 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 
 # Бюджет Баканасского сельского округа на 2024 год
 
+> *Сноска. Приложение 10 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -3382,7 +3390,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>166153</td>
+<td>180058</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3422,7 +3430,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>86135</td>
+<td>100040</td>
 </tr>
 <tr>
 <td></td>
@@ -3430,7 +3438,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>86135</td>
+<td>100040</td>
 </tr>
 <tr>
 <td></td>
@@ -3438,7 +3446,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>86135</td>
+<td>100040</td>
 </tr>
 <tr>
 <td></td>
@@ -3462,7 +3470,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>54431</td>
+<td>68336</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4435,6 +4443,8 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 
 # Бюджет Бакбактинского сельского округа на 2024 год
 
+> *Сноска. Приложение 13 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -4562,7 +4572,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>75500</td>
+<td>79448</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4570,7 +4580,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>51902</td>
+<td>52317</td>
 </tr>
 <tr>
 <td></td>
@@ -4578,7 +4588,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>51902</td>
+<td>52317</td>
 </tr>
 <tr>
 <td></td>
@@ -4586,7 +4596,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>51902</td>
+<td>52317</td>
 </tr>
 <tr>
 <td></td>
@@ -4594,7 +4604,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>51902</td>
+<td>52317</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4602,7 +4612,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>14598</td>
+<td>18131</td>
 </tr>
 <tr>
 <td></td>
@@ -4610,7 +4620,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>14598</td>
+<td>18131</td>
 </tr>
 <tr>
 <td></td>
@@ -4618,7 +4628,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>14598</td>
+<td>18131</td>
 </tr>
 <tr>
 <td></td>
@@ -4642,7 +4652,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6122</td>
+<td>9655</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4764,14 +4774,14 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-1251</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>1251</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5611,6 +5621,8 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 
 # Бюджет Балатопарского сельского округа на 2024 год
 
+> *Сноска. Приложение 16 в редакции решения Балхашского районного маслихата Алматинской области от 20.06.2024 № 22-858 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -5738,7 +5750,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>42136</td>
+<td>42700</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5778,7 +5790,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5823</td>
+<td>6387</td>
 </tr>
 <tr>
 <td></td>
@@ -5786,7 +5798,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5823</td>
+<td>6387</td>
 </tr>
 <tr>
 <td></td>
@@ -5794,7 +5806,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>5823</td>
+<td>6387</td>
 </tr>
 <tr>
 <td></td>
@@ -5818,7 +5830,7 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1107</td>
+<td>1671</td>
 </tr>
 </table>
 
@@ -5908,14 +5920,14 @@ source: https://zan.gov.kz/client/#!/doc/192747/rus/18.01.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-1006</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>1006</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
