@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/164479/rus/17.01.2023
+source: https://zan.gov.kz/client/#!/doc/164479/rus/17.07.2024
 ---
 
 # Об утверждении регламента Райымбекского районного маслихата
