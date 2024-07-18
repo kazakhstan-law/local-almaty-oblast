@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191835/kaz/22.05.2024
+source: https://zan.gov.kz/client/#!/doc/191835/kaz/18.07.2024
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2023 жылғы «27» желтоқсандағы № VIII-13-58 шешіміне қосымша*
