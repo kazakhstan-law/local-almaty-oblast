@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192245/kaz/24.05.2024
+source: https://zan.gov.kz/client/#!/doc/192245/kaz/19.07.2024
 ---
 
 > *Қонаев қаласы мәслихатының 2023 жылғы 29 желтоқсандағы № 17-51 шешіміне 3-қосымша*
