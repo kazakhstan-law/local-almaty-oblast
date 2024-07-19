@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192247/rus/22.05.2024
+source: https://zan.gov.kz/client/#!/doc/192247/rus/19.07.2024
 ---
 
 # Районный бюджет на 2025 год
