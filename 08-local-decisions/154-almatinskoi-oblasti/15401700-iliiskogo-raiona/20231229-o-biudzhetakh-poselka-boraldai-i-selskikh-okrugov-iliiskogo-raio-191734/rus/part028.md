@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191734/rus/30.05.2024
+source: https://zan.gov.kz/client/#!/doc/191734/rus/23.07.2024
 ---
 
 > *Приложение 28 к решению Илийского районного маслихата от 29 декабря 2023 года № 18-50*

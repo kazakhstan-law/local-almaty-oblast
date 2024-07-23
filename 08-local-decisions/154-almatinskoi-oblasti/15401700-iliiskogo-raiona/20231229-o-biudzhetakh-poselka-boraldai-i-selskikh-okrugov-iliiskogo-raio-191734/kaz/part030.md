@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191734/kaz/30.05.2024
+source: https://zan.gov.kz/client/#!/doc/191734/kaz/23.07.2024
 ---
 
 > *Іле аудандық мәслихатының 2023 жылғы 29 желтоқсандағы № 18-50 шешіміне 30-қосымша*
