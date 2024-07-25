@@ -1318,7 +1318,7 @@
 
 # 2024 жылға арналған Шелек ауылдық округінің бюджеті
 
-> *Ескерту. 73-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі); 28.05.2024 № VIII-23-113 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 76-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 23.04.2024 № VIII-21-109 (01.01.2024 бастап қолданысқа енгізіледі); 28.05.2024 № VIII-23-113 (01.01.2024 бастап қолданысқа енгізіледі); 25.07.2024 № VIII-26-126 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1348,35 +1348,35 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td colspan="2">978 032</td>
+<td colspan="2">998 032</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="2">273 400</td>
+<td colspan="2">296 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td colspan="2">114 355</td>
+<td colspan="2">134 355</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td colspan="2">114 355</td>
+<td colspan="2">134 355</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="2">156 245</td>
+<td colspan="2">158 954</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1397,7 +1397,7 @@
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="2">149 630</td>
+<td colspan="2">152 339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1411,7 +1411,7 @@
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="2">2 800</td>
+<td colspan="2">2 691</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1425,14 +1425,14 @@
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td colspan="2">1 700</td>
+<td colspan="2">1 591</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық емес түсiмдер</td>
-<td colspan="2">6 050</td>
+<td colspan="2">3 450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1447,20 +1447,6 @@
 <td colspan="2">5</td>
 <td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td colspan="2">3 450</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">06</td>
-<td colspan="2"></td>
-<td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2 600</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2 600</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -1515,7 +1501,7 @@
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Шығындар</td>
-<td>1 016 610</td>
+<td>1 036 610</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1651,7 +1637,7 @@
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферттер</td>
-<td>94 909</td>
+<td>114 909</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1659,7 +1645,7 @@
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферттер</td>
-<td>94 909</td>
+<td>114 909</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1667,7 +1653,7 @@
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>94 909</td>
+<td>114 909</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1683,7 +1669,7 @@
 <td colspan="2"></td>
 <td>051</td>
 <td colspan="2">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
-<td>94 908</td>
+<td>114 908</td>
 </tr>
 </table>
 
