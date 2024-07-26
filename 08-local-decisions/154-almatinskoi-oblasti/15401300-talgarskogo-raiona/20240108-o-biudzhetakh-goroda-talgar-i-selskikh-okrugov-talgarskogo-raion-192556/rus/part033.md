@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192556/rus/24.05.2024
+source: https://zan.gov.kz/client/#!/doc/192556/rus/26.07.2024
 ---
 
 > *Приложение 33 к решению Талгарского районного маслихата от 8 января 2024 года № 17-67*
