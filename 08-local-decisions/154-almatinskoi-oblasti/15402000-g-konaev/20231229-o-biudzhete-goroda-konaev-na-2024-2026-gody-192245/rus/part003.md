@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192245/rus/19.07.2024
+source: https://zan.gov.kz/client/#!/doc/192245/rus/24.10.2024
 ---
 
 > *Приложение 3 к решению маслихата города Қонаев от 29 декабря 2023 года № 17-51*
