@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192556/kaz/26.07.2024
+source: https://zan.gov.kz/client/#!/doc/192556/kaz/28.10.2024
 ---
 
 > *Талғар аудандық мәслихатының 2024 жылғы 8 қаңтардағы № 17-67 шешіміне 333-қосымша*
