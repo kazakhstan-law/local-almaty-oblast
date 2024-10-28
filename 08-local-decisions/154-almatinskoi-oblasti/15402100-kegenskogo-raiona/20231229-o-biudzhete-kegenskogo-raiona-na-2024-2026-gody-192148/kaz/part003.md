@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192148/kaz/18.07.2024
+source: https://zan.gov.kz/client/#!/doc/192148/kaz/28.10.2024
 ---
 
 > *Кеген аудандық мәслихатының 2023 жылғы 29 желтоқсандағы № 15-72 шешіміне 3-қосымша*
