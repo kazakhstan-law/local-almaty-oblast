@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192959/rus/07.06.2024
+source: https://zan.gov.kz/client/#!/doc/192959/rus/29.10.2024
 ---
 
 > *Приложение 41 к решению Уйгурского районного маслихата от 09 января 2024 года № 8-16-85*
