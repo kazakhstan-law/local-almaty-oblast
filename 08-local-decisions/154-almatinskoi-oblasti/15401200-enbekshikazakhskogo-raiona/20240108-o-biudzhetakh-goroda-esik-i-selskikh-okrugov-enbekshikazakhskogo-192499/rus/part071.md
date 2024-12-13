@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192499/rus/28.10.2024
+source: https://zan.gov.kz/client/#!/doc/192499/rus/13.12.2024
 ---
 
 > *Приложение 71 к решению Енбекшиказахского районного маслихата от «8» января 2024 года № VIII-14-72*

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192499/kaz/28.10.2024
+source: https://zan.gov.kz/client/#!/doc/192499/kaz/13.12.2024
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2024 жылғы «8» қаңтардағы № VIII-14-72 шешіміне 68-қосымша*
