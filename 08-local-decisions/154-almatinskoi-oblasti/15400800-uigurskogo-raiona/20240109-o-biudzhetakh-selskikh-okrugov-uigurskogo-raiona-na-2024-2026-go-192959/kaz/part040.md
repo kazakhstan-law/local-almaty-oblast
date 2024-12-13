@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192959/kaz/29.10.2024
+source: https://zan.gov.kz/client/#!/doc/192959/kaz/13.12.2024
 ---
 
 > *Ұйғыр аудандық мәслихатының 2024 жылғы 09 қаңтардағы № 8-16-85 шешіміне 40-қосымша*
