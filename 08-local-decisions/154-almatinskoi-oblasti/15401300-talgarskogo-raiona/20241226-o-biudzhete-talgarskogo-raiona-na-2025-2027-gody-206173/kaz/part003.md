@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206173/kaz/26.12.2024
+source: https://zan.gov.kz/client/#!/doc/206173/kaz/13.03.2025
 ---
 
 > *Талғар аудандық мәслихатының 2024 жылғы 26 желтоқсандағы № 35-128 шешіміне 3 қосымша*
