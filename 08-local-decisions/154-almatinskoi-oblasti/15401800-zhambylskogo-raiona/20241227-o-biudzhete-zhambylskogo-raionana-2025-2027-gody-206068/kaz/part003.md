@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206068/kaz/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/206068/kaz/14.03.2025
 ---
 
 > *Жамбыл аудандық мәслихатының 2024 жылғы 27 желтоқсандағы № 27-136 шешіміне 3-қосымша*
