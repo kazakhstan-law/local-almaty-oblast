@@ -1,11 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/205432/rus/18.03.2025
 ---
 
 > *Приложение 19 к решению Илийского районного маслихата от 27 декабря 2024 года № 38-128*
 
 # Бюджет Аксайского сельского округа на 2025 год
+
+> *Сноска. Приложение 19 в редакции решения Илийского районного маслихата Алматинской области от 18 .03.2025 № 42-142 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -31,7 +33,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">І. Доходы</td>
-<td colspan="2">506 186</td>
+<td colspan="2">530 356</td>
 </tr>
 <tr>
 <td>1</td>
@@ -126,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Поступление трансфертов</td>
-<td colspan="2">13 441</td>
+<td colspan="2">37 611</td>
 </tr>
 <tr>
 <td></td>
@@ -134,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">13 441</td>
+<td colspan="2">37 611</td>
 </tr>
 <tr>
 <td></td>
@@ -142,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">13 441</td>
+<td colspan="2">37 611</td>
 </tr>
 </table>
 
@@ -175,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>506 186</td>
+<td>531 186</td>
 </tr>
 <tr>
 <td>01</td>
@@ -220,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно - коммунальное хозяйство</td>
-<td>40 290</td>
+<td>65 290</td>
 </tr>
 <tr>
 <td></td>
@@ -229,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>40 290</td>
+<td>65 290</td>
 </tr>
 <tr>
 <td></td>
@@ -238,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>40 290</td>
+<td>65 290</td>
 </tr>
 <tr>
 <td></td>
@@ -265,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>14 778</td>
+<td>39 778</td>
 </tr>
 <tr>
 <td>08</td>
@@ -599,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>- 0</td>
+<td>- 830</td>
 </tr>
 <tr>
 <td></td>
@@ -607,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>830</td>
 </tr>
 <tr>
 <td>8</td>
@@ -615,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>830</td>
 </tr>
 <tr>
 <td></td>
@@ -623,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>830</td>
 </tr>
 <tr>
 <td></td>
@@ -631,17 +633,17 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>830</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="10">Функциональная группа</td>
+<td colspan="11">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
+<td colspan="3" rowspan="4"></td>
 <td colspan="8">Функциональная подгруппа</td>
 </tr>
 <tr>
@@ -658,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
+<td colspan="3">16</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
@@ -667,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
@@ -676,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
@@ -685,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">054</td>
@@ -2029,6 +2031,8 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 
 # Бюджет сельского округа Байкент на 2025 год
 
+> *Сноска. Приложение 22 в редакции решения Илийского районного маслихата Алматинской области от 18 .03.2025 № 42-142 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="11">Категория</td>
@@ -2053,7 +2057,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">І. Доходы</td>
-<td colspan="2">224 795</td>
+<td colspan="2">229 440</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2142,6 +2146,27 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td colspan="4">Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td colspan="2">624</td>
 </tr>
+<tr>
+<td>4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4">Поступление трансфертов</td>
+<td colspan="2">4 645</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">4 645</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">3</td>
+<td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
+<td colspan="2">4 645</td>
+</tr>
 </table>
 
 <table>
@@ -2173,7 +2198,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>224 795</td>
+<td>231 295</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2308,7 +2333,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>15 000</td>
+<td>21 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2317,7 +2342,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>15 000</td>
+<td>21 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2326,7 +2351,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15 000</td>
+<td>21 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2335,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>013</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>15 000</td>
+<td>21 500</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2553,7 +2578,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>- 0</td>
+<td>- 1 855</td>
 </tr>
 <tr>
 <td></td>
@@ -2561,7 +2586,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 855</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2569,7 +2594,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 855</td>
 </tr>
 <tr>
 <td></td>
@@ -2577,7 +2602,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 855</td>
 </tr>
 <tr>
 <td></td>
@@ -2585,7 +2610,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 885</td>
 </tr>
 </table>
 
@@ -3957,6 +3982,8 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 
 # Бюджет сельского округа Отеген батыр на 2025 год
 
+> *Сноска. Приложение 25 в редакции решения Илийского районного маслихата Алматинской области от 18 .03.2025 № 42-142 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -4125,7 +4152,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>1 588 289</td>
+<td>1 593 747</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4178,7 +4205,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно - коммунальное хозяйство</td>
-<td>191 000</td>
+<td>194 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4187,7 +4214,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>191 000</td>
+<td>194 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4196,7 +4223,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>191 000</td>
+<td>194 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4214,7 +4241,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>009</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>25 000</td>
+<td>28 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4331,7 +4358,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>1 261 720</td>
+<td>1 264 178</td>
 </tr>
 <tr>
 <td></td>
@@ -4340,7 +4367,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>1 261 720</td>
+<td>1 264 178</td>
 </tr>
 <tr>
 <td></td>
@@ -4349,7 +4376,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 261 720</td>
+<td>1 264 178</td>
 </tr>
 <tr>
 <td></td>
@@ -4367,7 +4394,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>051</td>
 <td></td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на возмещение затрат вышестоящего бюджета в связи с изменением законодательства</td>
-<td>881 720</td>
+<td>884 178</td>
 </tr>
 <tr>
 <td></td>
@@ -4549,7 +4576,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>- 0</td>
+<td>- 5 458</td>
 </tr>
 <tr>
 <td></td>
@@ -4557,7 +4584,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>5 458</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4565,7 +4592,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>5 458</td>
 </tr>
 <tr>
 <td></td>
@@ -4573,7 +4600,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>5 458</td>
 </tr>
 <tr>
 <td></td>
@@ -4581,7 +4608,7 @@ source: https://zan.gov.kz/client/#!/doc/205432/rus/27.12.2024
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>5 458</td>
 </tr>
 </table>
 
