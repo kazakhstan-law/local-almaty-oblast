@@ -835,130 +835,130 @@
 
 <table>
 <tr>
-<td colspan="14">
+<td colspan="8">
 <strong>2025 жылға арналған Масақ ауылдық округінің бюджеті</strong>
-Ескерту. 55-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 06.03.2025 № 40-184 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.
+Ескерту. 55-қосымша жаңа редакцияда – Алматы облысы Еңбекшіқазақ аудандық мәслихатының 06.03.2025 № 40-184 (01.01.2025 бастап қолданысқа енгізіледі); 20.03.2025 № 42-196 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.
 </td>
 </tr>
 <tr>
-<td colspan="11">Санаты</td>
-<td colspan="3" rowspan="4">
+<td colspan="6">Санаты</td>
+<td colspan="2" rowspan="4">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="9">Сыныбы</td>
+<td></td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="5">Кіші сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">Атауы</td>
+<td></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">I. Кірістер</td>
-<td colspan="3">184 077</td>
+<td></td>
+<td colspan="2">I. Кірістер</td>
+<td colspan="2">184 077</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="4"></td>
+<td>1</td>
 <td colspan="2"></td>
-<td colspan="3">Салықтық түсімдер</td>
-<td colspan="3">184 045</td>
+<td></td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="2">184 045</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4">01</td>
-<td colspan="2"></td>
-<td colspan="3">Табыс салығы</td>
-<td colspan="3">163 517</td>
+<td></td>
+<td colspan="2">01</td>
+<td></td>
+<td colspan="2">Табыс салығы</td>
+<td colspan="2">163 517</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">2</td>
-<td colspan="3">Жеке табыс салығы</td>
-<td colspan="3">163 517</td>
+<td>2</td>
+<td colspan="2">Жеке табыс салығы</td>
+<td colspan="2">163 517</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4">04</td>
-<td colspan="2"></td>
-<td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="3">20 097</td>
+<td></td>
+<td colspan="2">04</td>
+<td></td>
+<td colspan="2">Меншікке салынатын салықтар</td>
+<td colspan="2">20 097</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">1</td>
-<td colspan="3">Мүлікке салынатын салықтар</td>
-<td colspan="3">277</td>
+<td>1</td>
+<td colspan="2">Мүлікке салынатын салықтар</td>
+<td colspan="2">277</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">3</td>
-<td colspan="3">Жер салығы</td>
-<td colspan="3">141</td>
+<td>3</td>
+<td colspan="2">Жер салығы</td>
+<td colspan="2">141</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">4</td>
-<td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="3">18 799</td>
+<td>4</td>
+<td colspan="2">Көлік құралдарына салынатын салық</td>
+<td colspan="2">18 799</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">5</td>
-<td colspan="3">Бірыңғай жер салығы</td>
-<td colspan="3">880</td>
+<td>5</td>
+<td colspan="2">Бірыңғай жер салығы</td>
+<td colspan="2">880</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4">05</td>
-<td colspan="2"></td>
-<td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="3">431</td>
+<td></td>
+<td colspan="2">05</td>
+<td></td>
+<td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
+<td colspan="2">431</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">3</td>
-<td colspan="3">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td colspan="3">431</td>
+<td>3</td>
+<td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
+<td colspan="2">431</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="4"></td>
+<td>4</td>
 <td colspan="2"></td>
-<td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="3">32</td>
+<td></td>
+<td colspan="2">Трансферттердің түсімдері</td>
+<td colspan="2">32</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4">02</td>
-<td colspan="2"></td>
-<td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="3">32</td>
+<td></td>
+<td colspan="2">02</td>
+<td></td>
+<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td colspan="2">32</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">3</td>
-<td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="3">32</td>
+<td>3</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="2">32</td>
 </tr>
 </table>
 
@@ -992,7 +992,7 @@
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>184 081</td>
+<td>194 881</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1000,7 +1000,7 @@
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>54 523</td>
+<td>65 323</td>
 </tr>
 <tr>
 <td></td>
@@ -1008,7 +1008,7 @@
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>54 523</td>
+<td>65 323</td>
 </tr>
 <tr>
 <td></td>
@@ -1016,7 +1016,7 @@
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>54 523</td>
+<td>65 323</td>
 </tr>
 <tr>
 <td></td>
@@ -1024,7 +1024,15 @@
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>54 523</td>
+<td>60 023</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Мемлекеттік органның күрделі шығыстар</td>
+<td>5 300</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1251,35 +1259,35 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">V. Бюджет тапшылығы (профициті)</td>
-<td>-4</td>
+<td>-10 804</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>4</td>
+<td>10 804</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>4</td>
+<td>10 804</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3">Бюджет қаражаты қалдықтары</td>
-<td>4</td>
+<td>10 804</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td colspan="3">Бюджет қаражатының бос қалдықтары</td>
-<td>4</td>
+<td>10 804</td>
 </tr>
 </table>
 
