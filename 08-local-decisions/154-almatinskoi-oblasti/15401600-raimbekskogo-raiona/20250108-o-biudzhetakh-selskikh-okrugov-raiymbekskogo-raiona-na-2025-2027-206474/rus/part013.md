@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206474/rus/08.01.2025
+source: https://zan.gov.kz/client/#!/doc/206474/rus/24.06.2025
 ---
 
 > *Приложение 13 к решению Райымбекского районного маслихата от 08 января 2025 года № 37-200*
