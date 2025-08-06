@@ -10,8 +10,10 @@ approved_on: 2025-01-08
 approved_by:
 - '154014000002'
 version_date:
-  kaz: 2025-01-08
-  rus: 2025-01-08
+  kaz: 2025-08-06
+  rus: 2025-08-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/206684/kaz/08.01.2025
-  rus: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
+  kaz: https://zan.gov.kz/client/#!/doc/206684/kaz/06.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/206684/rus/06.08.2025
+caused_by:
+  code: '213272'
