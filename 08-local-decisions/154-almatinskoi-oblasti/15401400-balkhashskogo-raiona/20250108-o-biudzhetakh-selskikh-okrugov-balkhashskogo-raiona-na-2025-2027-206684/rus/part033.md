@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
+source: https://zan.gov.kz/client/#!/doc/206684/rus/06.08.2025
 ---
 
 > *Приложение 33 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов Балхашского района на 2025-2027 года»*
@@ -416,9 +416,11 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 </table>
 
-> *Приложение 34 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов Балхашского района на 2025-2027 года»*
+> *Приложение 34 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов*
 
 # Бюджет Коктальского сельского округа на 2025 год
+
+> *Сноска. Приложение 34 в редакции решения Балхашского районного маслихата Алматинской области от 06.08.2025 № 40-143 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -568,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>41717</td>
+<td>41895</td>
 </tr>
 <tr>
 <td>01</td>
@@ -608,7 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4458</td>
+<td>4636</td>
 </tr>
 <tr>
 <td></td>
@@ -616,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>4458</td>
+<td>4636</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4458</td>
+<td>4636</td>
 </tr>
 <tr>
 <td></td>
@@ -648,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1180</td>
+<td>1358</td>
 </tr>
 </table>
 
@@ -738,14 +740,14 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-0</td>
+<td>-178</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>178</td>
 </tr>
 <tr>
 <td></td>
@@ -758,42 +760,42 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 
 <table>
 <tr>
-<td colspan="15">Функциональная группа</td>
-<td colspan="2" rowspan="5">
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">
 
 Сумма
 (тыс,тенге)
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="13">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="9">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="7">Программа</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Наименование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Погашение займов</td>
-<td colspan="2">0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -1559,9 +1561,11 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 </table>
 
-> *Приложение 37 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов Балхашского района на 2025-2027 года»*
+> *Приложение 37 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов*
 
 # Бюджет Куйганского сельского округа на 2025 год
+
+> *Сноска. Приложение 37 в редакции решения Балхашского районного маслихата Алматинской области от 06.08.2025 № 40-143 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -1711,7 +1715,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>38119</td>
+<td>38260</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1751,7 +1755,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4618</td>
+<td>4759</td>
 </tr>
 <tr>
 <td></td>
@@ -1759,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>4618</td>
+<td>4759</td>
 </tr>
 <tr>
 <td></td>
@@ -1767,7 +1771,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4618</td>
+<td>4759</td>
 </tr>
 <tr>
 <td></td>
@@ -1791,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1180</td>
+<td>1321</td>
 </tr>
 </table>
 
@@ -1881,14 +1885,14 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-0</td>
+<td>-141</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>141</td>
 </tr>
 <tr>
 <td></td>
@@ -1901,7 +1905,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 
 <table>
 <tr>
-<td colspan="11">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 
 Сумма
@@ -1909,33 +1913,33 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="9">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="7">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Программа</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Наименование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Погашение займов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
 <td>0</td>
 </tr>
 </table>
@@ -2702,31 +2706,29 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 </table>
 
-> *Приложение 40 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов Балхашского района на 2025-2027 года»*
+> *Приложение 40 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов*
 
 # Бюджет Миялинского сельского округа на 2025 год
 
+> *Сноска. Приложение 40 в редакции решения Балхашского районного маслихата Алматинской области от 06.08.2025 № 40-143 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
-<td colspan="2"></td>
 <td colspan="6">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="5">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2">Подкласс</td>
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="3">І. Доходы</td>
@@ -2734,7 +2736,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
@@ -2742,7 +2743,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td colspan="3">Подоходный налог</td>
@@ -2750,7 +2750,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
@@ -2758,7 +2757,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td>04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
@@ -2766,7 +2764,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="3">Налог на имущество</td>
@@ -2774,7 +2771,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Земельный налог</td>
@@ -2782,7 +2778,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>4</td>
 <td colspan="3">Налог на транспорт</td>
@@ -2790,7 +2785,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>5</td>
 <td colspan="3">Единый земельный налог</td>
@@ -2798,7 +2792,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td>05</td>
 <td></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
@@ -2806,7 +2799,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
@@ -2814,7 +2806,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
@@ -2822,7 +2813,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
@@ -2830,7 +2820,6 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
@@ -2871,7 +2860,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>44588</td>
+<td>47165</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2911,7 +2900,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4618</td>
+<td>7195</td>
 </tr>
 <tr>
 <td></td>
@@ -2919,7 +2908,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>4618</td>
+<td>7195</td>
 </tr>
 <tr>
 <td></td>
@@ -2927,7 +2916,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4618</td>
+<td>7195</td>
 </tr>
 <tr>
 <td></td>
@@ -2951,7 +2940,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1180</td>
+<td>3757</td>
 </tr>
 </table>
 
@@ -3041,14 +3030,14 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-2577</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2577</td>
 </tr>
 <tr>
 <td></td>
@@ -3896,9 +3885,11 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </tr>
 </table>
 
-> *Приложение 43 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов Балхашского района на 2025-2027 года»*
+> *Приложение 43 к решению Балхашского районного маслихата От 08 января 2025 года №33-126 «О бюджете сельских округов*
 
 # Бюджет Топарского сельского округа на 2025 год
+
+> *Сноска. Приложение 43 в редакции решения Балхашского районного маслихата Алматинской области от 06.08.2025 № 40-143 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -4048,7 +4039,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>44568</td>
+<td>45200</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4129,6 +4120,14 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>1180</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>100</td>
 </tr>
 </table>
 
@@ -4218,14 +4217,14 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-632</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>632</td>
 </tr>
 <tr>
 <td></td>
@@ -4238,7 +4237,7 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 
 <table>
 <tr>
-<td colspan="11">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 
 Сумма
@@ -4246,33 +4245,33 @@ source: https://zan.gov.kz/client/#!/doc/206684/rus/08.01.2025
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="9">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="7">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Программа</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Наименование</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Погашение займов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
 <td>0</td>
 </tr>
 </table>
