@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206774/rus/23.06.2025
+source: https://zan.gov.kz/client/#!/doc/206774/rus/14.08.2025
 ---
 
 > *Приложение 31 к решению Жамбылского районного маслихата от января 2025 года № 28-140*
