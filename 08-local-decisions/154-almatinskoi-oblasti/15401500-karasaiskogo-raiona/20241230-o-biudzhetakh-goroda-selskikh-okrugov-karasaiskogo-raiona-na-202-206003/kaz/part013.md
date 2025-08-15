@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206003/kaz/19.06.2025
+source: https://zan.gov.kz/client/#!/doc/206003/kaz/15.08.2025
 ---
 
 > *Қарасай аудандық мәслихатының 2024 жылғы 30 желтоқсандағы № 30-3 шешіміне 13-қосымша*
