@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205157/rus/24.10.2025
+source: https://zan.gov.kz/client/#!/doc/205157/rus/17.12.2025
 ---
 
 > *Приложение 3 к решению Енбекшиказахского районного маслихата от «26» декабря 2024 года № VIII-35-161*
