@@ -1,18 +1,18 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
+source: https://zan.gov.kz/client/#!/doc/206465/rus/17.12.2025
 ---
 
 > *Приложение 19 к решению Талгарского районного маслихата от 31 декабря 2024 года № 36-134*
 
 # Бюджет Кендалинского сельского округа на 2025 год
 
-> *Сноска. Приложение 19 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174(вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 19 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174 (вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025); от 17.12.2025 № 51-207 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -34,112 +34,112 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>3</td>
 <td></td>
 <td>4</td>
-<td>5</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">I. Доходы</td>
-<td>583 294</td>
+<td colspan="2">593 736</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступление</td>
-<td>559 181</td>
+<td colspan="2">569 623</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>396 636</td>
+<td colspan="2">406 636</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>396 636</td>
+<td colspan="2">406 636</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>129 857</td>
+<td colspan="2">130 161</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>4 762</td>
+<td colspan="2">4 962</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td>4 621</td>
+<td colspan="2">4 340</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>119 833</td>
+<td colspan="2">120 633</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>641</td>
+<td colspan="2">226</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>32 688</td>
+<td colspan="2">32 826</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>32 652</td>
+<td colspan="2">32 818</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>36</td>
+<td colspan="2">8</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>24 113</td>
+<td colspan="2">24 113</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>24 113</td>
+<td colspan="2">24 113</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>24 113</td>
+<td colspan="2">24 113</td>
 </tr>
 <tr>
 <td></td>
@@ -147,11 +147,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>584 267</td>
+<td colspan="2">594 709</td>
 </tr>
 <tr>
 <td>01</td>
@@ -188,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>77 090</td>
+<td colspan="2">85 026</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>77 090</td>
+<td colspan="2">85 026</td>
 </tr>
 <tr>
 <td></td>
@@ -204,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>77 090</td>
+<td colspan="2">85 026</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>66 390</td>
+<td colspan="2">74 330</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>10 700</td>
+<td colspan="2">10 696</td>
 </tr>
 <tr>
 <td>07</td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>112 990</td>
+<td colspan="2">110 060</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>112 990</td>
+<td colspan="2">110 060</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>112 990</td>
+<td colspan="2">110 060</td>
 </tr>
 <tr>
 <td></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>57 755</td>
+<td colspan="2">55 351</td>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>6 711</td>
+<td colspan="2">6 711</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>48 524</td>
+<td colspan="2">47 998</td>
 </tr>
 <tr>
 <td>12</td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>27 981</td>
+<td colspan="2">27 981</td>
 </tr>
 <tr>
 <td></td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>27 981</td>
+<td colspan="2">27 981</td>
 </tr>
 <tr>
 <td></td>
@@ -292,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>27 981</td>
+<td colspan="2">27 981</td>
 </tr>
 <tr>
 <td></td>
@@ -300,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>17 981</td>
+<td colspan="2">17 981</td>
 </tr>
 <tr>
 <td></td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>10 000</td>
+<td colspan="2">10 000</td>
 </tr>
 <tr>
 <td>13</td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>9 006</td>
+<td colspan="2">9 000</td>
 </tr>
 <tr>
 <td></td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>9 006</td>
+<td colspan="2">9 000</td>
 </tr>
 <tr>
 <td></td>
@@ -332,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 006</td>
+<td colspan="2">9 000</td>
 </tr>
 <tr>
 <td></td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Государственной программы развития регионов до 2025 года</td>
-<td>9 006</td>
+<td colspan="2">9 000</td>
 </tr>
 <tr>
 <td>15</td>
@@ -348,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>357 200</td>
+<td colspan="2">362 642</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>357 200</td>
+<td colspan="2">362 642</td>
 </tr>
 <tr>
 <td></td>
@@ -364,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>357 200</td>
+<td colspan="2">362 642</td>
 </tr>
 <tr>
 <td></td>
@@ -372,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>043</td>
 <td>Бюджетные изъятия</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -380,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>048</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>1</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
 <td></td>
@@ -388,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>051</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>357 199</td>
+<td colspan="2">362 641</td>
 </tr>
 <tr>
 <td></td>
@@ -396,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -404,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -412,11 +412,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -438,7 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -446,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -454,7 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -462,7 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -470,11 +470,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -503,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -511,11 +511,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -535,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>6</td>
 <td></td>
 <td colspan="3">Поступления от продажи финансовых активов государства</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -543,11 +543,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -569,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-973</td>
+<td colspan="2">-973</td>
 </tr>
 <tr>
 <td></td>
@@ -577,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использования профицита) бюджета</td>
-<td>973</td>
+<td colspan="2">973</td>
 </tr>
 <tr>
 <td>7</td>
@@ -585,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -593,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -601,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>2</td>
 <td></td>
 <td>Договоры займа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -609,11 +609,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -635,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>973</td>
+<td colspan="2">973</td>
 </tr>
 <tr>
 <td></td>
@@ -643,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>973</td>
+<td colspan="2">973</td>
 </tr>
 <tr>
 <td></td>
@@ -651,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>973</td>
+<td colspan="2">973</td>
 </tr>
 <tr>
 <td></td>
@@ -659,11 +659,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -692,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -700,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -708,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -716,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -724,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>056</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -2162,12 +2162,12 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 
 # Бюджет Кайнарского сельского округа на 2025 год
 
-> *Сноска. Приложение 22 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174(вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 22 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174 (вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025); от 17.12.2025 № 51-207 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2189,133 +2189,133 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>3</td>
 <td></td>
 <td>4</td>
-<td>5</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">I. Доходы</td>
-<td>731376</td>
+<td colspan="2">755 623</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступление</td>
-<td>503235</td>
+<td colspan="2">527 450</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>350953</td>
+<td colspan="2">380 953</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>350953</td>
+<td colspan="2">380 953</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>151869</td>
+<td colspan="2">146 031</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>4143</td>
+<td colspan="2">4 253</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td>18511</td>
+<td colspan="2">21 631</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>128104</td>
+<td colspan="2">119 004</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td>1111</td>
+<td colspan="2">1 143</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>413</td>
+<td colspan="2">466</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>409</td>
+<td colspan="2">458</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>4</td>
+<td colspan="2">8</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>156</td>
+<td colspan="2">188</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>156</td>
+<td colspan="2">188</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>156</td>
+<td colspan="2">188</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>227985</td>
+<td colspan="2">227 985</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>227985</td>
+<td colspan="2">227 985</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>227985</td>
+<td colspan="2">227 985</td>
 </tr>
 <tr>
 <td></td>
@@ -2323,11 +2323,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2356,7 +2356,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>733343</td>
+<td colspan="2">757 590</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2364,7 +2364,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>70641</td>
+<td colspan="2">80 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2372,7 +2372,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>70641</td>
+<td colspan="2">80 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2380,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>70641</td>
+<td colspan="2">80 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2388,7 +2388,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>70641</td>
+<td colspan="2">80 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2396,7 +2396,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2404,7 +2404,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>391820</td>
+<td colspan="2">385 776</td>
 </tr>
 <tr>
 <td></td>
@@ -2412,7 +2412,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>391820</td>
+<td colspan="2">385 776</td>
 </tr>
 <tr>
 <td></td>
@@ -2420,7 +2420,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>391820</td>
+<td colspan="2">385 776</td>
 </tr>
 <tr>
 <td></td>
@@ -2428,7 +2428,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>241007</td>
+<td colspan="2">236 407</td>
 </tr>
 <tr>
 <td></td>
@@ -2436,7 +2436,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>17850</td>
+<td colspan="2">17 533</td>
 </tr>
 <tr>
 <td></td>
@@ -2444,7 +2444,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>132963</td>
+<td colspan="2">131 836</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2452,7 +2452,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>45334</td>
+<td colspan="2">45 334</td>
 </tr>
 <tr>
 <td></td>
@@ -2460,7 +2460,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>45334</td>
+<td colspan="2">45 334</td>
 </tr>
 <tr>
 <td></td>
@@ -2468,7 +2468,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45334</td>
+<td colspan="2">45 334</td>
 </tr>
 <tr>
 <td></td>
@@ -2476,7 +2476,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>30334</td>
+<td colspan="2">30334</td>
 </tr>
 <tr>
 <td></td>
@@ -2484,7 +2484,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>15 000</td>
+<td colspan="2">15 000</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2492,7 +2492,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>24448</td>
+<td colspan="2">24 448</td>
 </tr>
 <tr>
 <td></td>
@@ -2500,7 +2500,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>24448</td>
+<td colspan="2">24 448</td>
 </tr>
 <tr>
 <td></td>
@@ -2508,7 +2508,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>24448</td>
+<td colspan="2">24 448</td>
 </tr>
 <tr>
 <td></td>
@@ -2516,7 +2516,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Государственной программы развития регионов до 2025 года</td>
-<td>24448</td>
+<td colspan="2">24 448</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2524,7 +2524,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>201100</td>
+<td colspan="2">221 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2532,7 +2532,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>201100</td>
+<td colspan="2">221 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2540,7 +2540,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>201100</td>
+<td colspan="2">221 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2548,7 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>043</td>
 <td>Бюджетные изъятия</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2556,7 +2556,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>048</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>6</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -2564,7 +2564,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>051</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>201094</td>
+<td colspan="2">221 841</td>
 </tr>
 <tr>
 <td></td>
@@ -2572,7 +2572,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2580,7 +2580,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2588,11 +2588,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2614,7 +2614,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2622,7 +2622,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2630,7 +2630,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2638,7 +2638,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2646,11 +2646,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2679,7 +2679,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2687,11 +2687,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2711,7 +2711,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>6</td>
 <td></td>
 <td colspan="3">Поступления от продажи финансовых активов государства</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2719,11 +2719,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2745,7 +2745,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-1967</td>
+<td colspan="2">-1 967</td>
 </tr>
 <tr>
 <td></td>
@@ -2753,7 +2753,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использования профицита) бюджета</td>
-<td>1967</td>
+<td colspan="2">1 967</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2761,7 +2761,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2769,7 +2769,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2777,7 +2777,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>2</td>
 <td></td>
 <td>Договоры займа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2785,11 +2785,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2811,7 +2811,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>1967</td>
+<td colspan="2">1 967</td>
 </tr>
 <tr>
 <td></td>
@@ -2819,7 +2819,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>1967</td>
+<td colspan="2">1 967</td>
 </tr>
 <tr>
 <td></td>
@@ -2827,7 +2827,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>1967</td>
+<td colspan="2">1 967</td>
 </tr>
 <tr>
 <td></td>
@@ -2835,11 +2835,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2868,7 +2868,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2876,7 +2876,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2884,7 +2884,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2892,7 +2892,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2900,7 +2900,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>056</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -4338,12 +4338,12 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 
 # Бюджет Нуринского сельского округа на 2025 год
 
-> *Сноска. Приложение 25 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174(вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 25 в редакции решениями Талгарского районного маслихата Алматинской области от 19.03.2025 № 39-152 (вводится в действие с 01.01.2025); от 18.06.2025 № 43-174 (вводится в действие с 01.01.2025); от 29.10.2025 № 48-197 (вводится в действие с 01.01.2025); от 17.12.2025 № 51-207 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4365,112 +4365,112 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>3</td>
 <td></td>
 <td>4</td>
-<td>5</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">I. Доходы</td>
-<td>282934</td>
+<td colspan="2">279 635</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступление</td>
-<td>141202</td>
+<td colspan="2">137 903</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>96024</td>
+<td colspan="2">90 389</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>96024</td>
+<td colspan="2">90 389</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>42544</td>
+<td colspan="2">44 681</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>1253</td>
+<td colspan="2">1 321</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td>1673</td>
+<td colspan="2">1 792</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>38321</td>
+<td colspan="2">40 340</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td>1297</td>
+<td colspan="2">1 228</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>2634</td>
+<td colspan="2">2 833</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>2634</td>
+<td colspan="2">2 833</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>141732</td>
+<td colspan="2">141 732</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>141732</td>
+<td colspan="2">141 732</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>141732</td>
+<td colspan="2">141 732</td>
 </tr>
 <tr>
 <td></td>
@@ -4478,11 +4478,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4511,7 +4511,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>284269</td>
+<td colspan="2">280 970</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4519,7 +4519,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>89128</td>
+<td colspan="2">87 882</td>
 </tr>
 <tr>
 <td></td>
@@ -4527,7 +4527,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>89128</td>
+<td colspan="2">87 882</td>
 </tr>
 <tr>
 <td></td>
@@ -4535,7 +4535,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>89128</td>
+<td colspan="2">87 882</td>
 </tr>
 <tr>
 <td></td>
@@ -4543,7 +4543,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>59056</td>
+<td colspan="2">64 936</td>
 </tr>
 <tr>
 <td></td>
@@ -4551,7 +4551,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>30072</td>
+<td colspan="2">22 946</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4559,7 +4559,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>131734</td>
+<td colspan="2">123 982</td>
 </tr>
 <tr>
 <td></td>
@@ -4567,7 +4567,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>131734</td>
+<td colspan="2">123 982</td>
 </tr>
 <tr>
 <td></td>
@@ -4575,7 +4575,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>131734</td>
+<td colspan="2">123 982</td>
 </tr>
 <tr>
 <td></td>
@@ -4583,7 +4583,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>103160</td>
+<td colspan="2">103 160</td>
 </tr>
 <tr>
 <td></td>
@@ -4591,7 +4591,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1500</td>
+<td colspan="2">1 500</td>
 </tr>
 <tr>
 <td></td>
@@ -4599,7 +4599,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>27074</td>
+<td colspan="2">19 322</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4607,7 +4607,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>24022</td>
+<td colspan="2">23 773</td>
 </tr>
 <tr>
 <td></td>
@@ -4615,7 +4615,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>24022</td>
+<td colspan="2">23 773</td>
 </tr>
 <tr>
 <td></td>
@@ -4623,7 +4623,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>24022</td>
+<td colspan="2">23 773</td>
 </tr>
 <tr>
 <td></td>
@@ -4631,7 +4631,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>12022</td>
+<td colspan="2">11 773</td>
 </tr>
 <tr>
 <td></td>
@@ -4639,7 +4639,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>12 000</td>
+<td colspan="2">12 000</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4647,7 +4647,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>5788</td>
+<td colspan="2">5 788</td>
 </tr>
 <tr>
 <td></td>
@@ -4655,7 +4655,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>5788</td>
+<td colspan="2">5 788</td>
 </tr>
 <tr>
 <td></td>
@@ -4663,7 +4663,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5788</td>
+<td colspan="2">5 788</td>
 </tr>
 <tr>
 <td></td>
@@ -4671,7 +4671,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Государственной программы развития регионов до 2025 года</td>
-<td>5788</td>
+<td colspan="2">5 788</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4679,7 +4679,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>33597</td>
+<td colspan="2">39 545</td>
 </tr>
 <tr>
 <td></td>
@@ -4687,7 +4687,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>33597</td>
+<td colspan="2">39 545</td>
 </tr>
 <tr>
 <td></td>
@@ -4695,7 +4695,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33597</td>
+<td colspan="2">39 545</td>
 </tr>
 <tr>
 <td></td>
@@ -4703,7 +4703,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>043</td>
 <td>Бюджетные изъятия</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4711,7 +4711,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>048</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>83</td>
+<td colspan="2">83</td>
 </tr>
 <tr>
 <td></td>
@@ -4719,7 +4719,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>051</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>33514</td>
+<td colspan="2">39 462</td>
 </tr>
 <tr>
 <td></td>
@@ -4727,7 +4727,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4735,7 +4735,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4743,11 +4743,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4769,7 +4769,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4777,7 +4777,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4785,7 +4785,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4793,7 +4793,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4801,11 +4801,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4834,7 +4834,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4842,11 +4842,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4866,7 +4866,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>6</td>
 <td></td>
 <td colspan="3">Поступления от продажи финансовых активов государства</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4874,11 +4874,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4900,7 +4900,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-1335</td>
+<td colspan="2">-1 335</td>
 </tr>
 <tr>
 <td></td>
@@ -4908,7 +4908,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использования профицита) бюджета</td>
-<td>1335</td>
+<td colspan="2">1 335</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4916,7 +4916,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4924,7 +4924,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4932,7 +4932,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>2</td>
 <td></td>
 <td>Договоры займа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -4940,11 +4940,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4966,7 +4966,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>1335</td>
+<td colspan="2">1 335</td>
 </tr>
 <tr>
 <td></td>
@@ -4974,7 +4974,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>1335</td>
+<td colspan="2">1 335</td>
 </tr>
 <tr>
 <td></td>
@@ -4982,7 +4982,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>1335</td>
+<td colspan="2">1 335</td>
 </tr>
 <tr>
 <td></td>
@@ -4990,11 +4990,11 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5023,7 +5023,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -5031,7 +5031,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -5039,7 +5039,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -5047,7 +5047,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -5055,7 +5055,7 @@ source: https://zan.gov.kz/client/#!/doc/206465/rus/29.10.2025
 <td></td>
 <td>056</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
