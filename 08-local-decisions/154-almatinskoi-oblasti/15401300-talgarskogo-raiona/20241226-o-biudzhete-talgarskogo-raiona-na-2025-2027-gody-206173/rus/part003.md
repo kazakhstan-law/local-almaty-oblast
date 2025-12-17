@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206173/rus/24.10.2025
+source: https://zan.gov.kz/client/#!/doc/206173/rus/17.12.2025
 ---
 
 > *Приложение 3 к решению Талгарского районного маслихата от 26 декабря 2024 года № 35-128*
