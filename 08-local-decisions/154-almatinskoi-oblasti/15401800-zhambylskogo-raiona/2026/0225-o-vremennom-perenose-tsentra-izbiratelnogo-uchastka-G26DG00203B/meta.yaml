@@ -1,0 +1,24 @@
+key: G26DG00203B
+akn: /akn/kz/act/2026-02-25/G26DG00203B
+act_code: '222758'
+requisite: Решение акима Жамбылского района Алматинской области от 25 февраля 2026 года № 02-03
+title:
+  rus: О временном переносе центра избирательного участка
+  kaz: Сайлау учаскесінің орталығын уақытша ауыстыру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-02-25
+approved_by:
+- '154018000003'
+versions:
+- date: 2026-02-25
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-02-25
+  rus: 2026-02-25
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222758/kaz/25.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/222758/rus/25.02.2026
