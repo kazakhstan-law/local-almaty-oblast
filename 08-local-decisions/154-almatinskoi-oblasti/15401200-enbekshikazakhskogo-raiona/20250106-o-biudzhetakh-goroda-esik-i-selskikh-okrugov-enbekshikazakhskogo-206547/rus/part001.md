@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206547/rus/17.12.2025
+source: https://zan.gov.kz/client/#!/doc/206547/rus/27.02.2026
 ---
 
 > *Приложение 1 к решению Енбекшиказахского районного маслихата от «6» января 2025 года № VIII-36-163*
