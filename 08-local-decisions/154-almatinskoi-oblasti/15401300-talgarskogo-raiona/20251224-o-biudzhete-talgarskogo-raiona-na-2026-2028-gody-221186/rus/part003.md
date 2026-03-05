@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/221186/rus/24.12.2025
+source: https://zan.gov.kz/client/#!/doc/221186/rus/05.03.2026
 ---
 
 > *Приложение 3 к решению Талгарского районного маслихата № 52-211 от 24 декабря 2025 года*
