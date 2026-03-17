@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220389/kaz/25.12.2025
+source: https://zan.gov.kz/client/#!/doc/220389/kaz/17.03.2026
 ---
 
 > *Қонаев қаласы мәслихатының 2025 жылғы 25 желтоқсандағы № 56-188 шешіміне 4-қосымша*
