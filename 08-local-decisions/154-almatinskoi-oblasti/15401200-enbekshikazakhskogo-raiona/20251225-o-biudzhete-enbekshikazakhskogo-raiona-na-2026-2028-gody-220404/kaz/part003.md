@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220404/kaz/25.12.2025
+source: https://zan.gov.kz/client/#!/doc/220404/kaz/03.04.2026
 ---
 
 > *Еңбекшіқазақ аудандық мәслихатының 2025 жылғы «25» желтоқсандағы № VIII-52-237 шешіміне 3- қосымша*
