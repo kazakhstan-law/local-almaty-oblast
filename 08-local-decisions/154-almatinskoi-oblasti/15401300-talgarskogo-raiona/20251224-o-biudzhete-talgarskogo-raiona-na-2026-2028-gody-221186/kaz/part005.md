@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/221186/kaz/05.03.2026
+source: https://zan.gov.kz/client/#!/doc/221186/kaz/20.05.2026
 ---
 
 > *Талғар ауданының мәслихатының 2025 жылғы 24 желтоқсандағы № 52-211 шешіміне 5-қосымша*
