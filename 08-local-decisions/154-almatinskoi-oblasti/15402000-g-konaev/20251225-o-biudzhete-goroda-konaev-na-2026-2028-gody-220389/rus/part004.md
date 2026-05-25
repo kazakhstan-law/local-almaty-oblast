@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220389/rus/17.03.2026
+source: https://zan.gov.kz/client/#!/doc/220389/rus/25.05.2026
 ---
 
 > *Приложение 4 к решению маслихата города Қонаев от 25 декабря 2025 года № 56-188*
