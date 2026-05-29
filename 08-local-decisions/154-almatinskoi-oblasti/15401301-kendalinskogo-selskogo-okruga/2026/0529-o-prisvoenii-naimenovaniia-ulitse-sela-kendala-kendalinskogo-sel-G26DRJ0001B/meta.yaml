@@ -1,0 +1,25 @@
+key: G26DRJ0001B
+akn: /akn/kz/act/2026-05-29/G26DRJ0001B
+act_code: '225865'
+requisite: Решение акима Кендалинского сельского округа Талгарского района Алматинской области от 29 мая 2026 года № 1
+title:
+  rus: О присвоении наименования улице села Кендала Кендалинского сельского округа
+  kaz: Кеңдала ауылдық округінің Кеңдала ауылындағы көшеге атау беру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-05-29
+in_force_from: 2026-06-13
+approved_by:
+- '154013010002'
+versions:
+- date: 2026-05-29
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-05-29
+  rus: 2026-05-29
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/225865/kaz/29.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/225865/rus/29.05.2026
