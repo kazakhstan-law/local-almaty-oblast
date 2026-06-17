@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219281/kaz/15.05.2026
+source: https://zan.gov.kz/client/#!/doc/219281/kaz/17.06.2026
 ---
 
 > *2025 жылғы 15 желтоқсандағы Алматы облыстық мәслихатының № 44-248 шешіміне 5-қосымша*

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/219281/rus/15.05.2026
+source: https://zan.gov.kz/client/#!/doc/219281/rus/17.06.2026
 ---
 
 > *Приложение 5 к решению Алматинского областного маслихата от 15 декабря 2025 года № 44-248*
