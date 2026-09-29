@@ -1,0 +1,38 @@
+name: Проверки правки
+
+on:
+  pull_request:
+
+env:
+  BASE_SHA: ${{ github.event.pull_request.base.sha }}
+
+jobs:
+  higher-norm:
+    name: "1 · Вышестоящая норма (прототип)"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch --depth=1 origin "$BASE_SHA"
+      - run: python3 .github/checks/higher_norm.py
+        working-directory: .
+        env: { PYTHONPATH: .github/checks }
+
+  bilingual:
+    name: "2 · Соответствие между языками"
+    needs: higher-norm
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch --depth=1 origin "$BASE_SHA"
+      - run: python3 .github/checks/bilingual.py
+        env: { PYTHONPATH: .github/checks }
+
+  format:
+    name: "3 · Оформление"
+    needs: bilingual
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch --depth=1 origin "$BASE_SHA"
+      - run: python3 .github/checks/format.py
+        env: { PYTHONPATH: .github/checks }
