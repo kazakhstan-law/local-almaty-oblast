@@ -45,17 +45,24 @@ versions:
   cause:
     code: '229495'
     key: G26DU03490M
+- date: 2026-10-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '231748'
+    key: G26DU03696M
 version_date:
-  kaz: 2026-08-21
-  rus: 2026-08-21
+  kaz: 2026-10-10
+  rus: 2026-10-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/220391/kaz/21.08.2026
-  rus: https://zan.gov.kz/client/#!/doc/220391/rus/21.08.2026
+  kaz: https://zan.gov.kz/client/#!/doc/220391/kaz/10.10.2026
+  rus: https://zan.gov.kz/client/#!/doc/220391/rus/10.10.2026
 caused_by:
-  code: '229495'
-  key: G26DU03490M
-  requisite: Решение маслихата города Алатау Алматинской области от 21 августа 2026 года № 34-90
+  code: '231748'
+  key: G26DU03696M
+  requisite: Решение маслихата города Алатау Алматинской области от 10 октября 2026 года № 36-96
   title:
     rus: О внесении измении в решение маслихата города Алатау от 25 декабря № 26-68 «О бюджете города Алатау на 2026-2028 годы»
     kaz: Алатау қаласы мәслихатының 2025 жылдың 25 желтоқсанындағы № 26-68 «Алатау қаласының 2026-2028 жылдарға арналған бюджеті туралы» шешіміне өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/229495/rus
+  link: https://zan.gov.kz/client/#!/doc/231748/rus
